@@ -1,0 +1,5492 @@
+Date,City,State
+2/13/17 9:01,Phoenix,AZ
+2/13/17 15:37,Cincinnati,OH
+2/13/17 16:56,Louisville,KY
+2/13/17 18:37,Thibodaux,LA
+2/14/17 11:55,Davis,CA
+2/14/17 13:45,Harrisburg,IL
+2/14/17 16:11,Danville,VA
+2/14/17 16:11,San Luis Obispo,CA
+2/14/17 18:15,San Diego,CA
+2/14/17 21:04,Rockford,IL
+2/15/17 7:00,Seattle,WA
+2/15/17 10:26,San Francisco,CA
+2/15/17 11:07,Joplin,MO
+2/15/17 11:07,Fairfield,Connecticut
+2/15/17 13:00,Greensboro,NC
+2/15/17 13:41,New York,New York
+2/15/17 23:31,Sacramento,CA
+2/17/17 7:18,New York,NY
+2/17/17 13:22,Lansing,MI
+2/17/17 14:41,New York,NY
+2/17/17 15:55,Woods Hole,MA
+2/18/17 6:01,Redwood City,CA
+2/20/17 17:07,Greensboro,NC
+2/21/17 13:22,New York,NY
+2/21/17 14:18,Olympia,Washington
+2/21/17 15:26,Orlando,FL
+2/21/17 15:50,St. Louis,MO
+2/21/17 16:33,Los Angeles,CA
+2/22/17 5:08,Rock Hill,SC
+2/22/17 7:45,Wichita,KS
+2/22/17 8:05,Washington,DC
+2/22/17 8:41,Lexington,KY
+2/22/17 9:01,Norfolk,Virginia
+2/23/17 1:00,New York,NY
+2/23/17 1:33,Everett,WA
+2/23/17 4:22,Owosso,MI
+2/23/17 5:07,Butler,PA
+2/23/17 5:19,Merced,CA
+2/23/17 5:28,San Francisco,CA
+2/23/17 5:41,New York,NY
+2/23/17 7:22,Kansas City,MO
+2/23/17 8:14,New York,New York
+2/23/17 8:57,New York,NY
+2/23/17 10:28,Pittsburgh,PA
+2/23/17 11:45,Cadillac,MI
+2/23/17 12:38,Allentown,PA
+2/23/17 14:30,New York,NY
+2/23/17 14:52,Allentown,PA
+2/23/17 15:26,Albany,NY
+2/23/17 17:07,Westminster,MD
+2/23/17 17:07,Lancaster,PA
+2/23/17 19:07,Altadena,California
+2/23/17 19:45,St. Louis,MO
+2/23/17 22:00,Las Vegas,NV
+2/23/17 23:37,Birmingham,MI
+2/24/17 0:51,New Bern,NC
+2/24/17 0:58,Rockford,IL
+2/24/17 1:04,New York,NY
+2/24/17 1:45,Columbia,South Carolina
+2/24/17 1:45,Midland,TX
+2/24/17 1:49,New York,NY
+2/24/17 1:55,Cadillac,MI
+2/24/17 1:59,Lubbock,TX
+2/24/17 2:05,Colorado Springs,Colorado
+2/24/17 2:06,Altadena,California
+2/24/17 2:18,Cambridge,MA
+2/24/17 3:15,Altadena,California
+2/24/17 4:58,Laredo,TX
+2/24/17 5:52,Baltimore,MD
+2/24/17 6:07,Winona,MN
+2/24/17 6:12,Missoula,MT
+2/24/17 7:00,Charlotte,NC
+2/24/17 7:11,Abilene,TX
+2/24/17 8:07,Bemidji,MN
+2/24/17 8:11,Grand Forks,ND
+2/24/17 8:55,Washington,DC
+2/24/17 9:03,Albuquerque,NM
+2/24/17 9:15,Weslaco,TX
+2/24/17 9:37,Beckley,WV
+2/24/17 10:00,San Francisco,CA
+2/24/17 11:30,Hallock,MN
+2/24/17 14:05,West Lafayette,Indiana
+2/24/17 15:15,Columbia,MS
+2/24/17 16:11,Boise,ID
+2/24/17 21:37,Catskill,NY
+2/25/17 6:48,Springfield,MO
+2/25/17 8:29,Nashville,Tennessee
+2/25/17 8:40,St. Paul,MN
+2/25/17 11:52,Bowling Green,KY
+2/25/17 12:06,Grand Island,NE
+2/25/17 12:48,Greensboro,NC
+2/25/17 13:03,San Luis Obispo,CA
+2/25/17 13:08,Lafayette,LA
+2/25/17 13:45,Salisbury,MD
+2/25/17 14:07,Baltimore,MD
+2/26/17 23:22,Washington,DC
+2/27/17 1:19,Great Falls,MT
+2/27/17 6:03,Washington,DC
+2/27/17 7:08,Rock Hill,SC
+2/27/17 7:14,Washington,DC
+2/27/17 10:21,Washington,DC
+2/27/17 10:45,Reno,NV
+2/27/17 14:04,Ypsilanti,MI
+2/27/17 14:41,Topeka,KS
+2/27/17 15:03,Washington,DC
+2/27/17 15:37,Miami,FL
+2/27/17 16:41,Great Falls,MT
+2/27/17 19:45,New York,NY
+2/28/17 5:49,New York,NY
+2/28/17 6:26,New York,NY
+2/28/17 6:48,Altadena,California
+2/28/17 6:48,Washington DC,NY
+2/28/17 8:41,Sacramento,CA
+2/28/17 9:48,Louisville,KY
+2/28/17 10:56,Wausau,Wisconsin
+2/28/17 11:41,Chesterton,IN
+2/28/17 12:37,Sarasota,FL
+2/28/17 13:23,Lexington,KY
+2/28/17 13:59,New Bern,NC
+2/28/17 14:18,Sonoma,CA
+2/28/17 15:42,Raleigh,NC
+2/28/17 16:09,Will County,Illinois
+2/28/17 18:30,Chattanooga,TN
+2/28/17 18:37,Oklahoma City,OK
+2/28/17 19:22,Houston,TX
+3/1/17 2:53,Miami,FL
+3/1/17 6:15,New York,NY
+3/1/17 6:48,Jacksonville,FL
+3/1/17 9:26,Cocoa,FL
+3/1/17 10:56,San Diego,CA
+3/1/17 13:21,New York,NY
+3/2/17 3:03,Waltham,MA
+3/2/17 3:41,Washington,DC
+3/2/17 4:33,Rockville,MD
+3/2/17 6:01,New York,NY
+3/2/17 6:15,Montgomery,AL
+3/2/17 6:37,Washington,DC
+3/2/17 6:48,Kalamazoo,Michigan
+3/2/17 7:06,Rochester,NY
+3/2/17 7:33,Stroudsburg,PA
+3/2/17 7:37,Altadena,California
+3/2/17 7:45,Murray,KY
+3/2/17 8:30,Park Forest,IL
+3/2/17 9:03,Queens,NY
+3/2/17 9:03,Seattle,Washington
+3/2/17 9:10,West Palm Beach,FL
+3/2/17 9:15,Queens,NY
+3/2/17 9:15,Kalamazoo,Michigan
+3/2/17 9:25,Columbus,OH
+3/2/17 10:13,San Luis Obispo,CA
+3/2/17 10:13,Wausau,WI
+3/2/17 10:14,West Palm Beach,FL
+3/2/17 10:15,Lincoln,NE
+3/2/17 10:20,Lexington,KY
+3/2/17 10:20,Rockford,IL
+3/2/17 10:20,Colorado Springs,Colorado
+3/2/17 10:22,Las Vegas,NV
+3/2/17 10:25,Denver,CO
+3/2/17 11:00,Phoenix,AZ
+3/2/17 11:31,Columbus,OH
+3/2/17 11:41,West Palm Beach,FL
+3/2/17 12:03,Washington,DC
+3/2/17 12:09,Los Angeles,CA
+3/2/17 12:25,New York,NY
+3/2/17 13:00,Las Vegas,NV
+3/2/17 13:09,San Leandro,CA
+3/2/17 13:33,New Bern,NC
+3/2/17 13:33,New York,New York
+3/2/17 13:35,Altadena,California
+3/2/17 13:43,Munster,IN
+3/2/17 13:45,Chester,New York
+3/2/17 13:45,Sarasota,FL
+3/2/17 14:08,Los Angeles,CA
+3/2/17 14:10,Jacksonville,NC
+3/2/17 14:41,Columbus,OH
+3/2/17 16:45,New York,NY
+3/2/17 17:07,Danbury,CT
+3/2/17 17:07,Philadelphia,PA
+3/2/17 18:02,Tucson,Arizona
+3/2/17 18:37,New York,NY
+3/2/17 19:11,Altadena,California
+3/2/17 19:33,Washington,DC
+3/2/17 20:09,New York,NY
+3/2/17 20:52,Austin,MN
+3/2/17 21:03,Lansing,New York
+3/2/17 21:26,Rockford,IL
+3/2/17 21:26,North Charleston,SC
+3/2/17 21:26,Helena,Montana
+3/2/17 21:26,Fort Myers,FL
+3/2/17 21:26,Honolulu,HI
+3/2/17 21:37,Key West,FL
+3/2/17 22:00,St. Louis,MO
+3/3/17 0:37,New York,NY
+3/3/17 2:16,San Ramon,CA
+3/3/17 2:29,Grand Rapids,Michigan
+3/3/17 2:41,Altadena,California
+3/3/17 5:41,Elizabeth,New Jersey
+3/3/17 5:45,Bayside,New York
+3/3/17 5:46,Montgomery,AL
+3/3/17 6:37,Somers,NY
+3/3/17 7:22,Las Vegas,NV
+3/3/17 7:44,Washington,DC
+3/3/17 7:45,New York,New York
+3/3/17 8:18,Pueblo,CO
+3/3/17 9:25,New York,NY
+3/3/17 10:45,West Lafayette,IN
+3/3/17 10:45,Indianapolis,IN
+3/3/17 13:11,New York,NY
+3/3/17 13:33,Pittsburg,KS
+3/3/17 14:34,Sunnyside,Washington
+3/4/17 1:07,Portland,ME
+3/4/17 3:49,Elko,NV
+3/4/17 5:52,Myrtle Beach,SC
+3/4/17 10:30,Athens,GA
+3/4/17 11:52,New York,NY
+3/4/17 13:45,Cambridge,MA
+3/4/17 13:56,Woodland,CA
+3/4/17 14:41,Doral,Florida
+3/4/17 15:15,Washington,DC
+3/4/17 15:51,Chicago,IL
+3/4/17 16:51,Orlando,Florida
+3/4/17 17:07,Anchorage,Alaska
+3/4/17 18:37,Memphis,TN
+3/4/17 19:22,Altadena,California
+3/4/17 20:44,Normangee,TX
+3/4/17 21:15,New York,NY
+3/4/17 21:48,Altadena,California
+3/4/17 22:00,Santa Cruz,CA
+3/4/17 22:00,Decatur,AL
+3/5/17 0:03,Utica,New York
+3/5/17 1:15,Clearfield,PA
+3/5/17 1:42,New Orleans,LA
+3/5/17 1:56,Binghamton,New York
+3/5/17 2:07,Corpus Christi,Texas
+3/5/17 3:15,Indianapolis,IN
+3/5/17 3:15,Erie,PA
+3/5/17 5:41,Jacksonville,FL
+3/5/17 5:52,Richmond,VA
+3/5/17 6:46,Atlanta,GA
+3/5/17 7:45,Washington,DC
+3/5/17 7:56,Lihue,HI
+3/5/17 8:05,San Francisco,CA
+3/5/17 8:18,Boston,MA
+3/5/17 8:45,Phoenix,AZ
+3/5/17 9:07,Portland,OR
+3/5/17 9:32,Kent,Washington
+3/5/17 9:37,New York,NY
+3/5/17 9:44,Altadena,California
+3/5/17 10:00,Portland,OR
+3/5/17 10:44,Chicago,IL
+3/5/17 10:48,Houston,TX
+3/5/17 11:39,Pittsfield,MA
+3/5/17 11:59,New York,NY
+3/5/17 13:33,Colorado Springs,CO
+3/5/17 13:45,Charlotte,NC
+3/5/17 14:41,Los Angeles,CA
+3/5/17 14:59,Anchorage,AK
+3/5/17 15:03,Salt Lake City,Utah
+3/5/17 15:26,Altadena,California
+3/5/17 17:30,Washington,DC
+3/5/17 18:46,New York,NY
+3/5/17 19:25,Altadena,California
+3/5/17 20:04,Lockport,NY
+3/5/17 20:18,Altadena,California
+3/5/17 20:52,Concord,NH
+3/6/17 2:22,Bloomington,IL
+3/6/17 5:30,Billings,MT
+3/6/17 5:30,Bozeman,MT
+3/6/17 5:52,Seattle,WA
+3/6/17 8:35,New York,NY
+3/6/17 9:18,Wichita,KS
+3/6/17 9:44,Washington,D.C.
+3/6/17 10:08,Kansas City,Missouri
+3/6/17 10:22,Framingham,MA
+3/6/17 10:45,Seattle,WA
+3/6/17 10:56,Oklahoma City,OK
+3/6/17 11:41,Holland,MI
+3/6/17 13:14,Wilton Manors,Florida
+3/6/17 13:21,Washington,DC
+3/6/17 15:18,Lexington,KY
+3/6/17 15:43,New York,NY
+3/6/17 15:48,Kansas City,MO
+3/6/17 17:03,Spokane,WA
+3/6/17 17:10,Seattle,WA
+3/6/17 17:41,Altadena,California
+3/6/17 18:26,Louisville,KY
+3/6/17 19:43,Tacoma,WA
+3/6/17 21:37,Framingham,MA
+3/6/17 22:00,Houston,TX
+3/7/17 1:10,Altadena,California
+3/7/17 3:37,Beaumont,Texas
+3/7/17 3:37,Greenwich,CT
+3/7/17 4:04,Washington,DC
+3/7/17 5:20,St. Louis,MO
+3/7/17 6:15,New York,NY
+3/7/17 7:11,New York,NY
+3/7/17 7:33,Washington,DC
+3/7/17 7:39,New York,NY
+3/7/17 8:04,Tacoma,WA
+3/7/17 8:21,Wausau,WI
+3/7/17 8:41,New York,NY
+3/7/17 9:37,Ypsilanti,MI
+3/7/17 10:45,New York,NY
+3/7/17 11:52,Staten Island,NY
+3/7/17 12:15,Seattle,Washington
+3/7/17 12:15,New York,New York
+3/7/17 13:45,Louisville,KY
+3/7/17 13:45,Kent,Washington
+3/7/17 13:45,Lexington,KY
+3/7/17 13:45,Owosso,MI
+3/7/17 13:52,Louisville,KY
+3/7/17 14:18,Louisville,KY
+3/7/17 14:28,Washington,DC
+3/7/17 14:41,New York,NY
+3/7/17 15:29,Rochester,NY
+3/7/17 17:07,Colorado Springs,CO
+3/7/17 18:15,Kansas City,MO
+3/7/17 19:11,Louisville,KY
+3/7/17 21:15,Washington,DC
+3/8/17 1:45,New Providence,New Jersey
+3/8/17 3:26,Paducah,Kentucky
+3/8/17 5:13,Fort Wayne,IN
+3/8/17 7:11,Norwich,NY
+3/8/17 9:17,Washington,DC
+3/8/17 10:22,Miami,FL
+3/8/17 11:30,Fort Lauderdale,FL
+3/8/17 11:48,Topeka,KS
+3/8/17 12:37,Kansas City,MO
+3/8/17 13:33,Palatine,IL
+3/8/17 13:33,Winston-Salem,NC
+3/8/17 14:18,Lawrence,KS
+3/8/17 14:18,Hays,KS
+3/8/17 14:18,Gillette,WY
+3/8/17 14:54,Washington,DC
+3/8/17 14:56,Huntington,WV
+3/8/17 15:15,Dallas,Texas
+3/8/17 15:37,Chicago,IL
+3/8/17 15:37,Evansville,IN
+3/8/17 16:56,Raleigh,NC
+3/8/17 18:48,Altadena,California
+3/8/17 19:00,Pasadena,CA
+3/8/17 21:01,Nanuet,NY
+3/8/17 21:51,Youngstown,OH
+3/9/17 8:07,Framingham,MA
+3/9/17 8:41,Portland,OR
+3/9/17 9:37,Park Forest,IL
+3/9/17 10:22,Springfield,Illinois
+3/9/17 12:15,New York,NY
+3/9/17 12:35,Albany,New York
+3/9/17 12:37,Washington,DC
+3/9/17 13:45,Terre Haute,IN
+3/9/17 14:21,San Leandro,CA
+3/9/17 14:30,Kansas City,Missouri
+3/9/17 16:08,Washington,DC
+3/9/17 16:45,Attleboro,MA
+3/9/17 18:15,Aberdeen,SD
+3/9/17 19:22,Enumclaw,Washington
+3/9/17 19:45,Yakima,WA
+3/9/17 21:03,Richmond,KY
+3/9/17 21:26,Rock Hill,SC
+3/9/17 21:37,Portland,Oregon
+3/10/17 1:22,San Francisco,CA
+3/10/17 2:30,Cumming,GA
+3/10/17 5:07,Monroe,Washington
+3/10/17 6:24,Little Rock,AR
+3/10/17 7:32,New York,NY
+3/10/17 7:34,Atlanta,Georgia
+3/10/17 8:07,Denver,CO
+3/10/17 8:26,Staten Island,NY
+3/10/17 8:35,New York,NY
+3/10/17 8:53,Rochester,NY
+3/10/17 9:26,New York,NY
+3/10/17 11:05,Washington,DC
+3/10/17 11:24,Charlottesville,VA
+3/10/17 11:48,Washington,DC
+3/10/17 12:15,Albany,New York
+3/10/17 13:33,New York,New York
+3/10/17 13:45,Bozeman,MT
+3/10/17 13:45,Missoula,MT
+3/10/17 14:52,Washington,DC
+3/10/17 15:52,Rockville,MD
+3/10/17 16:40,Brattleboro,VT
+3/10/17 17:04,San Ramon,CA
+3/10/17 17:13,New York,New York
+3/10/17 18:12,Lihue,HI
+3/10/17 18:43,Minneapolis,MN
+3/10/17 20:18,Seattle,WA
+3/10/17 22:56,Houston,Texas
+3/11/17 5:07,Eugene,OR
+3/11/17 7:45,Washington,D.C.
+3/11/17 11:30,San Francisco,CA
+3/11/17 14:30,Kansas City,Missouri
+3/11/17 16:33,Bakersfield,CA
+3/11/17 19:51,Washington,DC
+3/11/17 20:35,Portland,OR
+3/12/17 5:45,Missoula,MT
+3/12/17 7:51,Greenwich,CT
+3/12/17 8:00,Columbia,MO
+3/12/17 9:18,Boise,ID
+3/12/17 9:18,Chicago,IL
+3/12/17 9:18,Middletown,CT
+3/12/17 14:11,Renton,Washington
+3/12/17 17:11,New York,NY
+3/12/17 18:30,San Diego,California
+3/12/17 19:32,Baltimore,MD
+3/12/17 19:47,Atherton,CA
+3/12/17 20:33,St. Louis,MO
+3/12/17 21:07,Alpena,MI
+3/13/17 5:00,Newton,Kansas
+3/13/17 8:56,Bakersfield,CA
+3/13/17 9:15,Birmingham,AL
+3/13/17 9:18,Washington,DC
+3/13/17 9:30,Durham,CT
+3/13/17 10:21,Charlotte,NC
+3/13/17 11:33,New York,NY
+3/13/17 12:18,Costa Mesa,CA
+3/13/17 13:26,Eugene,OR
+3/13/17 14:00,New York,NY
+3/13/17 14:33,Montgomery,AL
+3/13/17 15:30,Rosenberg,Texas
+3/13/17 16:03,West Palm Beach,FL
+3/13/17 16:09,Brooklyn,New York
+3/13/17 16:26,West Palm Beach,FL
+3/13/17 19:15,Westport,CT
+3/13/17 21:07,Harlingen,TX
+3/13/17 23:56,New York,NY
+3/14/17 7:20,Hobrook,MA
+3/14/17 7:48,Brockton,MA
+3/14/17 8:11,San Leandro,CA
+3/14/17 10:37,New York,NY
+3/14/17 11:16,New York,NY
+3/14/17 11:19,Brooklyn,New York
+3/14/17 11:56,San Ramon,CA
+3/14/17 12:30,New York,NY
+3/14/17 15:52,New York,NY
+3/14/17 16:37,New York,NY
+3/14/17 20:55,Portland,OR
+3/14/17 22:48,Seattle,WA
+3/14/17 23:56,Colorado Springs,CO
+3/15/17 9:30,Detroit,MI
+3/15/17 12:07,Seattle,WA
+3/15/17 12:52,Los Angeles,CA
+3/15/17 13:36,Washington,DC
+3/15/17 14:17,Issaquah,Washington
+3/15/17 17:56,New York,NY
+3/15/17 19:48,Oakland,CA
+3/16/17 5:45,Montgomery,AL
+3/16/17 6:30,Washington,DC
+3/16/17 6:30,Spokane,WA
+3/16/17 6:59,Sioux Falls,SD
+3/16/17 7:03,New York,NY
+3/16/17 8:21,Logan,Utah
+3/16/17 8:56,Washington,District of Columbia
+3/16/17 9:30,Hilton Head Island,SC
+3/16/17 9:39,Rock Hill,SC
+3/16/17 10:48,Kansas City,Missouri
+3/16/17 10:52,Providence,RI
+3/16/17 11:00,Farmington,MN
+3/16/17 11:00,Newton,MA
+3/16/17 12:18,Washington,DC
+3/16/17 12:30,Laredo,TX
+3/16/17 13:54,Bayside,New York
+3/16/17 14:06,Biloxi,MS
+3/16/17 14:20,Denver,Colorado
+3/16/17 14:39,Los Angeles,CA
+3/16/17 15:38,San Leandro,CA
+3/16/17 17:11,San Luis Obispo,CA
+3/16/17 17:11,Fresno,CA
+3/16/17 19:48,Los Angeles,CA
+3/16/17 20:00,Moline,IL
+3/16/17 22:03,San Francisco,CA
+3/16/17 23:22,Pittsburgh,PA
+3/17/17 6:07,Bellingham,Washington
+3/17/17 6:07,New Bethlehem,PA
+3/17/17 6:17,Laredo,TX
+3/17/17 6:40,Seattle,WA
+3/17/17 8:00,Topeka,KS
+3/17/17 8:00,Lawrence,KS
+3/17/17 8:00,Liberal,KS
+3/17/17 10:32,Birmingham,AL
+3/17/17 10:32,Wichita,KS
+3/17/17 11:11,Washington,DC
+3/17/17 12:30,San Leandro,CA
+3/17/17 16:15,St. Louis,MO
+3/17/17 16:48,Tucson,Arizona
+3/17/17 16:58,Santa Rosa,CA
+3/18/17 11:44,Seattle,WA
+3/18/17 15:26,Wausau,WI
+3/18/17 19:15,Washington,DC
+3/19/17 7:07,New York,New York
+3/19/17 12:52,New York,NY
+3/19/17 19:37,Wausau,WI
+3/20/17 0:30,Astoria,Oregon
+3/20/17 0:41,Albuquerque,NM
+3/20/17 0:41,Wausau,WI
+3/20/17 13:03,La Crosse,WI
+3/20/17 17:28,Sarasota,FL
+3/20/17 17:56,Staten Island,NY
+3/21/17 14:59,Fort Myers,FL
+3/22/17 10:15,New York,New York
+3/22/17 14:56,Burlington,NC
+3/22/17 22:10,Charlotte,NC
+3/23/17 3:30,New York,NY
+3/23/17 3:52,New York,NY
+3/23/17 4:03,Philadelphia,PA
+3/23/17 4:12,New York,NY
+3/23/17 8:22,Mountain View,CA
+3/23/17 9:52,New York,NY
+3/23/17 11:00,New York,NY
+3/23/17 11:45,San Francisco,CA
+3/23/17 11:51,Minneapolis,MN
+3/23/17 12:09,New York,NY
+3/23/17 12:36,Pensacola,FL
+3/23/17 12:41,New York City,New York
+3/23/17 20:22,Fargo,North Dakota
+3/23/17 23:37,New York,NY
+3/24/17 11:11,Jackson,MS
+3/24/17 11:11,Seattle,WA
+3/24/17 11:56,West Palm Beach,Florida
+3/24/17 13:10,Washington,District of Columbia
+3/24/17 13:26,Waltham,MA
+3/24/17 13:34,Kansas City,KS
+3/24/17 14:36,Stevens Point,WI
+3/24/17 14:45,Cape Girardeau,MO
+3/24/17 14:56,Anthem,Arizona
+3/24/17 16:14,Emeryville,CA
+3/24/17 16:15,Baltimore,MD
+3/24/17 16:26,Sheboygan,WI
+3/24/17 18:18,Washington,DC
+3/24/17 19:26,Houma,Louisiana
+3/24/17 23:33,Union City,CA
+3/25/17 1:48,Altadena,California
+3/25/17 2:00,Chicago,IL
+3/25/17 2:33,Waltham,MA
+3/25/17 5:22,Washington,DC
+3/25/17 7:26,Bellevue,WA
+3/25/17 8:56,Oklahoma City,OK
+3/25/17 14:00,Milwaukee,WI
+3/25/17 17:45,Kennewick,WA
+3/25/17 20:30,New Haven,CT
+3/26/17 8:18,Denver,CO
+3/26/17 16:15,Columbus,OH
+3/26/17 16:37,Kansas City,Missouri
+3/26/17 17:22,Wichita,KS
+3/26/17 23:16,Oak Park,MI
+3/27/17 4:37,Orlando,FL
+3/27/17 7:14,Greeneville,TN
+3/27/17 7:45,New York,New York
+3/27/17 10:17,Wichita,KS
+3/27/17 11:49,San Ramon,CA
+3/27/17 12:41,San Diego,Ca
+3/27/17 13:03,Washington,DC
+3/27/17 13:37,New York City,New York
+3/27/17 13:44,New York,NY
+3/27/17 14:05,Charlotte,NC
+3/27/17 14:08,Colorado Springs,Colorado
+3/27/17 14:13,Spokane,WA
+3/27/17 14:14,Youngstown,OH
+3/27/17 14:33,New York,NY
+3/27/17 14:45,St. Louis,MO
+3/27/17 14:59,Baltimore,MD
+3/27/17 15:07,Buffalo,NY
+3/27/17 15:52,Tempe,Arizona
+3/27/17 15:54,New York,NY
+3/27/17 17:11,Eugene,Oregon
+3/27/17 17:11,Amarillo,Texas
+3/27/17 17:31,Denver,CO
+3/27/17 17:45,South San Francisco,CA
+3/28/17 4:03,Tampa,Florida
+3/28/17 7:03,White Plains,NY
+3/28/17 8:10,El Paso,TX
+3/28/17 8:45,Oakland,CA
+3/28/17 9:07,Tampa,FL
+3/28/17 13:31,Sacramento,CA
+3/28/17 17:11,New Haven,CT
+3/29/17 4:31,Washington,DC
+3/29/17 9:52,Seattle,Washington
+3/29/17 10:11,Glens Falls,NY
+3/29/17 13:03,Forest Grove,OR
+3/29/17 13:14,Forest Grove,OR
+3/29/17 13:26,New York,NY
+3/29/17 18:58,Charlotte,NC
+3/29/17 20:45,San Francisco,CA
+3/29/17 21:18,New York,NY
+3/30/17 6:52,Miami,FL
+3/30/17 7:53,Suwanee,GA
+3/30/17 9:07,Kansas City,MO
+3/30/17 11:00,Englewood,CO
+3/30/17 15:52,Milwaukee,WI
+3/31/17 5:49,Washington,DC
+3/31/17 5:55,Green Bay,WI
+3/31/17 7:15,New York,NY
+3/31/17 7:15,Bradenton,FL
+3/31/17 7:21,Olympia,Washington
+3/31/17 8:00,Phoenix,AZ
+3/31/17 8:33,Albuquerque,NM
+3/31/17 8:47,San Francisco,CA
+3/31/17 10:26,Portland,Oregon
+3/31/17 14:11,Staten Island,NY
+3/31/17 14:45,Missoula,MT
+3/31/17 14:45,Erie,PA
+3/31/17 14:56,Bangor,ME
+3/31/17 14:56,Bangor,ME
+3/31/17 15:41,Washington,DC
+4/1/17 7:22,New York,NY
+4/1/17 8:20,Hartford,CT
+4/1/17 10:10,Washington,DC
+4/1/17 11:45,Normangee,TX
+4/1/17 13:15,Rosenberg,Texas
+4/1/17 18:18,San Francisco,CA
+4/2/17 8:22,Rock Hill,SC
+4/3/17 2:17,Bayside,New York
+4/3/17 3:10,Altadena,California
+4/3/17 3:18,Richmond,KY
+4/3/17 4:37,New York,NY
+4/3/17 5:00,Washington,DC
+4/3/17 5:41,New York,NY
+4/3/17 6:38,New York,NY
+4/3/17 9:16,Seattle,WA
+4/3/17 9:37,New York,NY
+4/3/17 9:38,San Leandro,CA
+4/3/17 10:04,New York,NY
+4/3/17 10:18,New York,NY
+4/3/17 11:00,New York,NY
+4/3/17 12:18,Renton,Washington
+4/3/17 13:00,Richmond,VA
+4/3/17 13:24,Hartford,CT
+4/3/17 14:56,Seattle,WA
+4/3/17 15:07,New York,NY
+4/3/17 15:11,Cleveland,OH
+4/3/17 15:58,New York,NY
+4/3/17 17:59,Fort Collins,CO
+4/3/17 19:19,Denver,CO
+4/4/17 5:57,Woodbury,NJ
+4/4/17 6:18,Bend,Oregon
+4/4/17 8:41,Springfield,MA
+4/4/17 9:52,Arlington,Virginia
+4/4/17 12:18,New York,NY
+4/4/17 12:30,San Leandro,CA
+4/4/17 13:26,Milwaukee,WI
+4/4/17 13:27,New York,New York
+4/4/17 13:48,Villa Park,CA
+4/4/17 17:11,Palm Desert,CA
+4/4/17 19:48,Whittier,CA
+4/5/17 5:56,Altadena,California
+4/5/17 6:49,Los Angeles,CA
+4/5/17 8:00,San Diego,CA
+4/5/17 8:58,Richmond,VA
+4/5/17 10:28,West Palm Beach,Florida
+4/5/17 10:37,Los Angeles,CA
+4/5/17 10:50,New York,NY
+4/5/17 11:55,Palm Desert,CA
+4/5/17 12:05,Los Angeles,CA
+4/5/17 12:52,Wichita,KS
+4/5/17 13:26,Los Angeles,CA
+4/5/17 14:22,Philadelphia,PA
+4/5/17 14:45,Oklahoma City,OK
+4/5/17 15:18,Jacksonville,FL
+4/5/17 16:26,Cincinnati,OH
+4/5/17 16:34,Washington,DC
+4/5/17 17:45,Butte,MT
+4/5/17 17:45,Fort Myers,FL
+4/5/17 17:45,Honolulu,HI
+4/5/17 17:45,Bozeman,MT
+4/5/17 18:18,Akron,OH
+4/5/17 20:56,Toledo,OH
+4/5/17 21:23,Los Angeles,CA
+4/6/17 4:48,Davis,CA
+4/6/17 6:52,Washington DC,NY
+4/6/17 8:56,Milwaukee,Wisconsin
+4/6/17 9:15,Palm Beach,FL
+4/6/17 9:41,St-Cloud,MN
+4/6/17 9:45,Los Angeles,CA
+4/6/17 10:28,Madison,WI
+4/6/17 10:48,Phoenix,AZ
+4/6/17 11:26,New York,NY
+4/6/17 11:33,Los Angeles,CA
+4/6/17 11:56,Hudson,WI
+4/6/17 12:10,Chicago,IL
+4/6/17 12:24,San Ramon,CA
+4/6/17 12:52,Minnetonka,MN
+4/6/17 13:03,Madison,WI
+4/6/17 14:11,Waco,TX
+4/6/17 18:52,Camarillo,CA
+4/6/17 23:22,Washington,DC
+4/7/17 3:07,Milwaukee,WI
+4/7/17 5:56,Utica,NY
+4/7/17 6:30,Phoenix,AZ
+4/7/17 7:48,New York,NY
+4/7/17 8:22,Raleigh,North Carolina
+4/7/17 8:31,Charlotte,NC
+4/7/17 8:32,Charlotte,NC
+4/7/17 8:45,Chicago,IL
+4/7/17 8:45,Chicago,IL
+4/7/17 9:45,Charlotte,NC
+4/7/17 10:38,Bayside,New York
+4/7/17 10:45,Charlotte,North Carolina
+4/7/17 10:48,Charlotte,NC
+4/7/17 11:22,Milwaukee,WI
+4/7/17 11:54,Chicago,IL
+4/7/17 12:30,Washington,DC
+4/7/17 13:26,Downers Grove,IL
+4/7/17 15:32,New York,NY
+4/7/17 16:15,Metamora,IL
+4/8/17 7:03,New York,NY
+4/8/17 15:07,Charlotte,NC
+4/8/17 22:03,Bellevue,WA
+4/9/17 9:07,New York,NY
+4/9/17 9:18,Nashville,TN
+4/9/17 11:00,New York,NY
+4/9/17 12:30,Raleigh,NC
+4/9/17 13:37,Atlanta,GA
+4/9/17 13:37,Atlanta,GA
+4/9/17 14:56,Columbus,OH
+4/9/17 23:00,North Bend,OR
+4/10/17 10:26,Juneau,Alaska
+4/10/17 11:11,Sigel,IL
+4/10/17 11:33,Anniston,AL
+4/10/17 11:45,Salem,IL
+4/10/17 11:45,Rockford,Illinois
+4/10/17 11:56,Chatham,IL
+4/10/17 14:12,Bakersfield,CA
+4/10/17 17:09,Springfield,Illinois
+4/10/17 18:31,Victoria,TX
+4/10/17 19:48,St. Louis,MO
+4/11/17 1:48,Atlanta,GA
+4/11/17 3:18,Pasadena,CA
+4/11/17 4:26,Bellingham,WA
+4/11/17 4:38,Tacoma,WA
+4/11/17 5:56,Chicago,Illinois
+4/11/17 5:56,Cape Girardeau,MO
+4/11/17 6:18,Seattle,WA
+4/11/17 6:41,Bellingham,WA
+4/11/17 8:10,Southgate,MI
+4/11/17 8:40,Los Angeles,California
+4/11/17 9:30,Rockford,IL
+4/11/17 9:41,Champaign,IL
+4/11/17 11:00,New York,NY
+4/11/17 11:00,New York,NY
+4/11/17 11:16,Chicago,IL
+4/11/17 11:33,Washington,DC
+4/11/17 11:53,Charleston,SC
+4/11/17 12:03,San Leandro,CA
+4/11/17 13:22,Plant City,FL
+4/11/17 13:42,Seattle,WA
+4/11/17 13:48,New York,NY
+4/11/17 14:45,Myrtle Beach,SC
+4/11/17 16:15,Washington,DC
+4/11/17 18:07,Springfield,IL
+4/11/17 19:26,New York,NY
+4/11/17 21:19,Bellevue,WA
+4/11/17 21:37,Ottawa,IL
+4/12/17 1:37,Washington,DC
+4/12/17 2:34,San Ramon,CA
+4/12/17 4:26,Milwaukee,Wisconsin
+4/12/17 5:11,Milwaukee,WI
+4/12/17 6:34,Washington,District of Columbia
+4/12/17 6:52,Montgomery,AL
+4/12/17 7:10,Malibu,CA
+4/12/17 7:16,New York,New York
+4/12/17 8:00,New York,NY
+4/12/17 8:27,Boston,MA
+4/12/17 9:05,Venice Beach,CA
+4/12/17 9:15,Adelphi,MD
+4/12/17 9:18,Brooklyn,NY
+4/12/17 9:39,New York,NY
+4/12/17 9:41,Langley Park,MD
+4/12/17 10:03,East Orange,NJ
+4/12/17 10:26,New York,NY
+4/12/17 12:18,Berkeley,CA
+4/12/17 12:52,Milwaukee,Wisconsin
+4/12/17 13:32,Milwaukee,WI
+4/12/17 14:11,Seattle,WA
+4/12/17 14:56,Ogden,UT
+4/12/17 15:12,Milwaukee,WI
+4/12/17 15:27,Milwaukee,WI
+4/12/17 20:33,Milwaukee,WI
+4/12/17 20:56,San Francisco,CA
+4/12/17 22:22,Los Angeles,CA
+4/13/17 4:30,Pearland,TX
+4/13/17 5:45,Lehigh Valley,PA
+4/13/17 5:56,Rockville,MD
+4/13/17 6:52,Phoenix,AZ
+4/13/17 7:15,Beaumont,tx
+4/13/17 7:48,Renton,Washington
+4/13/17 8:11,Whippany,NJ
+4/13/17 8:45,Mount Clemens,MI
+4/13/17 9:06,San Leandro,CA
+4/13/17 10:03,Queens,NY
+4/13/17 10:09,Queens,NY
+4/13/17 10:15,Oakton,Virginia
+4/13/17 10:43,Washington,DC
+4/13/17 11:38,Adelphi,MD
+4/13/17 12:02,Leawood,KS
+4/13/17 12:07,Kent,Washington
+4/13/17 12:07,Bayside,New York
+4/13/17 12:18,San Antonio,TX
+4/13/17 12:34,Philadelphia,PA
+4/13/17 13:03,New York,NY
+4/13/17 16:26,Renton,Washington
+4/13/17 19:48,Washington,DC
+4/13/17 23:01,Seattle,WA
+4/14/17 0:07,Columbus,IN
+4/14/17 0:52,Lincoln,NE
+4/14/17 2:56,New York,New York
+4/14/17 3:30,Providence,RI
+4/14/17 7:15,Santa Monica,CA
+4/14/17 7:26,New York,NY
+4/14/17 8:23,Sioux Falls,SD
+4/14/17 8:33,Waukesha,WI
+4/14/17 9:18,Metamora,IL
+4/14/17 9:52,Cambridge,MA
+4/14/17 9:52,New York,NY
+4/14/17 10:19,Milwaukee,WI
+4/14/17 10:26,West Hollywood,CA
+4/14/17 10:26,Portland,Oregon
+4/14/17 10:42,New York,NY
+4/14/17 11:22,New York,NY
+4/14/17 12:07,Phoenix,AZ
+4/14/17 12:07,New York,NY
+4/14/17 13:01,Milwaukee,WI
+4/14/17 13:03,Macon,Georgia
+4/14/17 13:26,Dearbom,MI
+4/14/17 13:27,Indianapolis,IN
+4/14/17 13:29,Indianapolis,IN
+4/14/17 13:31,Baltimore,MD
+4/14/17 14:00,Venice Beach,CA
+4/14/17 15:30,New Providence,New Jersey
+4/14/17 15:44,New York,New York
+4/14/17 16:14,Santa Barbara,CA
+4/14/17 16:15,Santa Monica,CA
+4/14/17 16:41,New York,New York
+4/14/17 16:48,Portland,ME
+4/14/17 16:59,Santa Barbara,CA
+4/14/17 16:59,Macon,Georgia
+4/14/17 17:11,Portland,OR
+4/14/17 19:48,Santa Barbara,CA
+4/14/17 23:00,Altadena,California
+4/14/17 23:56,Columbus,GA
+4/15/17 7:14,Bellevue,WA
+4/15/17 9:40,New York,NY
+4/15/17 10:37,Phoenix,AZ
+4/15/17 10:48,Laredo,TX
+4/15/17 11:33,Palm Beach,FL
+4/15/17 12:41,Washington,DC
+4/15/17 14:11,Galatia,IL
+4/15/17 17:15,Madison,WI
+4/15/17 19:26,Santa Barbara,California
+4/15/17 21:30,San Francisco,CA
+4/15/17 23:00,San Diego,CA
+4/16/17 5:11,Tacoma,WA
+4/16/17 5:15,Belleville,IL
+4/16/17 5:56,Rochester,NY
+4/16/17 6:25,Glens Falls,NY
+4/16/17 8:33,Winston-Salem,NC
+4/16/17 8:43,Philadelphia,PA
+4/16/17 8:43,Philadelphia,PA
+4/16/17 8:45,Fremont,NE
+4/16/17 10:37,San Diego,CA
+4/16/17 10:59,San Diego,CA
+4/16/17 11:13,San Leandro,CA
+4/16/17 11:59,San Diego,California
+4/16/17 12:18,San Diego,CA
+4/16/17 12:18,San Diego,CA
+4/16/17 13:16,New York,NY
+4/16/17 16:26,New York,NY
+4/16/17 23:55,Bakersfield,CA
+4/17/17 2:45,Washington,DC
+4/17/17 3:41,Buffalo,NY
+4/17/17 5:22,Salisbury,MD
+4/17/17 5:22,West Palm Beach,FL
+4/17/17 7:26,Tampa,FL
+4/17/17 7:48,New York,NY
+4/17/17 12:52,New York,NY
+4/17/17 14:45,New York,NY
+4/17/17 16:37,Sonoma,CA
+4/17/17 16:48,San Francisco,CA
+4/17/17 23:33,San Diego,CA
+4/18/17 7:33,Cleveland,OH
+4/18/17 8:11,New York,New York
+4/18/17 11:56,Los Angeles,CA
+4/18/17 13:37,Madison,WI
+4/18/17 13:41,Allentown,PA
+4/18/17 14:35,Hartford,CT
+4/18/17 15:43,Milwaukee,WI
+4/18/17 19:15,Philadelphia,PA
+4/18/17 21:18,New York,NY
+4/19/17 2:22,New York City,New York
+4/19/17 6:18,Washington,DC
+4/19/17 6:41,Colorado Springs,Colorado
+4/19/17 8:36,New Bern,NC
+4/19/17 10:37,Atlanta,GA
+4/19/17 10:48,Bozeman,MT
+4/19/17 12:30,Corpus Christi,Texas
+4/19/17 12:30,Columbia,SC
+4/19/17 12:30,Lafayette,LA
+4/19/17 12:43,Sacramento,CA
+4/19/17 14:00,Chester,VA
+4/19/17 17:00,Grand Rapids,Michigan
+4/19/17 17:32,Atlanta,GA
+4/19/17 8:06,Washington,DC
+4/19/17 8:11,Atlanta,GA
+4/19/17 8:15,Los Angeles,CA
+4/19/17 8:28,Gastonia,NC
+4/19/17 9:30,Dallas,TX
+4/19/17 9:49,San Francisco,CA
+4/19/17 10:14,New York,NY
+4/19/17 10:27,New York,NY
+4/19/17 10:30,Northport,NY
+4/19/17 10:44,Atlanta,GA
+4/19/17 11:01,Baltimore,MD
+4/19/17 11:11,Los Angeles,CA
+4/19/17 11:38,New York,New York
+4/19/17 11:56,Sacramento,CA
+4/19/17 12:16,Los Angeles,CA
+4/19/17 12:43,Washington,District of Columbia
+4/19/17 12:43,Sacramento,CA
+4/19/17 13:17,Modesto,Ca
+4/19/17 14:24,San Francisco,CA
+4/19/17 15:41,Seattle,Washington
+4/19/17 15:57,Sacramento,CA
+4/19/17 16:05,New York,NY
+4/19/17 16:37,Atlanta,GA
+4/19/17 17:02,Grand Rapids,Michigan
+4/19/17 17:16,Billings,MT
+4/19/17 17:27,Fresno,CA
+4/19/17 17:32,Atlanta,GA
+4/19/17 18:28,Washington,DC
+4/19/17 18:30,Albany,NY
+4/19/17 18:30,Washington,DC
+4/19/17 19:51,San Francisco,CA
+4/20/17 5:56,Phoenix,AZ
+4/20/17 6:05,Washington,D.C.
+4/20/17 7:18,Austin,TX
+4/20/17 7:38,Decatur,GA
+4/20/17 8:01,New York,NY
+4/20/17 8:11,New York,NY
+4/20/17 8:11,San Francisco,CA
+4/20/17 8:43,Tulsa,OK
+4/20/17 10:05,New York,NY
+4/20/17 10:26,Philadelphia,PA
+4/20/17 10:26,Mount Clemens,MI
+4/20/17 10:49,New York,NY
+4/20/17 10:50,Washington,DC
+4/20/17 10:59,Baltimore,MD
+4/20/17 12:18,Torrance,CA
+4/20/17 13:26,Washington,DC
+4/20/17 13:48,Washington,DC
+4/20/17 14:11,Austin,TX
+4/20/17 14:16,West Palm Beach,FL
+4/20/17 14:22,Novato,CA
+4/20/17 14:42,West Palm Beach,FL
+4/20/17 14:55,Palm Beach,FL
+4/20/17 15:18,New York,NY
+4/20/17 15:19,Washington,DC
+4/20/17 15:52,Atlanta,GA
+4/20/17 16:15,Columbus,OH
+4/20/17 17:38,New York,NY
+4/20/17 19:15,Washington,DC
+4/20/17 20:05,Washington,DC
+4/20/17 20:35,Miami,FL
+4/20/17 21:26,West Palm Beach,FL
+4/21/17 1:03,Miami,FL
+4/21/17 1:03,Tallahassee,FL
+4/21/17 4:28,Salisbury,MD
+4/21/17 6:01,Washington,District of Columbia
+4/21/17 7:22,Washington,DC
+4/21/17 8:56,Pensacola,FL
+4/21/17 9:28,New York,New York
+4/21/17 9:50,Bangor,Maine
+4/21/17 9:51,San Diego,CA
+4/21/17 10:03,West Palm Beach,FL
+4/21/17 10:57,Atlanta,GA
+4/21/17 11:14,Tupelo,MS
+4/21/17 11:20,New York,NY
+4/21/17 11:22,Washington,DC
+4/21/17 11:27,Emeryville,CA
+4/21/17 12:49,New York,New York
+4/21/17 13:19,Hackensack,NJ
+4/21/17 14:33,Washington,DC
+4/21/17 14:53,San Ramon,CA
+4/22/17 6:30,Laredo,TX
+4/22/17 6:48,New York,NY
+4/22/17 8:33,Washington,DC
+4/22/17 8:33,Springdale,UT
+4/22/17 10:15,New Orleans,LA
+4/22/17 23:56,Beaumont,CA
+4/23/17 5:00,New York,NY
+4/23/17 12:18,Washington,DC
+4/23/17 12:30,Butte,MT
+4/23/17 12:30,Atlanta,GA
+4/24/17 10:15,Albany,NY
+4/24/17 17:11,Bozeman,MT
+4/24/17 17:11,Chattanooga,Tennessee
+4/24/17 18:07,Junction City,OR
+4/24/17 19:15,Hartford,CT
+4/24/17 20:33,San Jose,CA
+4/24/17 23:11,Los Angeles,CA
+4/25/17 3:18,Belleville,IL
+4/25/17 3:30,Lynchburg,VA
+4/25/17 7:10,Denver,CO
+4/25/17 9:18,Charleston,WV
+4/25/17 18:18,New York,NY
+4/25/17 20:56,New York,NY
+4/26/17 0:52,Glendale,CA
+4/26/17 1:03,Chino,CA
+4/26/17 5:15,Jackson,MI
+4/26/17 6:03,Ann Arbor,MI
+4/26/17 7:03,Cleveland,OH
+4/26/17 7:26,Phoenix,AZ
+4/26/17 7:26,Russellville,AR
+4/26/17 8:56,Fort Myers,FL
+4/26/17 21:06,Boise,ID
+4/27/17 1:51,Pittsburgh,PA
+4/27/17 2:11,Rosenberg,Texas
+4/27/17 3:52,Washington,DC
+4/27/17 4:48,Washington,DC
+4/27/17 4:48,Rochester,MN
+4/27/17 5:33,Sacramento,CA
+4/27/17 5:45,Waterloo,Iowa
+4/27/17 6:41,Waltham,MA
+4/27/17 8:22,Phoenix,AZ
+4/27/17 9:00,Nampa,ID
+4/27/17 10:03,New York,NY
+4/27/17 10:26,Queens,NY
+4/27/17 10:37,Blackfoot,ID
+4/27/17 13:13,Lewiston,ID
+4/27/17 15:07,Miami,FL
+4/27/17 18:07,New York,NY
+4/27/17 18:57,Los Angeles,CA
+4/27/17 22:37,Elkins,WV
+4/27/17 23:11,Oakland,CA
+4/28/17 0:52,Washington,DC
+4/28/17 2:11,Bayside,New York
+4/28/17 6:52,Austin,TX
+4/28/17 8:22,Allston,MA
+4/28/17 9:18,New York,NY
+4/28/17 9:26,Fairfield,CA
+4/28/17 11:45,Sacramento,CA
+4/28/17 13:00,Orlando,FL
+4/28/17 14:56,Los Angeles,CA
+4/29/17 6:07,Hillsdale,MI
+4/29/17 12:30,Chicago,IL
+4/29/17 15:01,Fresno,CA
+4/29/17 21:07,Normangee,TX
+4/30/17 5:11,Spokane,WA
+4/30/17 7:00,Franklin,Indiana
+4/30/17 16:26,Boston,MA
+4/30/17 17:00,San Jose,California
+4/30/17 18:25,Peoria,Illinois
+4/30/17 23:56,Philadelphia,PA
+5/1/17 2:00,New York,NY
+5/1/17 14:47,Fort Collins,CO
+5/2/17 8:06,Richmond,California
+5/2/17 8:11,Memphis,Tennessee
+5/2/17 8:11,Pittsburg,KS
+5/2/17 8:11,Missoula,MT
+5/2/17 8:11,Cadillac,MI
+5/2/17 8:11,Lafayette,LA
+5/2/17 8:11,West Palm Beach,FL
+5/2/17 8:20,"Florence, Myrtle Beach",South Carolina
+5/2/17 8:23,Quincy,Illinois
+5/2/17 8:26,Spokane,WA
+5/2/17 8:29,Providence,RI
+5/2/17 8:56,Washington,D.C.
+5/2/17 8:58,Lafayette,LA
+5/2/17 9:02,San Luis Obispo,CA
+5/2/17 9:07,New York,NY
+5/2/17 9:30,Salamanca,NY
+5/2/17 9:52,New Haven,CT
+5/2/17 9:56,Washington,DC
+5/2/17 12:42,Seymour,Indiana
+5/2/17 13:37,Raleigh,NC
+5/2/17 13:43,Mankato,MN
+5/2/17 14:00,Corpus Christi,TX
+5/2/17 14:00,Corpus Christi,Texas
+5/2/17 14:00,Tyler,TX
+5/2/17 14:00,Dallas-Fort Worth,TX
+5/2/17 15:02,Richmond,KY
+5/2/17 17:22,West Chester,PA
+5/2/17 19:46,San Diego,CA
+5/2/17 19:48,Bethpage,NY
+5/3/17 0:41,Boston,MA
+5/3/17 4:48,New York,NY
+5/3/17 6:23,New York,NY
+5/3/17 7:24,San Ramon,CA
+5/3/17 8:33,Indianapolis,IN
+5/3/17 8:43,Washington,DC
+5/3/17 9:11,Indianapolis,IN
+5/3/17 10:48,New York,NY
+5/3/17 12:07,Chatham,IL
+5/3/17 12:07,Philadelphia,PA
+5/3/17 12:41,Newport,RI
+5/3/17 12:41,Alexandria,LA
+5/3/17 12:42,Houston,TX
+5/3/17 13:26,New York,NY
+5/3/17 14:11,Houston,TX
+5/3/17 16:26,Houston,TX
+5/3/17 18:18,Riverside,CA
+5/3/17 20:11,Boulder,Colorado
+5/4/17 4:48,Washington,DC
+5/4/17 6:52,Washington,DC
+5/4/17 8:33,Bakersfield,CA
+5/4/17 8:45,Houston,Texas
+5/4/17 8:56,Butte,MT
+5/4/17 8:56,South Bend,Indiana
+5/4/17 8:56,Winchester,TN
+5/4/17 9:18,Pensacola,FL
+5/4/17 11:10,Milwaukee,Wisconsin
+5/4/17 11:56,Thornton,IA
+5/4/17 12:30,Washington,DC
+5/4/17 12:52,Tullahoma,TN
+5/4/17 13:26,Lihue,HI
+5/4/17 14:11,Salina,KS
+5/4/17 19:26,Houston,TX
+5/4/17 20:11,Paducah,KY
+5/5/17 2:22,Los Angeles,CA
+5/5/17 8:00,Knoxville,TN
+5/5/17 10:26,Washington,DC
+5/5/17 11:00,San Luis Obispo,CA
+5/5/17 11:00,Bayside,New York
+5/5/17 11:33,Camarillo,CA
+5/5/17 11:45,Cheney,WA
+5/5/17 15:41,Las Vegas,NV
+5/5/17 16:15,Dallas,Texas
+5/6/17 5:56,San Diego,CA
+5/6/17 7:02,Dallas,TX
+5/6/17 22:15,Enumclaw,WA
+5/7/17 18:10,Miami,FL
+5/8/17 7:26,Los Angeles,CA
+5/8/17 9:30,Tampa,Florida
+5/9/17 2:56,Washington,DC
+5/9/17 11:27,New York,NY
+5/9/17 11:39,Cleveland,OH
+5/9/17 14:22,New York,NY
+5/9/17 15:07,Seattle,WA
+5/9/17 15:24,Fresno,CA
+5/9/17 15:41,Greenwich,CT
+5/9/17 18:12,New York,NY
+5/10/17 5:33,Chicago,IL
+5/10/17 12:18,Charlottesville,VA
+5/10/17 14:01,Bridgeport,CT
+5/10/17 19:26,Albuquerque,NM
+5/10/17 20:15,Dallas-Fort Worth,TX
+5/11/17 1:26,Watertown,NY
+5/11/17 2:33,Reading,PA
+5/11/17 2:41,Los Angeles,CA
+5/11/17 8:45,Tyler,TX
+5/11/17 9:07,Los Angeles,CA
+5/11/17 9:41,New York,NY
+5/11/17 10:48,New York,NY
+5/11/17 11:00,Dallas,TX
+5/11/17 12:07,Center Moriches,NY
+5/11/17 13:00,Colorado Springs,CO
+5/11/17 13:15,Oakland,CA
+5/11/17 13:57,Torrance,CA
+5/11/17 14:45,Chicago,Illinois
+5/11/17 17:22,Philadelphia,PA
+5/11/17 17:33,Ridgway,PA
+5/11/17 17:33,New York,NY
+5/12/17 0:41,Rochester,MN
+5/12/17 5:09,Charlottesville,VA
+5/12/17 10:03,Long Beach,CA
+5/12/17 11:26,Allentown,PA
+5/12/17 11:56,Butler,PA
+5/12/17 12:29,boston,ma
+5/12/17 12:30,Orlando,FL
+5/12/17 15:07,Los Angeles,CA
+5/13/17 4:26,Newton,MA
+5/14/17 0:01,Spokane,WA
+5/14/17 3:30,San Buenaventura,CA
+5/14/17 4:03,Port Angeles,WA
+5/14/17 5:11,Washington,DC
+5/14/17 12:52,Twin Falls,ID
+5/14/17 17:24,Boise,ID
+5/15/17 0:52,Red Bluff,CA
+5/15/17 0:52,San Luis Obispo,CA
+5/15/17 0:52,Rockford,IL
+5/15/17 0:52,Salisbury,MD
+5/15/17 1:02,Corpus Christi,TX
+5/15/17 1:03,Madison,WI
+5/15/17 1:03,Orlando,FL
+5/15/17 1:03,Lexington,KY
+5/15/17 1:03,Cadillac,MI
+5/15/17 1:03,Quincy,Illinois
+5/15/17 3:52,los angeles,"Venice Beach, CA 90291"
+5/15/17 4:37,New York,NY
+5/15/17 4:53,Mobile,AL
+5/15/17 5:40,Jackson,MS
+5/15/17 7:26,Phoenix,AZ
+5/15/17 9:18,Mobile,Alabama
+5/15/17 9:52,Salt Lake City,UT
+5/15/17 10:02,Washington,DC
+5/15/17 11:22,Albany,New York
+5/15/17 11:30,Doral,Florida
+5/15/17 11:30,Albany,New York
+5/15/17 12:10,Biloxi,MS
+5/15/17 12:22,San Francisco,CA
+5/15/17 12:34,Biloxi,MS
+5/15/17 12:52,Decatur,IL
+5/15/17 12:52,Lexington,KY
+5/15/17 12:52,San Luis Obispo,CA
+5/15/17 12:52,Lafayette,LA
+5/15/17 12:52,Spokane,WA
+5/15/17 12:52,Lansing,MI
+5/15/17 12:52,Madison,WI
+5/15/17 12:57,Houston,Texas
+5/15/17 13:04,Rockford,IL
+5/15/17 13:07,San Luis Obispo,CA
+5/15/17 13:09,Rochester,MN
+5/15/17 13:11,Pittsburg,KS
+5/15/17 13:13,Pittsburg,KS
+5/15/17 13:15,Washington,DC
+5/15/17 13:24,Birmingham,AL
+5/15/17 13:31,San Ramon,CA
+5/15/17 13:48,Keller,TX
+5/15/17 14:11,Great Falls,MT
+5/15/17 14:25,La Crosse,Wisconsin
+5/15/17 14:26,Youngstown,OH
+5/15/17 14:26,Providence,RI
+5/15/17 14:26,Colorado Springs,Colorado
+5/15/17 14:26,Madison,WI
+5/15/17 14:28,West Palm Beach,FL
+5/15/17 14:30,Tucson,AZ
+5/15/17 14:36,San Luis Obispo,CA
+5/15/17 14:56,New Bern,NC
+5/15/17 15:18,Louisville,KY
+5/15/17 15:18,Butte,MT
+5/15/17 15:18,Billings,MT
+5/15/17 15:30,Savannah,GA
+5/15/17 15:30,Miami,FL
+5/15/17 16:28,Sacramento,CA
+5/15/17 17:11,San Luis Obispo,CA
+5/15/17 17:33,New York,NY
+5/15/17 19:26,New York,NY
+5/15/17 20:22,Biloxi,MS
+5/15/17 20:33,New York,NY
+5/16/17 9:30,Indianapolis,IN
+5/16/17 9:52,Chicago,IL
+5/16/17 10:11,Boulder,CO
+5/16/17 11:11,New York,NY
+5/16/17 11:22,Montgomery,AL
+5/16/17 11:22,Los Angeles,CA
+5/16/17 11:56,Troy,New York
+5/16/17 12:32,Northwood,NH
+5/16/17 13:26,New York,NY
+5/16/17 13:37,Los Angeles,CA
+5/16/17 14:59,Albany,NY
+5/16/17 15:07,New York,New York
+5/16/17 15:18,Albany,NY
+5/16/17 15:41,Peoria,IL
+5/16/17 17:11,Birmingham,AL
+5/16/17 17:20,Albany,New York
+5/16/17 20:56,Huntington,WV
+5/16/17 21:07,Hillsdale,MI
+5/17/17 2:00,San Ramon,CA
+5/17/17 4:48,Towson,MD
+5/17/17 5:00,New York,NY
+5/17/17 5:45,New York,NY
+5/17/17 6:07,Stevens Point,WI
+5/17/17 6:17,Troy,New York
+5/17/17 6:52,Chicago,IL
+5/17/17 6:52,New York,NY
+5/17/17 8:05,Chesterfield,VA
+5/17/17 9:57,Norfolk,VA
+5/17/17 10:03,Arlington,Virginia
+5/17/17 10:15,New York,NY
+5/17/17 10:26,Dayton,OH
+5/17/17 10:26,Montgomery,AL
+5/17/17 11:12,Albany,NY
+5/17/17 13:09,Fresno,CA
+5/17/17 14:00,Hempstead,New York
+5/17/17 14:39,Pittsburgh,PA
+5/17/17 14:57,Plattsburgh,NY
+5/17/17 19:03,Aberdeen,WA
+5/17/17 20:00,Los Angeles,CA
+5/17/17 21:59,Santa Ana,CA
+5/18/17 4:03,Bonner Springs,KS
+5/18/17 4:15,Baltimore,MD
+5/18/17 4:48,Baltimore,MD
+5/18/17 6:40,San Francisco,CA
+5/18/17 6:41,Little Elm,TX
+5/18/17 11:00,Merced,CA
+5/18/17 11:00,San Luis Obispo,CA
+5/18/17 11:00,Arlington Heights,IL
+5/18/17 11:04,San Luis Obispo,CA
+5/18/17 11:07,Merced,CA
+5/18/17 11:07,Reno,NV
+5/18/17 11:10,Washington,DC
+5/18/17 11:55,San Francisco,CA
+5/18/17 11:57,San Jose,CA
+5/18/17 12:30,San Francisco,CA
+5/18/17 13:15,Los Angeles,CA
+5/18/17 13:36,Los Angeles,CA
+5/18/17 13:53,Washington,DC
+5/18/17 14:49,San Francisco,CA
+5/18/17 15:07,Fresno,CA
+5/18/17 16:13,Oakland,CA
+5/18/17 16:29,San Ramon,CA
+5/18/17 17:45,San Francisco,CA
+5/18/17 17:52,San Francisco,CA
+5/18/17 17:56,New York,NY
+5/18/17 18:41,Springfield,MO
+5/18/17 20:00,Greenfield,MA
+5/19/17 2:56,Dearbom,MI
+5/19/17 5:00,Emeryville,CA
+5/19/17 5:33,Waltham,MA
+5/19/17 6:18,Johns Creek,GA
+5/19/17 7:41,Santa Ana,CA
+5/19/17 8:07,San Leandro,CA
+5/19/17 9:18,Danville,CA
+5/19/17 9:41,New York,NY
+5/19/17 10:15,Chicago,IL
+5/19/17 10:37,New York,NY
+5/19/17 10:48,Redmond,Washington
+5/19/17 11:56,Washington,DC
+5/19/17 12:46,New York,NY
+5/19/17 13:26,Flint,Michigan
+5/19/17 14:07,Beaumont,Texas
+5/19/17 14:56,Albany,NY
+5/19/17 16:15,Charlotte,North Carolina
+5/19/17 18:52,New York,NY
+5/19/17 21:47,Lincoln,Nebraska
+5/21/17 7:28,Baltimore,MD
+5/21/17 7:50,Washington,DC
+5/21/17 8:03,Washington,DC
+5/21/17 11:56,New York,NY
+5/21/17 13:46,New York,NY
+5/21/17 14:51,Washington,DC
+5/21/17 16:01,Washington,DC
+5/21/17 16:10,Washington,DC
+5/21/17 16:27,Rochester,NY
+5/21/17 16:38,Salem,IL
+5/21/17 17:00,Cedar Rapids,IA
+5/21/17 17:00,Lansing,MI
+5/21/17 17:19,Washington,DC
+5/21/17 17:27,Washington,DC
+5/21/17 18:01,New York,NY
+5/21/17 18:37,Adelphi,MD
+5/21/17 18:45,New York City,New York
+5/21/17 19:15,New York,NY
+5/21/17 19:15,Chicago,IL
+5/21/17 19:31,New York,NY
+5/21/17 19:39,Tampa,Florida
+5/21/17 19:59,Annapolis,Maryland
+5/21/17 20:00,Columbia,SC
+5/21/17 22:04,New York,NY
+5/21/17 22:09,New York,NY
+5/21/17 22:21,New York,NY
+5/21/17 23:20,New York,NY
+5/22/17 0:12,Washington,DC
+5/22/17 0:17,Washington,DC
+5/22/17 0:18,Atlanta,GA
+5/22/17 0:18,Atlanta,GA
+5/22/17 0:21,Washington,DC
+5/22/17 0:31,Oklahoma City,OK
+5/22/17 0:40,South Bend,Indiana
+5/22/17 3:18,Harrisburg,PA
+5/22/17 3:34,Detroit,MI
+5/22/17 4:04,Baltimore,MD
+5/22/17 4:10,San Ramon,CA
+5/22/17 4:15,San Diego,CA
+5/22/17 4:16,New York,NY
+5/22/17 4:37,Richmond,VA
+5/22/17 4:37,Toledo,OH
+5/22/17 4:47,Norfolk,VA
+5/22/17 4:49,Los Angeles,CA
+5/22/17 4:50,Atlanta,GA
+5/22/17 4:52,Altadena,California
+5/22/17 5:01,Washington,D.C.
+5/22/17 5:11,New York,NY
+5/22/17 6:01,New York,NY
+5/22/17 6:41,New York,NY
+5/22/17 6:50,Montgomery,AL
+5/22/17 7:41,Brooklyn,New York
+5/22/17 7:52,Chicago,IL
+5/22/17 8:04,Philadelphia,PA
+5/22/17 8:07,New York,NY
+5/22/17 8:20,New York,NY
+5/22/17 8:32,New York City,NY
+5/22/17 8:36,St. Louis,MO
+5/22/17 8:38,New York,New York
+5/22/17 8:45,Elizabeth,New Jersey
+5/22/17 8:49,Baltimore,MD
+5/22/17 8:56,Dulles,VA
+5/22/17 9:07,New York,NY
+5/22/17 9:08,Washington,DC
+5/22/17 9:18,Brooklyn,New York
+5/22/17 9:31,San Diego,CA
+5/22/17 9:41,Stillwater,OK
+5/22/17 9:41,San Diego,CA
+5/22/17 9:52,Dekalb,IL
+5/22/17 10:01,Washington,DC
+5/22/17 10:03,Framingham,MA
+5/22/17 10:03,West Palm Beach,FL
+5/22/17 10:25,New York,NY
+5/22/17 10:26,Buffalo,NY
+5/22/17 10:26,Phoenix,AZ
+5/22/17 10:37,New York,NY
+5/22/17 10:37,Baltimore,MD
+5/22/17 10:48,Stevens Point,WI
+5/22/17 11:07,Berkeley,CA
+5/22/17 11:07,Annapolis,Maryland
+5/22/17 11:11,San Diego,CA
+5/22/17 11:33,Washington,DC
+5/22/17 11:34,New York,NY
+5/22/17 12:02,Atlanta,Georgia
+5/22/17 12:07,Houston,TX
+5/22/17 12:18,Wilmington,NC
+5/22/17 12:21,Washington,DC
+5/22/17 12:56,New York,NY
+5/22/17 13:03,Pensacola,FL
+5/22/17 13:14,Salt Lake City,UT
+5/22/17 14:11,Baltimore,Maryland
+5/22/17 14:33,New York,NY
+5/22/17 14:41,Washington,DC
+5/22/17 14:56,Winter Park,FL
+5/22/17 15:09,New York,NY
+5/22/17 15:30,New York,NY
+5/22/17 15:45,New York,NY
+5/22/17 15:52,Albany,NY
+5/22/17 15:56,Washington,DC
+5/22/17 18:18,Chattanooga,TN
+5/22/17 19:03,Chicago,IL
+5/22/17 19:48,Washington,DC
+5/22/17 20:15,Baltimore,MD
+5/22/17 22:32,Los Angeles,CA
+5/23/17 1:15,San Antonio,TX
+5/23/17 1:15,Washington,DC
+5/23/17 2:00,Indianapolis,IN
+5/23/17 2:18,Annapolis,Maryland
+5/23/17 3:23,Columbus,OH
+5/23/17 5:11,new york,ny
+5/23/17 6:06,New York,NY
+5/23/17 6:09,Salisbury,MD
+5/23/17 6:18,Bridgeport,CT
+5/23/17 7:09,New York,NY
+5/23/17 7:12,Denver,CO
+5/23/17 7:50,Washington,DC
+5/23/17 8:44,Chicopee,MA
+5/23/17 8:56,Baltimore,MD
+5/23/17 9:12,New York,NY
+5/23/17 9:28,Los Angeles,CA
+5/23/17 9:47,Overland Park,KS
+5/23/17 10:03,Idaho Falls,ID
+5/23/17 10:49,Washington,DC
+5/23/17 11:56,Kennett Square,PA
+5/23/17 12:05,Chattanooga,TN
+5/23/17 13:00,San Francisco,CA
+5/23/17 13:48,Richmond,VA
+5/23/17 15:13,Longmont,CO
+5/23/17 15:41,Washington,DC
+5/23/17 15:44,New York,New York
+5/23/17 15:48,Baltimore,MD
+5/23/17 15:56,Austin,TX
+5/23/17 16:00,New York,NY
+5/23/17 16:26,Metamora,IL
+5/23/17 16:37,Washington,DC
+5/23/17 17:44,Chicago,IL
+5/23/17 18:24,New York,NY
+5/23/17 20:21,Washington,DC
+5/23/17 22:25,New York,New York
+5/23/17 23:33,New York,NY
+5/24/17 3:26,Port Angeles,WA
+5/24/17 5:11,Tampa,Florida
+5/24/17 5:56,San Francisco,California
+5/24/17 7:51,Cincinnati,OH
+5/24/17 8:36,Cincinnatti,OH
+5/24/17 9:15,New York,NY
+5/24/17 9:30,Baltimore,MD
+5/24/17 9:34,New York,New York
+5/24/17 9:39,Los Angeles,CA
+5/24/17 11:41,Cincinnati,OH
+5/24/17 11:50,San Ramon,CA
+5/24/17 12:00,Cincinnati,OH
+5/24/17 13:10,New York,NY
+5/24/17 13:52,Washington,DC
+5/24/17 14:10,Washington,DC
+5/24/17 14:29,Annapolis,Maryland
+5/24/17 16:02,Boise,ID
+5/24/17 17:39,Washington,DC
+5/24/17 17:45,Washington,DC
+5/24/17 19:02,Baltimore,MD
+5/24/17 19:51,Annapolis,Maryland
+5/24/17 20:40,Baltimore,MD
+5/24/17 21:41,New York,NY
+5/24/17 21:42,Bayside,New York
+5/24/17 22:15,Independence,OH
+5/24/17 23:27,Washington,DC
+5/25/17 0:05,Washington,DC
+5/25/17 3:29,Baltimore,MD
+5/25/17 4:13,Pasadena,CA
+5/25/17 4:57,New York City,New York
+5/25/17 5:10,Washington,DC
+5/25/17 7:08,Alexandria,Virginia
+5/25/17 7:15,Washington,DC
+5/25/17 7:48,Washington,DC
+5/25/17 7:48,Baltimore,MD
+5/25/17 8:07,New York,New York
+5/25/17 8:33,Richmond,California
+5/25/17 9:15,New York,NY
+5/25/17 9:18,New York,NY
+5/25/17 11:03,Washington,DC
+5/25/17 12:18,New York,NY
+5/25/17 12:18,New York,New York
+5/25/17 13:12,Trenton,NJ
+5/25/17 13:26,Durham,NC
+5/25/17 14:24,Palm Coast,Florida
+5/25/17 14:27,New York,NY
+5/25/17 14:30,Atlanta,GA
+5/25/17 14:33,Phoenix,AZ
+5/25/17 17:38,Hillsdale,MI
+5/25/17 18:52,Denver,CO
+5/25/17 19:02,San Diego,CA
+5/25/17 20:11,Los Angeles,CA
+5/25/17 21:01,Adelphi,MD
+5/25/17 22:58,Tallahassee,FL
+5/26/17 3:05,Washington,DC
+5/26/17 3:41,Orlando,FL
+5/26/17 6:07,New York,NY
+5/26/17 6:49,Canton,IL
+5/26/17 8:45,New York,NY
+5/26/17 9:30,New York,NY
+5/26/17 9:31,Hackensack,NJ
+5/26/17 9:46,New York,NY
+5/26/17 10:48,Philadelphia,PA
+5/26/17 10:49,Emeryville,CA
+5/26/17 11:27,Chicago,IL
+5/26/17 11:33,New York,NY
+5/26/17 11:43,Brooklyn,NY
+5/26/17 13:26,Washington,DC
+5/26/17 13:48,Washington,DC
+5/26/17 15:01,Novato,CA
+5/26/17 15:51,Brooklyn,NY
+5/26/17 16:56,Los Angeles,CA
+5/26/17 17:00,New Orleans,LA
+5/26/17 18:22,Portland,OR
+5/26/17 18:27,Portland,OR
+5/26/17 19:27,Miami,FL
+5/26/17 20:00,Los Angeles,CA
+5/26/17 20:23,New York City,New York
+5/26/17 20:24,Atlanta,GA
+5/26/17 21:22,Jacksonville,FL
+5/26/17 22:09,New York,NY
+5/26/17 22:10,New York,NY
+5/26/17 22:51,Denver,CO
+5/26/17 23:45,New York,NY
+5/27/17 0:12,Redmond,WA
+5/27/17 3:51,San Ramon,CA
+5/27/17 5:00,New York,NY
+5/27/17 5:30,Portland,OR
+5/27/17 5:38,Portland,OR
+5/27/17 6:04,Chicago,IL
+5/27/17 6:12,New York,NY
+5/27/17 7:17,New York,NY
+5/27/17 9:06,Washington,DC
+5/27/17 9:18,Seattle,WA
+5/27/17 9:22,Phoenix,AZ
+5/27/17 10:45,New York,NY
+5/27/17 11:11,Lexington Park,MD
+5/27/17 11:39,Washington,DC
+5/27/17 13:32,Portland,OR
+5/27/17 14:09,Tampa,Florida
+5/27/17 14:45,Portland,OR
+5/27/17 14:48,Portland,Oregon
+5/27/17 15:36,New York,NY
+5/27/17 15:41,New York,New York
+5/27/17 17:22,Portland,OR
+5/27/17 18:28,Washington,DC
+5/27/17 18:30,Washington,DC
+5/27/17 18:30,Bend,OR
+5/27/17 18:31,Portland,Oregon
+5/27/17 18:41,Washington,DC
+5/27/17 18:42,St. Louis,MO
+5/27/17 18:52,St. Louis,MO
+5/27/17 19:23,Pocatello,ID
+5/27/17 20:07,Phoenix,AZ
+5/27/17 20:11,Portland,OR
+5/27/17 20:43,New York,New York
+5/27/17 21:08,Portland,OR
+5/27/17 21:38,Richmond,VA
+5/28/17 5:23,Washington,D.C.
+5/28/17 5:56,New York,NY
+5/28/17 6:07,Venice Beach,CA
+5/28/17 7:01,New York,NY
+5/28/17 8:05,Portland,OR
+5/28/17 8:11,New York,NY
+5/28/17 8:13,New York,NY
+5/28/17 8:36,Tampa,Florida
+5/28/17 8:45,Park Forest,IL
+5/28/17 9:07,West Palm Beach,FL
+5/28/17 9:35,Framingham,MA
+5/28/17 9:52,Portland,OR
+5/28/17 10:37,New York,NY
+5/28/17 10:48,Boston,MA
+5/28/17 13:00,Phoenix,AZ
+5/28/17 13:15,El Cajon,CA
+5/28/17 15:25,New York,NY
+5/28/17 16:54,Annapolis,Maryland
+5/28/17 17:35,Los Angeles,CA
+5/28/17 18:28,Los Angeles,CA
+5/28/17 19:07,New York,NY
+5/28/17 19:08,Oak Park,CA
+5/28/17 21:29,New York,NY
+5/28/17 21:52,Long Beach,CA
+5/28/17 22:38,Oak Park,MI
+5/28/17 22:45,Alexandria,VA
+5/28/17 23:07,Portland,Oregon
+5/29/17 0:45,San Ramon,CA
+5/29/17 1:31,San Ramon,CA
+5/29/17 6:07,New York,NY
+5/29/17 6:49,Houston,TX
+5/29/17 7:52,New York,NY
+5/29/17 8:54,New York,NY
+5/29/17 9:52,New York,NY
+5/29/17 10:16,Spokane,WA
+5/29/17 10:16,Hartford,CT
+5/29/17 10:23,New York,NY
+5/29/17 12:09,San Ramon,CA
+5/29/17 12:30,New York,NY
+5/29/17 15:07,New York,NY
+5/29/17 18:12,Washington,DC
+5/29/17 18:18,El Paso,TX
+5/29/17 19:37,Washington,DC
+5/29/17 20:11,Nashville,TN
+5/29/17 21:23,Portland,Oregon
+5/30/17 0:23,San Antonio,TX
+5/30/17 0:52,San Ramon,CA
+5/30/17 1:13,San Ramon,CA
+5/30/17 3:52,Detroit,MI
+5/30/17 5:47,Hartford,CT
+5/30/17 6:07,Johns Creek,GA
+5/30/17 6:19,San Francisco,CA
+5/30/17 6:21,San Diego,CA
+5/30/17 6:35,New York,NY
+5/30/17 7:36,New York,NY
+5/30/17 7:52,Arlington,Virginia
+5/30/17 8:03,Los Angeles,CA
+5/30/17 8:05,New York,NY
+5/30/17 8:33,Philadelphia,PA
+5/30/17 8:37,Los Angeles,CA
+5/30/17 8:56,New York City,NY
+5/30/17 9:08,San Leandro,CA
+5/30/17 9:30,Santa Rosa,CA
+5/30/17 10:00,Washington,DC
+5/30/17 10:15,Chicago,IL
+5/30/17 10:22,New York,NY
+5/30/17 10:28,Chicago,IL
+5/30/17 10:33,Brooklyn,New York
+5/30/17 11:00,Portland,OR
+5/30/17 11:22,New York,NY
+5/30/17 12:14,San Francisco,CA
+5/30/17 12:28,Santa Rosa,CA
+5/30/17 14:04,Springfield,MO
+5/30/17 14:21,New York,NY
+5/30/17 14:33,San Diego,CA
+5/30/17 14:39,Houston,TX
+5/30/17 14:51,SALT LAKE CITY,UT
+5/30/17 14:56,Los Angeles,CA
+5/30/17 15:30,Salem,OR
+5/30/17 15:52,Berkeley,CA
+5/30/17 15:52,"Chico, Redding",CA
+5/30/17 16:01,New York,NY
+5/30/17 16:32,Washington,DC
+5/30/17 16:37,Washington,DC
+5/30/17 16:48,Sandusky,OH
+5/30/17 17:04,New York,NY
+5/30/17 17:45,Washington,DC
+5/30/17 18:04,santa fe,NM
+5/30/17 18:55,New York,NY
+5/30/17 18:58,Richmond,VA
+5/30/17 19:35,New York,NY
+5/30/17 19:48,New York,NY
+5/30/17 20:11,Baltimore,MD
+5/31/17 1:00,New York,NY
+5/31/17 1:34,San Ramon,CA
+5/31/17 1:58,Washington,DC
+5/31/17 3:01,Los Angeles,CA
+5/31/17 4:48,Baltimore,MD
+5/31/17 5:33,Washington,DC
+5/31/17 5:57,Atlanta,GA
+5/31/17 6:41,Chicago,IL
+5/31/17 6:49,New York,NY
+5/31/17 6:57,New York,New York
+5/31/17 8:39,New York,NY
+5/31/17 8:46,Glendale,CA
+5/31/17 8:56,Portland,OR
+5/31/17 9:07,Berkeley,CA
+5/31/17 9:08,Cleveland,Ohio
+5/31/17 9:15,New York,NY
+5/31/17 9:17,Cincinnati,OH
+5/31/17 9:19,New York,NY
+5/31/17 9:20,Boston Heights,OH
+5/31/17 9:21,New York and Los Angeles,New York and California
+5/31/17 9:26,New York,NY
+5/31/17 9:30,Nashville,Tennessee
+5/31/17 9:32,Dulles,VA
+5/31/17 9:33,Dayton,OH
+5/31/17 9:38,Akron,OH
+5/31/17 9:41,New York,New York
+5/31/17 9:41,Los Angeles,CA
+5/31/17 9:47,Los Angeles,CA
+5/31/17 9:50,New York,NY
+5/31/17 9:52,Minneapolis,MN
+5/31/17 9:53,Washington,DC
+5/31/17 10:02,Rantoul,IL
+5/31/17 10:03,Indianapolis,IN
+5/31/17 10:03,New York,NY
+5/31/17 10:06,Los Angeles,CA
+5/31/17 10:13,Washington,DC
+5/31/17 10:15,Cleveland,OH
+5/31/17 10:15,New York,NY
+5/31/17 10:26,Portland,OR
+5/31/17 10:28,New York,NY
+5/31/17 10:38,Palm Beach,FL
+5/31/17 10:54,Laredo,TX
+5/31/17 10:58,New York,NY
+5/31/17 11:02,New York,NY
+5/31/17 11:03,Los Angeles,CA
+5/31/17 11:33,New York,NY
+5/31/17 11:51,Lighthouse Point,FL
+5/31/17 11:54,Atlanta,Georgia
+5/31/17 11:56,Orlando,Florida
+5/31/17 12:05,New York,NY
+5/31/17 12:18,New York,New York
+5/31/17 12:36,Rockaway,NJ
+5/31/17 12:52,Birmingham,AL
+5/31/17 12:52,New York,NY
+5/31/17 12:52,New York,New York
+5/31/17 13:03,Dallas,TX
+5/31/17 13:18,New York,NY
+5/31/17 13:54,Houston,TX
+5/31/17 14:02,Washington,DC
+5/31/17 14:08,New York,NY
+5/31/17 14:11,Cincinnati,OH
+5/31/17 14:15,New York,NY
+5/31/17 14:16,Glendale,CA
+5/31/17 14:33,Lansing,MI
+5/31/17 14:45,Cleveland,OH
+5/31/17 14:48,New York,NY
+5/31/17 14:56,New York and Los Angeles,New York and California
+5/31/17 15:04,Columbia,MS
+5/31/17 15:52,New York and Los Angeles,New York and California
+5/31/17 16:15,New York,NY
+5/31/17 17:38,Sacramento,CA
+5/31/17 18:36,San Francisco,California
+5/31/17 18:52,Altadena,California
+5/31/17 19:01,Portland,ME
+5/31/17 20:00,Cleveland,OH
+5/31/17 20:09,Beverly Hills,CA
+5/31/17 20:15,New York City,New York
+5/31/17 23:54,Bloomington,IN
+6/1/17 1:03,San Ramon,CA
+6/1/17 6:06,Miami,FL
+6/1/17 6:11,Birmingham,Alabama
+6/1/17 7:27,Cleveland,OH
+6/1/17 8:00,Washington,DC
+6/1/17 8:12,Sioux City,IA
+6/1/17 9:04,Fort Myers,FL
+6/1/17 9:30,New York,NY
+6/1/17 9:31,Washington,DC
+6/1/17 9:37,Alexandria,VA
+6/1/17 9:41,New York,NY
+6/1/17 9:52,Atlanta,GA
+6/1/17 9:57,Washington,DC
+6/1/17 10:10,Baltimore,MD
+6/1/17 10:26,Baltimore,MD
+6/1/17 10:59,Baltimore,MD
+6/1/17 11:00,Santa Barbara,CA
+6/1/17 11:01,Baltimore,MD
+6/1/17 11:01,Boston Heights,OH
+6/1/17 11:45,Oakland,CA
+6/1/17 11:51,San Francisco,CA
+6/1/17 11:52,Berkeley,CA
+6/1/17 11:53,Emeryville,CA
+6/1/17 12:21,Brooklyn,New York
+6/1/17 12:30,Bedford,OH
+6/1/17 13:08,New York,NY
+6/1/17 14:03,Washington,DC
+6/1/17 14:11,New York,New York
+6/1/17 14:22,New York,NY
+6/1/17 14:45,Atlanta,GA
+6/1/17 14:56,Chicago,IL
+6/1/17 16:26,Los Angeles,CA
+6/1/17 17:22,New York,NY
+6/1/17 17:49,Salem,OR
+6/1/17 19:26,Camarillo,CA
+6/1/17 19:37,Los Angeles,CA
+6/1/17 20:33,Baltimore,MD
+6/1/17 21:18,Chicago,IL
+6/1/17 21:59,Arcadia,CA
+6/1/17 22:15,Chicago,IL
+6/2/17 2:21,San Ramon,CA
+6/2/17 2:45,New York,NY
+6/2/17 4:23,New York,NY
+6/2/17 4:34,New York,NY
+6/2/17 5:30,Emeryville,CA
+6/2/17 5:39,Chicago,IL
+6/2/17 5:59,Woodbury,New York
+6/2/17 6:41,New York,NY
+6/2/17 8:00,New York,NY
+6/2/17 8:47,Washington,DC
+6/2/17 8:54,Eugene,OR
+6/2/17 9:02,San Luis Obispo,CA
+6/2/17 9:07,New York,NY
+6/2/17 10:15,Portland,OR
+6/2/17 11:08,Washington,DC
+6/2/17 12:07,New York,New York
+6/2/17 12:18,Santa Barbara,CA
+6/2/17 12:18,New York,NY
+6/2/17 13:03,West Covina,CA
+6/2/17 13:21,Lubbock,TX
+6/2/17 13:34,Bayside,New York
+6/2/17 13:43,Santa Barbara,CA
+6/2/17 14:02,Atlanta,GA
+6/2/17 14:11,Portland,OR
+6/2/17 16:03,Portland,OR
+6/2/17 16:08,San Luis Obispo,CA
+6/2/17 16:21,Santa Ana,CA
+6/2/17 16:35,Los Angeles,CA
+6/2/17 16:36,San Luis Obispo,CA
+6/2/17 16:41,Los Angeles,CA
+6/2/17 16:46,Washington,DC
+6/2/17 17:22,Annapolis,Maryland
+6/2/17 18:52,Portland,OR
+6/2/17 19:33,New York,New York
+6/2/17 20:10,Denver,CO
+6/2/17 20:33,Seattle,WA
+6/2/17 22:50,San Luis Obispo,CA
+6/3/17 1:50,Cleveland,OH
+6/3/17 6:52,Bellevue,WA
+6/3/17 10:16,New York,NY
+6/3/17 10:26,San Francisco,CA
+6/3/17 11:33,Allentown,PA
+6/3/17 11:57,Washington,District of Columbia
+6/3/17 12:07,New York,NY
+6/3/17 13:15,New York,NY
+6/3/17 16:39,Renton,WA
+6/3/17 21:05,Lakeland,Florida
+6/3/17 23:55,Tampa,Florida
+6/4/17 6:07,Fresno,CA
+6/4/17 9:22,New York,NY
+6/4/17 10:03,Seattle,WA
+6/4/17 11:58,New York,NY
+6/4/17 12:59,Nashville,Tennessee
+6/4/17 17:56,Columbus,OH
+6/4/17 23:34,San Ramon,CA
+6/5/17 5:44,New Orleans,LA
+6/5/17 7:37,Ferndale,California
+6/5/17 8:22,Los Angeles,CA
+6/5/17 9:23,Aurora,CO
+6/5/17 10:03,Portland,OR
+6/5/17 10:33,Greensboro,NC
+6/5/17 11:00,New York,NY
+6/5/17 11:08,Brooklyn,NY
+6/5/17 11:14,Washington,DC
+6/5/17 11:46,Seattle,WA
+6/5/17 12:16,New York,NY
+6/5/17 12:24,Columbus,Ohio
+6/5/17 12:41,Bellingham,WA
+6/5/17 13:49,New York,NY
+6/5/17 14:49,Poughkeepsie,NY
+6/5/17 15:02,New York,NY
+6/5/17 15:43,Baltimore,MD
+6/5/17 16:38,Columbus,OH
+6/5/17 17:00,Bellingham,WA
+6/5/17 17:09,Columbus,OH
+6/5/17 17:44,Victoria,TX
+6/5/17 17:45,San Antonio,Texas
+6/5/17 17:56,Cincinnati,OH
+6/5/17 18:13,Portland,ME
+6/5/17 18:18,New York,NY
+6/5/17 19:50,Seattle,WA
+6/5/17 21:03,Portland,OR
+6/6/17 0:18,Independence,OH
+6/6/17 6:18,Cleveland,OH
+6/6/17 6:52,Montgomery,AL
+6/6/17 6:52,Westerville,OH
+6/6/17 6:52,Venice Beach,CA
+6/6/17 7:32,Chicago,IL
+6/6/17 8:09,Pickerington,OH
+6/6/17 8:40,Richmond,VA
+6/6/17 9:18,Wilton Manors,Florida
+6/6/17 9:52,Portland,CT
+6/6/17 9:59,New York,NY
+6/6/17 10:03,Dallas,TX
+6/6/17 11:20,Portland,OR
+6/6/17 11:33,Sacramento,CA
+6/6/17 12:18,Hartford,CT
+6/6/17 12:23,Oak Harbor,Washington
+6/6/17 13:26,San Francisco,CA
+6/6/17 13:30,Bridgeport,CT
+6/6/17 13:47,New York,NY
+6/6/17 13:54,Burlington,VT
+6/6/17 14:22,Torrington,CT
+6/6/17 14:27,Hartford,CT
+6/6/17 14:38,Beverly,MA
+6/6/17 14:55,Ann Arbor,mi
+6/6/17 14:56,Washington,DC
+6/6/17 14:58,New York,NY
+6/6/17 16:48,Meriden,CT
+6/6/17 22:37,San Ramon,CA
+6/6/17 23:08,Los Angeles,CA
+6/7/17 5:55,Santa Ana,CA
+6/7/17 8:26,Seattle,WA
+6/7/17 8:32,Bellingham,WA
+6/7/17 8:33,Washington,DC
+6/7/17 9:02,New York,NY
+6/7/17 9:12,Washington,DC
+6/7/17 10:46,Brooklyn,NY
+6/7/17 11:46,Brooklyn,NY
+6/7/17 13:37,Washington,DC
+6/7/17 13:46,Staunton,VA
+6/7/17 13:57,Baltimore,MD
+6/7/17 14:22,Portland,Oregon
+6/7/17 15:18,Baltimore,MD
+6/7/17 15:18,Bellingham,WA
+6/7/17 15:57,San Francisco,CA
+6/7/17 16:15,Chicago,IL
+6/7/17 16:40,West Palm Beach,FL
+6/7/17 18:41,Detroit,MI
+6/7/17 18:52,Arlington Heights,IL
+6/7/17 22:28,Chicago,IL
+6/7/17 23:56,San Luis Obispo,CA
+6/8/17 0:16,Eugene,OR
+6/8/17 3:44,Washington,DC
+6/8/17 4:26,Baltimore,MD
+6/8/17 8:42,New York,NY
+6/8/17 9:12,Monroe Township,NJ
+6/8/17 10:41,New York,NY
+6/8/17 11:07,New York,NY
+6/8/17 11:37,Newark,NJ
+6/8/17 12:07,Washington,DC
+6/8/17 12:08,Crenshaw Blvd,"Los Angeles, California"
+6/8/17 12:20,Hartford,CT
+6/8/17 12:41,Los Angeles,CA
+6/8/17 14:02,Memphis,TN
+6/8/17 14:04,New York,New York
+6/8/17 14:22,Philadelphia,PA
+6/8/17 14:45,Philadelphia,PA
+6/8/17 15:05,Brooklyn,NY
+6/8/17 15:18,Chester,PA
+6/8/17 15:18,Primos,PA
+6/8/17 16:07,Philadelphia,PA
+6/8/17 16:26,Kennett Square,PA
+6/8/17 16:32,Chicago,IL
+6/8/17 17:11,Camarillo,CA
+6/8/17 23:11,New York,NY
+6/9/17 1:09,New York,NY
+6/9/17 2:25,Los Angeles,CA
+6/9/17 6:40,New York,NY
+6/9/17 7:02,Pottstown,PA
+6/9/17 7:03,Seattle,WA
+6/9/17 7:26,New York,NY
+6/9/17 9:41,Beeville,TX
+6/9/17 9:41,Venice Beach,CA
+6/9/17 11:00,Chicago,IL
+6/9/17 11:07,Seattle,WA
+6/9/17 11:11,Pittsburgh,PA
+6/9/17 12:25,Chico,CA
+6/9/17 13:03,Aspen,CO
+6/9/17 13:15,Los Angeles,CA
+6/9/17 13:20,Glendale,CA
+6/9/17 13:37,Wichita,KS
+6/9/17 13:43,Kansas City,MO
+6/9/17 13:55,Kansas City,MO
+6/9/17 14:00,Kansas City,Missouri
+6/9/17 14:08,Kansas City,MO
+6/9/17 14:11,Wichita,Kansas
+6/9/17 14:15,Kansas City,MO
+6/9/17 14:18,New York,NY
+6/9/17 14:18,New York,NY
+6/9/17 14:22,Washington,DC
+6/9/17 14:24,Springfield,MO
+6/9/17 14:33,Washington,DC
+6/9/17 14:34,Madison,WI
+6/9/17 14:40,Topeka,KS
+6/9/17 14:41,Chicago,IL
+6/9/17 14:48,New York,NY
+6/9/17 14:56,Brooklyn,New York
+6/9/17 14:58,Atlanta,GA
+6/9/17 15:00,New York,NY
+6/9/17 15:07,Cedar Rapids,Iowa
+6/9/17 15:18,Washington,DC
+6/9/17 15:48,Des Moines,IA
+6/9/17 16:26,South Bend,IN
+6/9/17 16:36,Los Angeles,CA
+6/9/17 16:48,Los Angeles,CA
+6/9/17 17:00,New York City,NY
+6/9/17 17:23,Los Angeles,CA
+6/9/17 17:45,Buffalo,NY
+6/9/17 18:18,New York,NY
+6/9/17 18:18,New York,NY
+6/9/17 18:39,Kansas City,MO
+6/9/17 18:57,Portland,Oregon
+6/9/17 20:47,Greenville,SC
+6/9/17 21:09,Kansas City,MO
+6/9/17 21:45,New York,NY
+6/9/17 22:29,Columbia,MS
+6/10/17 1:42,Atlanta,GA
+6/10/17 2:56,Baltimore,MD
+6/10/17 3:00,New York,NY
+6/10/17 5:02,Columbia,MS
+6/10/17 5:50,Spartanburg,SC
+6/10/17 6:07,New York,NY
+6/10/17 6:18,Pasco,WA
+6/10/17 7:26,New York,NY
+6/10/17 7:48,New York,NY
+6/10/17 8:00,New York,NY
+6/10/17 8:56,Atlanta,GA
+6/10/17 8:56,Indiana,PA
+6/10/17 9:00,Washington,DC
+6/10/17 10:26,New York,NY
+6/10/17 10:26,Kansas City,MO
+6/10/17 10:48,Oklahoma City,OK
+6/10/17 13:01,New York,NY
+6/10/17 13:03,Poughkeepsie,NY
+6/10/17 13:33,West Palm Beach,FL
+6/10/17 14:39,New York,NY
+6/10/17 15:03,New York,New York
+6/10/17 16:06,Los Angeles,CA
+6/10/17 17:11,New York,NY
+6/10/17 20:31,Kansas City,Missouri
+6/11/17 2:07,Columbus,OH
+6/11/17 8:00,Russellville,AR
+6/11/17 9:03,New York,NY
+6/11/17 10:56,Los Angeles,CA
+6/11/17 11:56,San Francisco,CA
+6/11/17 14:11,Kansas City,MO
+6/11/17 18:42,Colorado Springs,CO
+6/11/17 19:03,Colorado Springs,Colorado
+6/11/17 20:03,New York,NY
+6/11/17 21:16,New York,NY
+6/11/17 22:30,Washington,DC
+6/12/17 5:33,New York,NY
+6/12/17 8:11,San Francisco,CA
+6/12/17 8:11,Newport News,VA
+6/12/17 8:22,New York,NY
+6/12/17 9:18,Washington,DC
+6/12/17 9:32,Colorado Springs,CO
+6/12/17 9:35,New York,NY
+6/12/17 9:55,New York,NY
+6/12/17 10:01,New York,NY
+6/12/17 10:26,New York,NY
+6/12/17 10:56,St. Petersburg,FL
+6/12/17 11:31,New York,New York
+6/12/17 12:07,San Leandro,CA
+6/12/17 12:18,Washington,DC
+6/12/17 12:30,New York,NY
+6/12/17 12:30,Oakland,CA
+6/12/17 13:04,New York,NY
+6/12/17 15:05,Tampa,Florida
+6/12/17 15:30,Grabill,IN
+6/12/17 15:33,San Francisco,CA
+6/12/17 15:39,Asheville,NC
+6/12/17 16:50,Long Beach,CA
+6/12/17 17:20,New York,NY
+6/12/17 17:22,Puyallup,WA
+6/12/17 17:31,New York,NY
+6/12/17 18:07,Long Beach,CA
+6/12/17 20:00,San Francisco,CA
+6/12/17 23:50,Tampa,Florida
+6/13/17 3:07,Tampa,Florida
+6/13/17 3:47,Tampa,Florida
+6/13/17 5:01,Portland,OR
+6/13/17 5:03,Towson,MD
+6/13/17 5:44,New York,NY
+6/13/17 6:04,New York,NY
+6/13/17 8:21,Sterling Heights,MI
+6/13/17 8:22,Wilton Manors,Florida
+6/13/17 9:07,New York,NY
+6/13/17 9:15,New York,New York
+6/13/17 9:52,Washington,DC
+6/13/17 10:07,New York,NY
+6/13/17 10:49,Everett,WA
+6/13/17 11:00,New York,NY
+6/13/17 11:56,Missoula,Montana
+6/13/17 13:27,New York,NY
+6/13/17 13:37,Brooklyn,New York
+6/13/17 15:01,New York,NY
+6/13/17 15:18,Austin,TX
+6/13/17 15:38,New York,NY
+6/13/17 16:15,Dearbom,MI
+6/13/17 16:15,Phoenix,AZ
+6/13/17 18:58,Framingham,MA
+6/13/17 20:00,Portland,OR
+6/13/17 22:20,Hillsdale,MI
+6/14/17 6:58,Saint Paul,MN
+6/14/17 8:16,Dallas,TX
+6/14/17 9:41,Yuma,AZ
+6/14/17 11:16,New York,NY
+6/14/17 11:22,New York,NY
+6/14/17 13:15,New York,NY
+6/14/17 13:37,Albany,New York
+6/14/17 14:27,Birmingham,AL
+6/14/17 15:27,Fort Wayne,IN
+6/14/17 15:44,Fort Wayne,IN
+6/14/17 15:52,Indianapolis,IN
+6/14/17 16:01,Lima,Ohio
+6/14/17 18:25,Houston,Texas
+6/14/17 19:37,Mount Kisco,NY
+6/14/17 20:56,Johnstown,PA
+6/14/17 21:30,Key West,FL
+6/15/17 6:03,St. Petersburg,Florida
+6/15/17 6:52,Baltimore,MD
+6/15/17 8:05,Tampa,Florida
+6/15/17 8:22,Portland,Oregon
+6/15/17 8:45,Johnstown,PA
+6/15/17 8:56,Ashburn,VA
+6/15/17 10:13,Dallas,TX
+6/15/17 10:31,Syracuse,NY
+6/15/17 10:58,Oswego,NY
+6/15/17 11:18,Syracuse,NY
+6/15/17 12:30,Grabill,IN
+6/15/17 12:34,Fort Wayne,IN
+6/15/17 12:40,Dulles,VA
+6/15/17 13:03,Oswego,NY
+6/15/17 13:10,Atlanta,GA
+6/15/17 13:43,Boise,ID
+6/15/17 13:46,Boise,ID
+6/15/17 14:10,New York,NY
+6/15/17 14:56,Los Angeles,CA
+6/15/17 15:41,Oswego,NY
+6/15/17 16:37,Seattle,WA
+6/15/17 16:39,Los Angeles,CA
+6/15/17 17:00,Washington,DC
+6/15/17 17:22,Miami,FL
+6/15/17 21:30,Denver,CO
+6/15/17 22:03,Fort Wayne,IN
+6/15/17 22:26,Riverside,CA
+6/16/17 0:42,Seattle,WA
+6/16/17 3:07,Holland,Michigan
+6/16/17 4:00,Albany,NY
+6/16/17 5:30,Emeryville,CA
+6/16/17 8:00,Kingston,NY
+6/16/17 8:00,Albany,New York
+6/16/17 8:18,Dallas,TX
+6/16/17 8:34,New York,NY
+6/16/17 9:10,Schenectady,NY
+6/16/17 9:17,Portland,OR
+6/16/17 9:32,Washington,DC
+6/16/17 10:19,Boise,ID
+6/16/17 11:08,Alexandria,Virginia
+6/16/17 11:23,New York,NY
+6/16/17 11:35,Sacramento,CA
+6/16/17 11:56,Cambridge,MA
+6/16/17 12:11,West Palm Beach,FL
+6/16/17 12:18,New York,NY
+6/16/17 13:03,Boston,MA
+6/16/17 13:06,Charleston,SC
+6/16/17 13:26,Woodland,CA
+6/16/17 13:32,Fort Wayne,IN
+6/16/17 13:40,Tampa,Florida
+6/16/17 13:44,Chicago,IL
+6/16/17 13:59,Sacramento,CA
+6/16/17 14:22,Syracuse,NY
+6/16/17 15:23,South Bend,IN
+6/16/17 17:01,Sacramento,CA
+6/16/17 18:33,Seattle,WA
+6/17/17 3:07,Logan,Utah
+6/17/17 7:46,Ithaca,New York
+6/17/17 8:44,Hillsdale,MI
+6/17/17 9:00,Charleston,SC
+6/17/17 10:04,Davis,CA
+6/17/17 12:44,Washington,DC
+6/17/17 16:48,Chicago,IL
+6/17/17 17:33,San Diego,CA
+6/17/17 18:01,New York,NY
+6/17/17 19:49,Chicago,IL
+6/17/17 21:48,Lincoln,Nebraska
+6/17/17 22:41,Sacramento,CA
+6/17/17 23:14,Spartanburg,SC
+6/18/17 3:58,Bellevue,WA
+6/18/17 6:23,Newton,MA
+6/18/17 6:27,Watertown,MA
+6/18/17 7:52,New York City,New York
+6/18/17 7:56,Tampa,Florida
+6/18/17 10:26,Washington,DC
+6/18/17 10:45,Sacramento,CA
+6/18/17 10:48,Tampa,Florida
+6/18/17 11:00,Santa Ana,CA
+6/18/17 12:42,Chicago,IL
+6/18/17 12:44,Sacramento,CA
+6/18/17 14:27,New York,NY
+6/18/17 14:33,Chicago,IL
+6/18/17 15:01,Washington,DC
+6/18/17 17:34,Minneapolis,MN
+6/18/17 17:40,Los Angeles,CA
+6/18/17 18:43,Bronx,New York
+6/18/17 22:26,San Ramon,CA
+6/18/17 22:37,New York,NY
+6/18/17 22:49,New York,NY
+6/18/17 23:04,Albuquerque,NM
+6/18/17 23:13,Pocatello,ID
+6/19/17 2:12,Utica,New York
+6/19/17 3:34,Chicago,IL
+6/19/17 4:26,Syracuse,NY
+6/19/17 4:45,Washington,DC
+6/19/17 5:49,Washington,DC
+6/19/17 5:56,Salisbury,MD
+6/19/17 6:23,Chicago,IL
+6/19/17 6:27,New York,NY
+6/19/17 6:36,Montgomery,AL
+6/19/17 7:05,Washington,DC
+6/19/17 7:37,New York,New York
+6/19/17 7:48,Washington,DC
+6/19/17 7:53,Atlanta,GA
+6/19/17 7:53,Montgomery,AL
+6/19/17 8:10,New York,New York
+6/19/17 8:12,Chicago,IL
+6/19/17 8:40,Washington,DC
+6/19/17 8:46,New York,NY
+6/19/17 8:47,Chicago,IL
+6/19/17 8:47,Portland,ME
+6/19/17 8:49,Syracuse,NY
+6/19/17 9:02,Washington,DC
+6/19/17 9:03,New York,NY
+6/19/17 9:16,New York,NY
+6/19/17 9:18,Fort Wayne,IN
+6/19/17 9:18,Birmingham,AL
+6/19/17 9:30,Washington,DC
+6/19/17 9:34,New York,NY
+6/19/17 9:50,New York,NY
+6/19/17 10:15,Bakersfield,CA
+6/19/17 10:23,Washington,DC
+6/19/17 10:37,Austin,TX
+6/19/17 10:39,New York City,NY
+6/19/17 10:43,New York,NY
+6/19/17 11:00,New York,NY
+6/19/17 11:04,Atlanta,GA
+6/19/17 11:11,Houston,Texas
+6/19/17 11:19,Los Angeles,CA
+6/19/17 11:24,Washington,DC
+6/19/17 11:39,New York,NY
+6/19/17 11:42,San Diego,CA
+6/19/17 11:48,Richmond,VA
+6/19/17 11:57,San Francisco,CA
+6/19/17 12:18,Pensacola,FL
+6/19/17 12:31,Southampton,NY
+6/19/17 12:31,Chicago,IL
+6/19/17 12:36,Washington,DC
+6/19/17 12:36,Roanoke,Virginia
+6/19/17 12:52,Washington,DC
+6/19/17 13:11,New York,NY
+6/19/17 13:15,New York,NY
+6/19/17 13:25,Washington,DC
+6/19/17 13:26,Primos,PA
+6/19/17 13:26,New York,NY
+6/19/17 13:39,Bellingham,WA
+6/19/17 13:46,Washington,DC
+6/19/17 13:57,East Orange,NJ
+6/19/17 14:05,New York,NY
+6/19/17 14:19,Chicago,IL
+6/19/17 14:26,Tampa,Florida
+6/19/17 14:26,Philadelphia,PA
+6/19/17 14:29,New York,NY
+6/19/17 14:41,Chicago,IL
+6/19/17 15:07,New York,NY
+6/19/17 15:18,Oakland,CA
+6/19/17 15:30,Boston,MA
+6/19/17 15:30,Washington,DC
+6/19/17 15:41,New York,NY
+6/19/17 15:52,Salisbury,MD
+6/19/17 16:11,Washington,DC
+6/19/17 16:28,New York,NY
+6/19/17 16:44,Minneapolis,MN
+6/19/17 17:27,New York,NY
+6/19/17 18:05,Buffalo,NY
+6/19/17 18:26,Washington,DC
+6/19/17 21:06,Los Angeles,CA
+6/19/17 23:23,Jacksonville,NC
+6/20/17 0:30,Stamford,CT
+6/20/17 1:37,Riverhead,NY
+6/20/17 5:22,New York,NY
+6/20/17 5:27,Washington,DC
+6/20/17 7:26,Washington,DC
+6/20/17 7:26,New York,NY
+6/20/17 7:40,New Bethlehem,PA
+6/20/17 7:48,Charlottesville,VA
+6/20/17 8:33,Passaic,NJ
+6/20/17 8:33,Hamilton,MT
+6/20/17 9:07,Woodland,CA
+6/20/17 9:30,Brooklyn,New York
+6/20/17 9:30,Passaic,NJ
+6/20/17 9:53,Clay Center,KS
+6/20/17 10:15,Towson,MD
+6/20/17 10:15,Los Angeles,CA
+6/20/17 10:26,New York,NY
+6/20/17 11:45,Morganton,NC
+6/20/17 12:31,Washington,DC
+6/20/17 13:15,Fairfield,Connecticut
+6/20/17 13:48,Washington,DC
+6/20/17 14:00,Somerset,PA
+6/20/17 14:45,Washington,DC
+6/20/17 16:15,Richmond,VA
+6/20/17 21:07,Pittsburgh,PA
+6/20/17 22:15,Chicago,IL
+6/20/17 5:22,Norfolk,VA
+6/20/17 6:11,St. Louis,MO
+6/20/17 6:52,Washington,DC
+6/20/17 7:26,Seattle,WA
+6/20/17 7:54,Clay Center,KS
+6/20/17 8:45,Salisbury,MD
+6/20/17 8:45,Washington,DC
+6/20/17 8:47,Los Angeles,CA
+6/20/17 10:26,New York,NY
+6/20/17 10:26,University Park,PA
+6/20/17 10:47,Los Angeles,CA
+6/20/17 14:25,Beckley,WV
+6/20/17 15:07,Cambridge,MA
+6/20/17 16:15,Richmond,VA
+6/20/17 17:16,Washington,DC
+6/20/17 17:22,New York,NY
+6/20/17 17:56,Fairfield,Connecticut
+6/20/17 18:07,San Diego,CA
+6/20/17 19:03,Las Vegas,NV
+6/20/17 20:45,Greensboro,NC
+6/20/17 23:33,Houston,TX
+6/21/17 2:33,West Babylon,NY
+6/21/17 8:11,Hyde Park,NY
+6/21/17 9:06,San Leandro,CA
+6/21/17 9:30,Albany,NY
+6/21/17 10:45,Kingston,NY
+6/21/17 11:06,Brooklyn,NY
+6/21/17 11:07,New York,NY
+6/21/17 12:12,New York,New York
+6/21/17 14:22,Bozeman,MT
+6/21/17 14:22,Helena,Montana
+6/21/17 14:22,Billings,MT
+6/21/17 14:22,Butte,MT
+6/21/17 14:22,Fort Myers,FL
+6/21/17 16:14,Providence,RI
+6/21/17 17:53,Chico,CA
+6/21/17 17:54,Chico,CA
+6/21/17 17:56,Honolulu,HI
+6/22/17 0:07,New York,New York
+6/22/17 9:41,New York,NY
+6/22/17 10:37,New York,NY
+6/22/17 11:02,Stamford,CT
+6/22/17 11:29,Jacksonville,NC
+6/22/17 13:10,Houston,TX
+6/22/17 13:12,Austin,TX
+6/22/17 14:04,Los Angeles,CA
+6/22/17 15:41,New York,NY
+6/22/17 15:41,Austin,TX
+6/22/17 16:48,Boise,ID
+6/23/17 1:37,Boston,MA
+6/23/17 5:22,New York,NY
+6/23/17 11:45,Washington,DC
+6/23/17 11:56,Dallas,TX
+6/23/17 13:03,Naperville,Illinois
+6/23/17 15:18,Ashland,OR
+6/23/17 15:18,Washington,DC
+6/23/17 15:18,New York,New York
+6/23/17 11:11,New York,NY
+6/23/17 12:07,Chester,PA
+6/23/17 16:41,Tacoma,WA
+6/24/17 19:15,Philadelphia,PA
+6/24/17 20:15,San Angelo,Texas
+6/24/17 2:22,New York,NY
+6/24/17 10:48,Bangor,Maine
+6/24/17 11:56,Corpus Christi,TX
+6/24/17 14:21,Minneapolis,MN
+6/24/17 19:15,Salisbury,MD
+6/24/17 19:15,San Luis Obispo,CA
+6/24/17 19:15,Pittsburg,KS
+6/24/17 19:15,Quincy,Illinois
+6/24/17 19:15,Lafayette,LA
+6/24/17 19:27,Great Falls,MT
+6/24/17 19:30,Union City,PA
+6/24/17 19:42,Providence,RI
+6/24/17 19:48,Arden-Arcade,CA
+6/24/17 22:03,San Francisco,CA
+6/25/17 2:00,Hartford,CT
+6/25/17 2:02,New York,NY
+6/25/17 4:15,New York,NY
+6/25/17 6:41,New York,NY
+6/25/17 8:11,Norfolk,VA
+6/25/17 9:41,New York,NY
+6/25/17 10:37,New York,NY
+6/25/17 11:45,New York,New York
+6/25/17 12:07,Utica,New York
+6/25/17 13:37,Sacramento,CA
+6/25/17 13:48,Chicopee,MA
+6/25/17 15:52,Sacramento,CA
+6/25/17 16:37,Chattanooga,TN
+6/25/17 17:11,Normangee,TX
+6/26/17 0:14,San Francisco,CA
+6/26/17 2:22,Passaic,NJ
+6/26/17 6:00,Miami,FL
+6/26/17 6:18,Troy,New York
+6/26/17 9:30,Rockville,Maryland
+6/26/17 11:00,Laredo,TX
+6/26/17 11:45,Saint Anthony Village,MN
+6/26/17 11:47,Miami,FL
+6/26/17 12:30,New York,NY
+6/26/17 18:40,Washington,DC
+6/26/17 19:48,New York,NY
+6/26/17 20:11,Laredo,TX
+6/27/17 2:46,Los Angeles,CA
+6/27/17 2:56,San Francisco,CA
+6/27/17 4:15,Nicholasville,KY
+6/27/17 9:28,New York,NY
+6/27/17 9:30,New York,NY
+6/27/17 9:52,Oklahoma City,OK
+6/27/17 10:37,Tulsa,OK
+6/27/17 11:00,New York,NY
+6/27/17 11:22,Chicago,Illinois
+6/27/17 11:59,Berkeley,CA
+6/27/17 14:00,Normangee,TX
+6/27/17 15:18,Grabill,IN
+6/27/17 15:41,Rapid City,South Dakota
+6/27/17 17:56,New York,NY
+6/27/17 19:03,Milwaukee,WI
+6/28/17 0:07,Greensboro,NORTH CAROLINA
+6/28/17 4:15,Nicholasville,KY
+6/28/17 4:17,New York,New York
+6/28/17 4:19,Memphis,TN
+6/28/17 5:45,Paradise Valley,AZ
+6/28/17 6:51,Davis,CA
+6/28/17 8:00,New York,NY
+6/28/17 9:30,Flint,MI
+6/28/17 11:33,New York,NY
+6/28/17 12:41,New York City,New York
+6/28/17 12:52,Washington,DC
+6/28/17 13:13,San Leandro,CA
+6/28/17 15:07,Cincinnati,OH
+6/28/17 15:52,Washington,DC
+6/28/17 17:11,Los Angeles,California
+6/28/17 17:33,Sacramento,CA
+6/28/17 18:07,New York,NY
+6/28/17 20:56,Lexington,KY
+6/28/17 20:56,San Luis Obispo,CA
+6/28/17 20:56,Missoula,MT
+6/28/17 20:56,Reno,NV
+6/28/17 20:56,Orlando,FL
+6/28/17 20:56,Spokane,WA
+6/28/17 20:56,Phoenix,AZ
+6/28/17 20:56,Rockford,IL
+6/28/17 20:56,New York,NY
+6/28/17 20:56,Reno,NV
+6/28/17 20:56,Lafayette,LA
+6/28/17 20:56,Tucson,AZ
+6/28/17 20:56,Colorado Springs,Colorado
+6/28/17 22:15,Provo,UT
+6/28/17 23:00,Cadillac,MI
+6/28/17 23:00,Youngstown,OH
+6/29/17 1:48,Wausau,WI
+6/29/17 2:00,Kennesaw,Georgia
+6/29/17 2:02,Madison,WI
+6/29/17 2:04,Great Falls,MT
+6/29/17 2:04,Tucson,AZ
+6/29/17 2:04,Spokane,WA
+6/29/17 2:05,Rockford,IL
+6/29/17 2:07,Providence,RI
+6/29/17 2:07,Rochester,MN
+6/29/17 2:09,Colorado Springs,Colorado
+6/29/17 2:09,Wausau,WI
+6/29/17 2:13,Lincoln,NE
+6/29/17 2:50,San Ramon,CA
+6/29/17 5:00,Los Angeles,CA
+6/29/17 5:17,Corpus Christi,Texas
+6/29/17 5:25,Corpus Christi,TX
+6/29/17 6:18,Lincoln,NE
+6/29/17 8:11,New York,NY
+6/29/17 8:19,Washington,DC
+6/29/17 8:29,Brooklyn,New York
+6/29/17 8:45,Montgomery,AL
+6/29/17 8:45,New York,NY
+6/29/17 8:56,Lexington,KY
+6/29/17 9:14,Phoenix,AZ
+6/29/17 9:17,Yonkers,NY
+6/29/17 9:18,Los Angeles,CA
+6/29/17 9:41,Ravenna,OH
+6/29/17 10:37,New York,NY
+6/29/17 10:48,New York,NY
+6/29/17 10:48,New York,NY
+6/29/17 10:59,Gillette,WY
+6/29/17 11:48,New York,NY
+6/29/17 11:56,Fort Myers,FL
+6/29/17 11:56,Honolulu,HI
+6/29/17 11:56,Bozeman,MT
+6/29/17 12:30,New York,NY
+6/29/17 13:03,Milwaukee,Wisconsin
+6/29/17 14:11,Yonkers,New York
+6/29/17 14:14,Seattle,WA
+6/29/17 14:28,New York,NY
+6/29/17 14:33,New York,NY
+6/29/17 14:54,Hartford,CT
+6/29/17 14:59,Montgomery,AL
+6/29/17 15:07,Milwaukee,WI
+6/29/17 15:18,Nashville,Tennessee
+6/29/17 15:18,Nashville,Tennessee
+6/29/17 15:41,Owensboro,KY
+6/29/17 18:07,Slaton,TX
+6/29/17 18:30,Indiana,PA
+6/29/17 22:03,Milwaukee,Wisconsin
+6/30/17 2:11,Abernathy,TX
+6/30/17 2:12,San Ramon,CA
+6/30/17 2:45,Newburgh,NY
+6/30/17 3:30,West Palm Beach,FL
+6/30/17 4:37,New York,New York
+6/30/17 4:47,Brooklyn,New York
+6/30/17 5:01,New York,NY
+6/30/17 5:19,Norman,OK
+6/30/17 7:51,New York,NY
+6/30/17 8:03,Newton,MA
+6/30/17 8:22,Austin,TX
+6/30/17 8:33,San Francisco,CA
+6/30/17 8:33,San Francisco,CA
+6/30/17 9:16,Washington,District of Columbia
+6/30/17 9:30,New York,New York
+6/30/17 11:23,Laredo,TX
+6/30/17 11:33,Springfield,OH
+6/30/17 12:18,New York,NY
+6/30/17 12:52,Fort Myers,FL
+6/30/17 12:52,Los Angeles,CA
+6/30/17 13:38,New York,NY
+6/30/17 14:45,Nashville,TN
+6/30/17 15:30,New York,NY
+6/30/17 20:45,Gainesville,FL
+7/1/17 4:03,San Ramon,CA
+7/1/17 9:05,Georgetown,IL
+7/1/17 16:03,San Leandro,CA
+7/1/17 22:48,South Bend,IN
+7/2/17 1:48,San Francisco,CA
+7/2/17 5:00,New York,NY
+7/2/17 6:18,Livingston,NY
+7/2/17 11:10,New York,NY
+7/2/17 13:26,San Bernardino,CA
+7/2/17 14:22,Plumsted,NJ
+7/2/17 15:30,New Orleans,LA
+7/2/17 15:54,Neptune,NJ
+7/2/17 18:18,Bristol,VA
+7/2/17 23:22,Fall River,MA
+7/3/17 4:37,Chicago,IL
+7/3/17 6:18,Hartford,CT
+7/3/17 6:56,Buffalo,NY
+7/3/17 7:03,Batavia,NY
+7/3/17 7:50,Richmond,VA
+7/3/17 10:02,New York,NY
+7/3/17 11:00,Los Alamitos,California
+7/3/17 11:00,Santa Clarita,CA
+7/3/17 11:12,New York,NY
+7/3/17 11:33,Palo Cedri,California
+7/3/17 11:33,Stockton,CA
+7/3/17 11:44,Sacramento,CA
+7/3/17 11:45,San Francisco,CA
+7/3/17 11:45,Reno,NV
+7/3/17 11:45,Monterey,CA
+7/3/17 11:56,Santa Barbara,CA
+7/3/17 11:56,Los Angeles,CA
+7/3/17 11:58,Washington,DC
+7/3/17 12:26,New York,NY
+7/3/17 12:41,Sacramento,CA
+7/3/17 13:03,Peabody,MA
+7/3/17 13:15,Dilworth,MN
+7/3/17 13:26,Woodland,CA
+7/3/17 13:26,San Diego,CA
+7/3/17 13:26,Woodland,CA
+7/3/17 13:37,New York,NY
+7/3/17 13:37,West Palm Beach,FL
+7/3/17 13:48,Pasadena,CA
+7/3/17 13:48,Los Angeles,CA
+7/3/17 13:57,Pasadena,CA
+7/3/17 14:11,Fargo,ND
+7/3/17 15:07,Bryan,TX
+7/3/17 15:14,Fargo,ND
+7/3/17 15:18,Buffalo,NY
+7/3/17 15:55,San Francisco,CA
+7/3/17 16:13,Lynchburg,VA
+7/3/17 16:43,Tucson,Arizona
+7/3/17 16:48,Dickinson,ND
+7/3/17 16:48,Sherman,TX
+7/3/17 17:22,Santa Cruz,CA
+7/3/17 17:31,San Ramon,CA
+7/3/17 19:03,Lynchburg,VA
+7/3/17 19:09,San Mateo,CA
+7/3/17 20:22,San Francisco,CA
+7/3/17 23:11,New York,NY
+7/4/17 4:07,Lakeport,CA
+7/4/17 6:52,Phoenix,AZ
+7/4/17 7:03,Minneapolis,MN
+7/4/17 9:07,Minneapolis,MN
+7/4/17 9:18,Camarillo,CA
+7/4/17 13:37,Bernalillo,NM
+7/4/17 16:45,Los Angeles,CA
+7/4/17 17:11,Nevada City,CA
+7/4/17 17:45,Middletown,NY
+7/4/17 18:13,Martinsville,VA
+7/5/17 2:00,New York,NY
+7/5/17 6:18,Mariposa,CA
+7/5/17 6:52,Portland,OR
+7/5/17 7:37,Atlanta,Georgia
+7/5/17 7:48,Sonora,CA
+7/5/17 7:53,Palm Beach,FL
+7/5/17 8:33,New York,NY
+7/5/17 9:52,Phoenix,AZ
+7/5/17 10:03,New York,NY
+7/5/17 13:48,Windsor,Connecticut
+7/5/17 14:11,Washington,DC
+7/5/17 14:45,West Palm Beach,FL
+7/5/17 16:03,Englewood,CO
+7/5/17 16:15,Portland,Oregon
+7/5/17 16:26,San Diego,CA
+7/5/17 17:00,Middletown,NY
+7/5/17 18:30,Seattle,WA
+7/5/17 19:53,New York,NY
+7/5/17 20:56,Newark,NJ
+7/6/17 4:54,San Ramon,CA
+7/6/17 5:33,Seattle,WA
+7/6/17 6:07,New York,NY
+7/6/17 7:26,New York,NY
+7/6/17 8:00,New York,NY
+7/6/17 8:33,Hartford,CT
+7/6/17 8:56,Los Angeles,CA
+7/6/17 11:56,New York,NY
+7/6/17 11:59,Tallahassee,FL
+7/6/17 12:30,325 South Patrick Street,Alexandria VA
+7/6/17 12:52,Albany,NY
+7/6/17 13:24,New York,NY
+7/6/17 13:42,New York,NY
+7/6/17 13:56,New Haven,CT
+7/6/17 14:03,Los Angeles,CA
+7/6/17 16:51,Tucson,AZ
+7/6/17 17:22,Hillsdale,MI
+7/6/17 17:22,Portland,OR
+7/6/17 20:45,Bowling Green,KY
+7/6/17 23:56,Fresno,CA
+7/7/17 5:22,Emeryville,CA
+7/7/17 5:25,Binghamton,NY
+7/7/17 5:30,Emeryville,CA
+7/7/17 7:26,Atlanta,Georgia
+7/7/17 8:00,Atlanta,Georgia
+7/7/17 8:47,New York City,NY
+7/7/17 8:56,Binghamton,NY
+7/7/17 9:00,Nashville,TN
+7/7/17 10:10,Albany,GA
+7/7/17 11:56,Phoenix,AZ
+7/7/17 12:18,Seattle,WA
+7/7/17 12:18,Attica,NY
+7/7/17 13:03,Colchester,VT
+7/7/17 13:15,Fort Wayne,IN
+7/7/17 14:00,Reno,NV
+7/7/17 14:22,Cambridge,MA
+7/7/17 15:21,San Ramon,CA
+7/7/17 15:30,Tulsa,OK
+7/7/17 15:41,Raleigh,NC
+7/7/17 15:52,Tulsa,OK
+7/7/17 18:05,Tulsa,OK
+7/7/17 18:52,New York,NY
+7/7/17 21:41,Batavia,NY
+7/8/17 3:01,New York,NY
+7/8/17 5:22,Bradenton,FL
+7/8/17 9:07,Boston,MA
+7/8/17 11:11,North Bend,OR
+7/8/17 11:34,Portland,OR
+7/8/17 11:45,Portland,OR
+7/8/17 11:45,Boston,MA
+7/8/17 13:37,Washington,DC
+7/8/17 14:22,Forest Grove,OR
+7/8/17 15:30,Fort Worth,TX
+7/9/17 1:03,Charlottesville,VA
+7/9/17 3:14,Woodbury,New York
+7/9/17 6:30,New York,NY
+7/9/17 9:00,Phoenix,AZ
+7/9/17 12:18,Washington,DC
+7/9/17 13:37,Philadelphia,PA
+7/9/17 20:22,Austin,TX
+7/9/17 22:26,New York,NY
+7/10/17 0:18,San Ramon,CA
+7/10/17 5:12,Champaign,IL
+7/10/17 5:56,Kansas City,MO
+7/10/17 6:41,Beaumont,Texas
+7/10/17 6:45,Portland,OR
+7/10/17 6:48,Utica,NY
+7/10/17 7:03,Washington,District of Columbia
+7/10/17 8:11,New York,NY
+7/10/17 8:33,Utica,NY
+7/10/17 8:45,Delmar,New York
+7/10/17 9:32,West Palm Beach,Florida
+7/10/17 10:38,Nashville,TN
+7/10/17 10:48,New York,NY
+7/10/17 11:24,Pocatello,ID
+7/10/17 12:03,San Leandro,CA
+7/10/17 12:41,325 South Patrick Street,Alexandria VA
+7/10/17 13:26,Portland,OR
+7/10/17 14:21,Nashville,TN
+7/10/17 14:22,Springfield,MO
+7/10/17 16:25,Warner Robins,GA
+7/10/17 18:27,Chicago,IL
+7/10/17 19:37,Bryan,TX
+7/10/17 20:00,Ashburn,VA
+7/10/17 23:56,Portland,OR
+7/11/17 4:09,Sayre,PA
+7/11/17 4:48,New York,NY
+7/11/17 10:37,325 South Patrick Street,Alexandria VA
+7/11/17 10:48,Louisville,KY
+7/11/17 12:07,Staunton,VA
+7/11/17 12:30,New York,NY
+7/11/17 13:15,Los Angeles,CA
+7/11/17 13:26,New York,NY
+7/11/17 13:48,Montgomery,AL
+7/11/17 14:20,Wichita,KS
+7/11/17 17:56,Bozeman,MT
+7/11/17 20:22,Denver,CO
+7/12/17 3:18,Boise,ID
+7/12/17 4:26,New York,New York
+7/12/17 5:00,Boise,ID
+7/12/17 11:00,Phoenix,AZ
+7/12/17 14:08,New York City,NY
+7/12/17 19:11,Washington,DC
+7/12/17 20:00,New York,NY
+7/12/17 20:45,San Francisco,CA
+7/12/17 21:41,Lansing,MI
+7/13/17 1:03,Washington,DC
+7/13/17 3:30,Salt Lake City,UT
+7/13/17 4:20,San Ramon,CA
+7/13/17 5:11,San Ramon,CA
+7/13/17 5:45,Seattle,WA
+7/13/17 6:30,Lansing,MI
+7/13/17 6:52,Houston,Texas
+7/13/17 6:52,Phoenix,AZ
+7/13/17 6:54,Lansing,MI
+7/13/17 7:37,Montgomery,AL
+7/13/17 8:22,Washington,DC
+7/13/17 9:06,Washington,DC
+7/13/17 9:18,Norfolk,VA
+7/13/17 9:30,San Diego,CA
+7/13/17 9:30,Spokane,WA
+7/13/17 9:31,Washington,DC
+7/13/17 10:09,Philadelphia,PA
+7/13/17 10:18,Annapolis,Maryland
+7/13/17 10:37,Madison,WI
+7/13/17 11:11,New York,NY
+7/13/17 11:22,Spokane,WA
+7/13/17 11:43,Spokane,WA
+7/13/17 13:15,New York,NY
+7/13/17 15:07,Waldorf,MD
+7/13/17 15:52,Baltimore,MD
+7/13/17 16:48,Eugene,OR
+7/13/17 18:07,Eugene,OR
+7/13/17 21:54,Brooklyn,NY
+7/13/17 22:48,Sacramento,CA
+7/13/17 23:00,El Monte,CA
+7/14/17 0:07,Washington,DC
+7/14/17 0:07,Washington,DC
+7/14/17 1:36,New York,NY
+7/14/17 3:08,Cincinnati,OH
+7/14/17 3:18,Bridgeport,CT
+7/14/17 3:28,Bonner Springs,KS
+7/14/17 5:34,Emeryville,CA
+7/14/17 6:07,Hillsdale,MI
+7/14/17 6:35,Cambridge,MA
+7/14/17 8:16,Springfield,VA
+7/14/17 9:07,Adelphi,MD
+7/14/17 10:37,San Antonio,TX
+7/14/17 12:18,San Francisco,CA
+7/14/17 12:41,Washington,DC
+7/14/17 14:28,Murfreesboro,TN
+7/14/17 14:45,Washington,DC
+7/14/17 15:10,Washington,DC
+7/14/17 15:14,San Ramon,CA
+7/14/17 15:18,Trenton,NJ
+7/14/17 15:46,San Ramon,CA
+7/14/17 17:13,Boise,ID
+7/14/17 18:18,Boise,ID
+7/14/17 19:03,Nashville,TN
+7/14/17 22:48,Oakland,CA
+7/15/17 1:03,Washington,DC
+7/15/17 6:18,New York,NY
+7/15/17 8:45,Mobile,AL
+7/15/17 9:30,Roseburg,Oregon
+7/15/17 9:54,New York,NY
+7/15/17 10:16,Junction City,OR
+7/15/17 11:00,Clarksville,TN
+7/15/17 13:10,New York,NY
+7/15/17 15:52,Hillsdale,MI
+7/15/17 21:41,San Francisco,CA
+7/16/17 2:00,Los Angeles,CA
+7/16/17 6:51,Los Angeles,CA
+7/16/17 8:56,Muskegon,MI
+7/17/17 3:30,York,PA
+7/17/17 9:18,Eagle,ID
+7/17/17 11:00,San Francisco,CA
+7/17/17 11:11,New York,NY
+7/17/17 11:22,Fargo,ND
+7/17/17 11:45,Eugene,OR
+7/17/17 13:03,San Francisco,CA
+7/17/17 14:00,Santa Barbara,CA
+7/17/17 17:22,Benton Harbor,MI
+7/17/17 19:37,Eugene,OR
+7/17/17 22:49,New York,NY
+7/18/17 8:41,San Francisco,CA
+7/18/17 9:38,San Francisco,CA
+7/18/17 9:52,Queens,NY
+7/18/17 11:48,Lansing,MI
+7/18/17 11:56,Oakland,CA
+7/18/17 14:11,New York,NY
+7/18/17 15:18,Nashville,TN
+7/18/17 17:22,Riverside,CA
+7/18/17 17:48,East Lansing,MI
+7/18/17 22:11,Tampa,Florida
+7/19/17 1:01,Rockville,Maryland
+7/19/17 1:14,Los Angeles,CA
+7/19/17 2:00,Annapolis,Maryland
+7/19/17 5:33,Lansing,MI
+7/19/17 5:54,Baltimore,MD
+7/19/17 6:07,Grand Rapids,MI
+7/19/17 6:25,San Ramon,CA
+7/19/17 11:33,Riverside,CA
+7/19/17 11:33,Palm Desert,CA
+7/19/17 12:15,San Leandro,CA
+7/19/17 13:34,San Ramon,CA
+7/19/17 14:22,Annapolis,Maryland
+7/19/17 16:26,Los Angeles,California
+7/19/17 19:03,Plainview,TX
+7/19/17 19:31,New York,NY
+7/19/17 21:07,Boise,ID
+7/19/17 21:41,Sacramento,CA
+7/20/17 5:00,San Francisco,CA
+7/20/17 7:37,Atlanta,Georgia
+7/20/17 7:37,Montgomery,AL
+7/20/17 9:07,Jackson,MS
+7/20/17 11:00,Laredo,TX
+7/20/17 11:49,West Harrison,NY
+7/20/17 14:28,Emeryville,CA
+7/20/17 16:03,Burlington,IA
+7/21/17 2:33,Burlington,IA
+7/21/17 4:15,Boston,MA
+7/21/17 5:30,Emeryville,CA
+7/21/17 6:52,Kansas City,MO
+7/21/17 7:33,Stronghurst,IL
+7/21/17 8:20,New York,NY
+7/21/17 9:30,Washington,DC
+7/21/17 10:54,Eugene,OR
+7/21/17 11:27,Danbury,CT
+7/21/17 11:28,Albany,NY
+7/21/17 13:07,Chicago,Illinois
+7/21/17 14:33,Portland,OR
+7/21/17 16:48,New Haven,CT
+7/21/17 16:48,San Francisco,California
+7/21/17 22:00,Los Angeles,CA
+7/21/17 22:00,Los Angeles,CA
+7/22/17 4:37,New York,NY
+7/22/17 8:44,Columbus,OH
+7/23/17 5:56,New York,NY
+7/23/17 10:03,Sacramento,CA
+7/23/17 20:56,Elizabeth,New Jersey
+7/24/17 3:58,San Ramon,CA
+7/24/17 5:22,Harrisburg,PA
+7/24/17 9:52,New Orleans,LA
+7/24/17 9:54,McAllen,TX
+7/24/17 14:22,Barnesville,GA
+7/24/17 18:07,San Francisco,CA
+7/25/17 3:16,Los Angeles,CA
+7/25/17 6:18,Santa Cruz,CA
+7/25/17 7:03,Seattle,WA
+7/25/17 8:57,Atlanta,GA
+7/25/17 15:01,Tucson,AZ
+7/25/17 18:33,Washington,DC
+7/25/17 20:56,Gainesville,FL
+7/26/17 6:30,Rapid City,SD
+7/26/17 7:26,Minneapolis,MN
+7/26/17 7:26,New York,NY
+7/26/17 8:52,New York,New York
+7/26/17 11:00,New York,NY
+7/26/17 15:13,City of Montrose,MI
+7/26/17 16:48,Blackfoot,ID
+7/26/17 17:22,Houston,TX
+7/26/17 19:04,Birch Run,MI
+7/27/17 8:00,Santa Ana,CA
+7/27/17 9:07,Lansing,MI
+7/27/17 9:07,Fairfield,Iowa
+7/27/17 10:03,Melrose,MA
+7/27/17 10:26,Boston,MA
+7/27/17 11:11,Los Angeles,CA
+7/27/17 11:56,ithaca,NY
+7/27/17 13:03,New York,NY
+7/27/17 13:37,Binghamton,NY
+7/28/17 5:22,Reading,PA
+7/28/17 7:37,San Antonio,Texas
+7/28/17 8:13,Las Vegas,NV
+7/28/17 8:56,Columbia,SC
+7/28/17 12:04,Fresno,CA
+7/28/17 12:52,New York,NY
+7/28/17 14:34,Columbia,SC
+7/29/17 1:37,Orlando,Florida
+7/30/17 10:16,New York,NY
+7/30/17 15:07,New York,NY
+7/31/17 12:35,Midland,MI
+8/2/17 8:18,Louisville,KY
+8/2/17 11:11,Danbury,CT
+8/2/17 15:30,New York,NY
+8/2/17 19:37,Miami,FL
+8/2/17 21:52,Saco,ME
+8/2/17 22:15,Nolensville,TN
+8/3/17 5:03,Washington,DC
+8/3/17 5:45,Englewood,CO
+8/3/17 5:56,New York,NY
+8/3/17 10:15,Rockville,MD
+8/3/17 13:03,Bakersfield,CA
+8/3/17 22:24,Bryan,TX
+8/4/17 2:33,Buffalo,NY
+8/4/17 3:07,Washington,DC
+8/4/17 5:22,Emeryville,CA
+8/4/17 7:15,New York,NY
+8/4/17 10:48,New York,NY
+8/4/17 13:02,Lexington,KY
+8/4/17 13:03,Chicago,IL
+8/4/17 15:52,Philadelphia,PA
+8/4/17 16:03,Enumclaw,WA
+8/4/17 19:03,New York,NY
+8/5/17 2:00,New York,NY
+8/5/17 4:03,Madison,WI
+8/5/17 8:05,Fredericksburg,VA
+8/5/17 12:30,Torrance,CA
+8/5/17 13:26,Grand Forks,ND
+8/5/17 20:56,Chicago,IL
+8/6/17 1:26,Charlottesville,VA
+8/6/17 2:33,Tyler,TX
+8/6/17 6:41,Bozeman,MT
+8/6/17 6:51,Gettysburg,PA
+8/6/17 7:14,Killeen,TX
+8/6/17 8:45,Philadelphia,PA
+8/6/17 10:15,Orangeburg,SC
+8/6/17 11:33,Washington,DC
+8/6/17 12:52,New York,NY
+8/6/17 15:41,Detroit,MI
+8/6/17 21:30,San Francisco,CA
+8/6/17 21:52,Baltimore,Maryland
+8/7/17 5:56,Fargo,ND
+8/7/17 6:03,North Andover,MA
+8/7/17 7:03,Fargo,ND
+8/7/17 4:15,Minneapolis,MN
+8/7/17 5:56,Fargo,ND
+8/7/17 6:03,North Andover,MA
+8/7/17 6:51,New York,NY
+8/7/17 7:03,Fargo,ND
+8/7/17 8:00,Dallas,TX
+8/7/17 9:18,Palm Desert,CA
+8/7/17 11:33,Oakland,CA
+8/7/17 11:41,West Palm Beach,FL
+8/7/17 12:30,Tampa,FL
+8/7/17 12:52,Rosenberg,Texas
+8/7/17 14:22,Minneapolis,MN
+8/7/17 14:33,Palm Beach,FL
+8/7/17 15:38,West Palm Beach,FL
+8/7/17 16:48,Colorado Springs,CO
+8/7/17 18:30,West Palm Beach,FL
+8/7/17 21:52,Saint Louis,MO
+8/8/17 6:07,Phoenix,AZ
+8/8/17 7:40,New York,NY
+8/8/17 9:41,Washington,DC
+8/8/17 9:56,West Palm Beach,FL
+8/8/17 10:15,Reading,PA
+8/8/17 10:37,Washington,DC
+8/8/17 11:11,Peoria,Illinois
+8/8/17 11:11,New York,NY
+8/8/17 11:45,Washington,D.C.
+8/8/17 12:26,New York,NY
+8/8/17 17:00,Seattle,Washington
+8/8/17 17:09,San Francisco,CA
+8/9/17 0:52,Pittsburgh,PA
+8/9/17 4:17,Minneapolis,MN
+8/9/17 6:05,New York,NY
+8/9/17 6:58,Washington,DC
+8/9/17 7:15,Chicago,IL
+8/9/17 7:37,Indianapolis,IN
+8/9/17 8:05,New York,NY
+8/9/17 8:11,New York,New York
+8/9/17 8:25,Saint Paul,MN
+8/9/17 9:27,Atlanta,GA
+8/9/17 9:30,Minneapolis,MN
+8/9/17 9:52,Leesburg,VA
+8/9/17 10:37,Bethpage,NY
+8/9/17 11:33,Brooklyn,NY
+8/9/17 12:07,Rosenberg,Texas
+8/9/17 14:18,Washington,DC
+8/9/17 14:33,Portland,ME
+8/9/17 15:07,Pittsfield,MA
+8/9/17 17:11,Fargo,ND
+8/9/17 23:33,Denver,CO
+8/10/17 4:26,Newark,NJ
+8/10/17 5:06,Cleburne,TX
+8/10/17 6:41,Norfolk,VA
+8/10/17 8:16,New York,NY
+8/10/17 9:07,Boulder,CO
+8/10/17 9:49,Queens,NY
+8/10/17 11:45,Washington,DC
+8/10/17 11:54,New York,NY
+8/10/17 11:56,Alexandria,Virginia
+8/10/17 12:00,New York,NY
+8/10/17 13:15,Sacramento,CA
+8/10/17 14:00,New Bethlehem,PA
+8/10/17 14:33,St. Louis,MO
+8/10/17 14:56,New York,NY
+8/10/17 16:26,Kokomo,IN
+8/10/17 16:35,New York,NY
+8/10/17 17:33,New York,NY
+8/11/17 1:03,Portland,ME
+8/11/17 6:21,Fargo,ND
+8/11/17 8:33,Pensacola,FL
+8/11/17 10:03,Cedar Rapids,Iowa
+8/11/17 10:26,Norfolk,VA
+8/11/17 10:37,New York,NY
+8/11/17 11:45,New York City,NY
+8/11/17 12:41,Los Angeles,CA
+8/11/17 13:37,New York,New York
+8/12/17 5:06,Fargo,ND
+8/12/17 5:06,Fargo,ND
+8/12/17 9:41,Seattle,WA
+8/12/17 12:30,Overland Park,KS
+8/12/17 13:03,Seattle,WA
+8/12/17 15:18,Bingham Farms,Michigan
+8/12/17 16:02,Charlottesville,VA
+8/12/17 17:43,New York,NY
+8/12/17 18:16,New York,NY
+8/12/17 19:37,Providence,RI
+8/12/17 20:00,New York,NY
+8/12/17 20:46,New York,NY
+8/13/17 5:45,Indianapolis,IN
+8/13/17 7:03,Washington,DC
+8/13/17 7:15,Lakeland,Florida
+8/13/17 7:31,Washington,DC
+8/13/17 5:45,Indianapolis,IN
+8/13/17 7:03,Washington,DC
+8/13/17 7:15,Lakeland,Florida
+8/13/17 7:31,Washington,DC
+8/13/17 10:15,Cleveland,OH
+8/13/17 10:37,San Francisco,CA
+8/13/17 13:09,Salt Lake City,UT
+8/13/17 13:26,Mount Clemens,MI
+8/13/17 13:31,New York,NY
+8/13/17 14:00,New York,NY
+8/13/17 21:07,New York,NY
+8/14/17 3:41,Milwaukee,Wisconsin
+8/14/17 4:03,Johnson City,NY
+8/14/17 4:48,Erie,PA
+8/14/17 5:56,Jersey City,NJ
+8/14/17 8:00,Moline,IL
+8/14/17 8:45,San Francisco,CA
+8/14/17 9:18,Washington,DC
+8/14/17 9:52,Napa,CA
+8/14/17 11:45,Los Angeles,CA
+8/14/17 13:04,Washington,DC
+8/14/17 16:01,New York,NY
+8/15/17 4:26,Asheville,NC
+8/15/17 5:11,Boston,MA
+8/15/17 5:11,Binghamton,NY
+8/15/17 5:13,San Ramon,CA
+8/15/17 5:41,Laredo,TX
+8/15/17 6:11,Washington,DC
+8/15/17 7:03,New York,New York
+8/15/17 7:13,New York,NY
+8/15/17 7:14,Albany,NY
+8/15/17 7:14,Evergreen,VA
+8/15/17 7:37,Elba,NY
+8/15/17 7:37,Kings Park,NY
+8/15/17 7:37,Auburn,NY
+8/15/17 7:37,Newark,NJ
+8/15/17 7:55,New York,NY
+8/15/17 8:00,Indianapolis,Indiana
+8/15/17 8:00,Albany,New York
+8/15/17 8:00,Syracuse,NY
+8/15/17 8:11,Elmira,NY
+8/15/17 8:11,St. Louis,MO
+8/15/17 8:21,Raleigh,NC
+8/15/17 8:33,New York,NY
+8/15/17 8:33,Rochester,NY
+8/15/17 8:33,Binghamton,NY
+8/15/17 8:34,New York,NY
+8/15/17 8:45,Anderson,IN
+8/15/17 8:45,New York,NY
+8/15/17 8:56,Syracuse,NY
+8/15/17 8:56,New York,New York
+8/15/17 9:17,Owosso,MI
+8/15/17 9:18,Suffern,NY
+8/15/17 10:15,South Bend,IN
+8/15/17 10:15,Kansas City,Missouri
+8/15/17 10:15,Binghamton,NY
+8/15/17 10:37,East Orange,NJ
+8/15/17 10:48,New York,NY
+8/15/17 11:20,Indianapolis,IN
+8/15/17 11:22,Washington,DC
+8/15/17 11:43,New York,New York
+8/15/17 11:45,Fresno,CA
+8/15/17 11:52,Washington,District of Columbia
+8/15/17 12:07,Chicago,IL
+8/15/17 12:52,New York,NY
+8/15/17 13:26,New York,New York
+8/15/17 13:37,Towson,MD
+8/15/17 14:00,Washington,DC
+8/15/17 14:02,New York,NY
+8/15/17 14:06,Philadelphia,PA
+8/15/17 14:09,New York,NY
+8/15/17 14:11,San Diego,CA
+8/15/17 14:12,San Diego,CA
+8/15/17 14:22,New York,NY
+8/15/17 14:45,Memphis,TN
+8/15/17 14:56,Joyce,WA
+8/15/17 14:56,Joyce,WA
+8/15/17 14:59,Silver Spring,MD
+8/15/17 15:18,New York,NY
+8/15/17 15:30,Spokane,WA
+8/15/17 15:30,Wilkes-Barre,PA
+8/15/17 15:30,Schenectady,NY
+8/15/17 15:30,Atlanta,GA
+8/15/17 17:00,Memphis,TN
+8/15/17 17:24,Norfolk,VA
+8/15/17 17:33,Redding,CA
+8/15/17 18:07,Rensselaer Falls,NY
+8/15/17 18:19,Providence,RI
+8/15/17 18:52,Milford,Massachusetts
+8/15/17 18:52,Richmond,VA
+8/15/17 19:26,New York,NY
+8/15/17 19:39,Oroville,CA
+8/15/17 20:11,Willmar,MN
+8/15/17 20:22,Seattle,WA
+8/15/17 20:22,Elmira,NY
+8/15/17 20:39,Kansas City,MO
+8/15/17 20:45,Fargo,ND
+8/15/17 20:45,Minneapolis,MN
+8/15/17 20:45,New York,NY
+8/15/17 20:47,Phoenix,AZ
+8/15/17 21:52,Junction City,OR
+8/15/17 22:26,Dawson Springs,KY
+8/16/17 0:46,New York,NY
+8/16/17 3:10,New York,NY
+8/16/17 3:40,Hartford,CT
+8/16/17 4:23,Chicago,IL
+8/16/17 4:37,New York,NY
+8/16/17 5:04,New York,NY
+8/16/17 5:11,New York,NY
+8/16/17 5:22,Brooklyn,New York
+8/16/17 5:33,Syracuse,NY
+8/16/17 5:56,Glendale,AZ
+8/16/17 6:41,Bryan,TX
+8/16/17 6:52,Olympia,Washington
+8/16/17 6:52,New York,NY
+8/16/17 7:03,New York,NY
+8/16/17 7:15,Oakland,CA
+8/16/17 7:26,Charlottesville,VA
+8/16/17 7:37,West Palm Beach,FL
+8/16/17 7:37,Fargo,ND
+8/16/17 7:37,Duluth,MN
+8/16/17 7:37,Grand Forks,ND
+8/16/17 7:37,Buffalo,NY
+8/16/17 7:37,Buffalo,NY
+8/16/17 8:00,Macon,Georgia
+8/16/17 8:00,West Palm Beach,FL
+8/16/17 8:33,Spokane,WA
+8/16/17 8:37,Lincolnton,NC
+8/16/17 8:45,Utica,NY
+8/16/17 8:58,Philadelphia,PA
+8/16/17 9:05,West Palm Beach,FL
+8/16/17 9:18,Indianapolis,Indiana
+8/16/17 9:18,Washington,DC
+8/16/17 9:30,New York,NY
+8/16/17 9:49,Washington,DC
+8/16/17 9:52,Washington,DC
+8/16/17 10:02,Venice Beach,CA
+8/16/17 10:26,Washington,DC
+8/16/17 10:32,Washington,DC
+8/16/17 10:37,Memphis,TN
+8/16/17 10:37,Birmingham,AL
+8/16/17 11:33,New York,NY
+8/16/17 11:56,Hartford,CT
+8/16/17 12:07,New York,NY
+8/16/17 12:18,Middletown,NY
+8/16/17 12:30,Newport News,VA
+8/16/17 12:30,Pittsfield,MA
+8/16/17 12:38,Madison,WI
+8/16/17 12:41,Kentland,Indiana
+8/16/17 13:03,Nevada City,CA
+8/16/17 13:03,New York,New York
+8/16/17 13:05,Charlottesville,VA
+8/16/17 13:12,Washington,DC
+8/16/17 13:26,Cedar Rapids,Iowa
+8/16/17 13:26,New York,NY
+8/16/17 13:48,Chicago,IL
+8/16/17 14:33,Sacramento,CA
+8/16/17 14:58,Chicago,IL
+8/16/17 15:18,Atlanta,GA
+8/16/17 15:18,Allentown,PA
+8/16/17 15:41,Charlottesville,VA
+8/16/17 15:41,Cedar Park,Texas
+8/16/17 15:52,Minneapolis,MN
+8/16/17 16:26,New York,NY
+8/16/17 16:26,Springfield,MA
+8/16/17 16:26,Syracuse,NY
+8/16/17 16:37,Spokane,WA
+8/16/17 16:37,Portland,OR
+8/16/17 16:48,Chicago,IL
+8/16/17 16:55,Clay Center,KS
+8/16/17 16:56,Trenton,NJ
+8/16/17 17:11,Redding,CA
+8/16/17 17:33,West Sacramento,CA
+8/16/17 18:07,Philadelphia,PA
+8/16/17 18:17,Philadelphia,PA
+8/16/17 20:22,Seattle,WA
+8/16/17 20:33,Grabill,IN
+8/16/17 20:56,Concord,NH
+8/16/17 22:03,Milwaukee,Wisconsin
+8/16/17 22:37,Binghamton,NY
+8/17/17 1:03,Teaneck,NJ
+8/17/17 3:07,Palo Alto,CA
+8/17/17 4:07,New York,NY
+8/17/17 4:15,Lubbock,TX
+8/17/17 4:21,Bristol,VA
+8/17/17 6:18,Harrisburg,PA
+8/17/17 8:00,San Francisco,CA
+8/17/17 8:11,Denver,CO
+8/17/17 8:22,Louisville,KY
+8/17/17 8:22,Queens,NY
+8/17/17 8:27,Los Angeles,CA
+8/17/17 8:35,Washington,DC
+8/17/17 8:46,Fort Wayne,IN
+8/17/17 9:30,Washington,DC
+8/17/17 9:30,New York,NY
+8/17/17 9:41,Cleveland,Ohio
+8/17/17 10:19,South Bend,IN
+8/17/17 10:37,Owensboro,KY
+8/17/17 10:37,Indianapolis,IN
+8/17/17 10:55,Washington,DC
+8/17/17 11:00,Eaton,IN
+8/17/17 11:00,Eaton,IN
+8/17/17 11:11,Lebanon,TN
+8/17/17 11:11,Hilo,HI
+8/17/17 11:22,New York,NY
+8/17/17 11:31,Washington,DC
+8/17/17 11:45,Easton,CT
+8/17/17 11:56,Indianapolis,IN
+8/17/17 12:52,New York,NY
+8/17/17 12:52,Brooklyn,New York
+8/17/17 13:26,Bloomington,IN
+8/17/17 14:32,Indianapolis,IN
+8/17/17 14:35,Indianapolis,IN
+8/17/17 14:55,Evansville,IN
+8/17/17 15:07,Columbus,OH
+8/17/17 15:30,Indianapolis,IN
+8/17/17 15:52,Cocoa,FL
+8/17/17 17:01,New York,NY
+8/17/17 17:10,Austin,TX
+8/17/17 17:41,San Diego,CA
+8/17/17 18:43,Washington,DC
+8/17/17 18:52,Indianapolis,IN
+8/17/17 20:00,Baltimore,Maryland
+8/17/17 20:22,New York,NY
+8/17/17 22:03,Fort Wayne,IN
+8/17/17 22:03,Fort Wayne,IN
+8/17/17 22:26,Terre Haute,IN
+8/18/17 2:00,Providence,RI
+8/18/17 2:22,Suffern,NY
+8/18/17 2:45,Indianapolis,IN
+8/18/17 3:30,Monroe,Washington
+8/18/17 5:33,New York,NY
+8/18/17 6:30,New Philadelphia,OH
+8/18/17 6:41,New York,NY
+8/18/17 7:06,New York,NY
+8/18/17 7:15,New York,NY
+8/18/17 7:34,New Albany,Indiana
+8/18/17 8:00,Rochester,NY
+8/18/17 8:33,Minneapolis,MN
+8/18/17 8:33,Minneapolis,MN
+8/18/17 8:42,Hartford,CT
+8/18/17 8:50,Cambridge,MA
+8/18/17 9:18,New York,NY
+8/18/17 9:41,New York,NY
+8/18/17 9:52,Grabill,IN
+8/18/17 10:26,Valencia,California
+8/18/17 10:37,Fort Wayne,IN
+8/18/17 10:48,Atherton,CA
+8/18/17 11:11,New York,NY
+8/18/17 11:11,Los Angeles,CA
+8/18/17 11:22,Fort Wayne,IN
+8/18/17 11:33,San Diego,California
+8/18/17 11:33,San Diego,CA
+8/18/17 11:37,San Francisco,CA
+8/18/17 11:56,Baltimore,Maryland
+8/18/17 12:27,New York,NY
+8/18/17 12:30,Chatham,IL
+8/18/17 12:30,San Bernardino,CA
+8/18/17 12:30,Davenport,IA
+8/18/17 12:30,Philadelphia,PA
+8/18/17 12:41,San Diego,California
+8/18/17 12:52,Sioux Falls,SD
+8/18/17 12:52,San Diego,CA
+8/18/17 12:52,Memphis,TN
+8/18/17 13:15,New York,NY
+8/18/17 13:15,Buffalo,NY
+8/18/17 13:15,Dr. Colchester,VT
+8/18/17 13:37,Appleton,WI
+8/18/17 13:48,Huntsville,AL
+8/18/17 14:11,Chicago,IL
+8/18/17 14:45,South Bend,Indiana
+8/18/17 15:07,Dickson,TN
+8/18/17 16:26,Ridgefield,CT
+8/18/17 17:42,Portland,OR
+8/18/17 18:41,Washington,DC
+8/18/17 18:41,Chicago,IL
+8/18/17 20:33,Kincaid,IL
+8/18/17 21:07,Fort Wayne,IN
+8/18/17 21:30,Stamford,CT
+8/19/17 0:18,Long Beach,CA
+8/19/17 0:41,Bedford,Indiana
+8/19/17 5:33,Tampa,Florida
+8/19/17 5:56,New York,NY
+8/19/17 6:24,Englewood,NJ
+8/19/17 11:22,Miami,FL
+8/19/17 11:31,New York,NY
+8/19/17 12:07,Tallahassee,FL
+8/19/17 14:56,Richmond,VA
+8/19/17 22:14,San Francisco,CA
+8/20/17 1:15,Overland Park,KS
+8/20/17 4:43,Reading,PA
+8/20/17 7:37,Macon,Georgia
+8/20/17 8:33,Murfreesboro,TN
+8/20/17 9:30,Waltham,MA
+8/20/17 13:15,New York,NY
+8/20/17 15:28,Terre Haute,IN
+8/20/17 16:15,West Palm Beach,FL
+8/20/17 16:24,New York,NY
+8/20/17 17:00,Orlando,Florida
+8/20/17 18:18,Modesto,Ca
+8/20/17 18:41,La Mesa,CA
+8/20/17 20:33,Columbus,OH
+8/21/17 1:15,Fremont,CA
+8/21/17 1:26,Madisonville,KY
+8/21/17 1:37,New York,NY
+8/21/17 2:45,Southbury,CT
+8/21/17 3:50,New York,NY
+8/21/17 4:25,Montgomery,AL
+8/21/17 4:26,Woodland Hills,CA
+8/21/17 4:26,Youngstown,OH
+8/21/17 5:00,New York,NY
+8/21/17 5:04,Rapid City,SD
+8/21/17 5:33,Nokomis,FL
+8/21/17 6:30,New York,NY
+8/21/17 6:41,Fort Wayne,IN
+8/21/17 6:47,Framingham,MA
+8/21/17 7:03,Monroe,Washington
+8/21/17 8:31,Pittsburgh,PA
+8/21/17 8:37,Windsor,Connecticut
+8/21/17 9:25,Pittsburgh,PA
+8/21/17 9:41,New York,NY
+8/21/17 10:03,Indianapolis,IN
+8/21/17 10:37,Leesburg,VA
+8/21/17 10:48,Jacksonville,FL
+8/21/17 10:48,Tampa,FL
+8/21/17 11:00,Venice Beach,CA
+8/21/17 11:22,Pittsburgh,PA
+8/21/17 12:02,Fargo,ND
+8/21/17 12:26,Decatur,IL
+8/21/17 12:46,New York,NY
+8/21/17 12:52,Springfield,IL
+8/21/17 13:56,Atherton,CA
+8/21/17 14:07,New York,New York
+8/21/17 14:18,Santa Barbara,CA
+8/21/17 14:22,Orlando,Florida
+8/21/17 14:35,Raleigh,NC
+8/21/17 14:56,Pittsburgh,PA
+8/21/17 15:30,New York,NY
+8/21/17 16:18,Oakland,CA
+8/21/17 16:36,Dayton,OH
+8/21/17 18:18,Ann Arbor,mi
+8/21/17 20:11,Ridgewood,NJ
+8/21/17 21:18,San Francisco,CA
+8/21/17 21:55,San Francisco,CA
+8/22/17 1:25,Harrisburg,Pennsylvania
+8/22/17 2:00,Philadelphia,PA
+8/22/17 4:08,Houston,Texas
+8/22/17 5:00,Jackson,MI
+8/22/17 6:52,Lake Havasu City,AZ
+8/22/17 7:25,Indianapolis,IN
+8/22/17 7:26,Boston,MA
+8/22/17 7:45,Brunswick,GA
+8/22/17 8:00,Boston,MA
+8/22/17 9:29,Cleveland,OH
+8/22/17 9:54,Pearland,TX
+8/22/17 10:13,Portsmouth,NH
+8/22/17 10:14,Cleveland,Ohio
+8/22/17 10:46,Cleveland,OH
+8/22/17 11:00,Fort Wayne,IN
+8/22/17 11:11,Los Angeles,CA
+8/22/17 11:29,St. Paul,MN
+8/22/17 11:45,New York,NY
+8/22/17 12:07,Houston,Texas
+8/22/17 12:52,Charleston,WV
+8/22/17 13:03,Chicago,IL
+8/22/17 13:03,San Francisco,CA
+8/22/17 13:38,Chicago,IL
+8/22/17 13:41,New York,NY
+8/22/17 13:53,Tallahassee,FL
+8/22/17 14:00,New York,NY
+8/22/17 14:22,Fort Myers,FL
+8/22/17 14:33,Cleveland,OH
+8/22/17 15:30,Sacramento,CA
+8/22/17 15:30,Louisville,KY
+8/22/17 16:03,Corpus Christi,TX
+8/22/17 16:29,San Diego,CA
+8/22/17 16:37,New York,NY
+8/22/17 16:48,Dallas-Fort Worth,TX
+8/22/17 16:48,Corpus Christi,TX
+8/22/17 16:48,Portland,OR
+8/22/17 17:52,Las Vegas,NV
+8/22/17 17:56,Washington,PA
+8/22/17 18:10,Las Vegas,NV
+8/22/17 18:41,Panama City,FL
+8/22/17 18:45,San Diego,CA
+8/22/17 19:31,Sioux Falls,SD
+8/22/17 19:58,Moline,IL
+8/22/17 22:03,St. Louis,MO
+8/23/17 3:01,San Ramon,CA
+8/23/17 5:45,Greeley,CO
+8/23/17 5:56,Karns City,PA
+8/23/17 7:03,Chicago,IL
+8/23/17 7:19,New York,NY
+8/23/17 8:00,New York,NY
+8/23/17 8:33,Hartford,CT
+8/23/17 8:55,Cleveland,OH
+8/23/17 8:56,Sand Fork,WV
+8/23/17 9:18,New York City,NY
+8/23/17 9:39,Cleveland,OH
+8/23/17 9:41,Queens,NY
+8/23/17 10:15,New York,NY
+8/23/17 10:24,Philadelphia,PA
+8/23/17 11:00,Chicago,IL
+8/23/17 11:38,McAllen,Texas
+8/23/17 11:51,La Mesa,CA
+8/23/17 12:07,Cleveland,OH
+8/23/17 12:10,Lawrenceburg,IN
+8/23/17 12:42,Philadelphia,PA
+8/23/17 12:57,New York,New York
+8/23/17 12:58,Plano,Texas
+8/23/17 13:26,Chicago,IL
+8/23/17 14:56,Fayetteville,AR
+8/23/17 14:56,Schenectady,NY
+8/23/17 14:58,Palm Coast,Florida
+8/23/17 15:03,Philadelphia,PA
+8/23/17 15:07,Schenectady,NY
+8/23/17 15:09,Fayetteville,AR
+8/23/17 15:30,Hartford,CT
+8/23/17 15:30,Connersville,IN
+8/23/17 15:33,Kokomo,IN
+8/23/17 15:41,Cincinnatti,OH
+8/23/17 16:26,Los Angeles,CA
+8/23/17 16:48,Denton,TX
+8/23/17 19:05,Philadelphia,PA
+8/23/17 19:55,Philadelphia,PA
+8/23/17 20:00,Sacramento,CA
+8/23/17 20:22,Little Rock,AR
+8/23/17 20:33,Milwaukee,Wisconsin
+8/23/17 20:35,San Francisco,CA
+8/23/17 22:34,Newark,NJ
+8/23/17 23:11,Orlando,Florida
+8/23/17 23:22,Easton,Maryland
+8/24/17 0:18,Hammonton,NJ
+8/24/17 0:30,Philadelphia,PA
+8/24/17 1:26,San Ramon,CA
+8/24/17 2:00,Vincennes,IN
+8/24/17 2:22,Greensboro,NORTH CAROLINA
+8/24/17 2:33,Gillette,WY
+8/24/17 2:56,Schenectady,NY
+8/24/17 2:56,Schenectady,NY
+8/24/17 3:00,Hartford,CT
+8/24/17 3:30,Laredo,TX
+8/24/17 5:33,Dallas,TX
+8/24/17 6:41,Galatia,IL
+8/24/17 8:11,Ann Arbor,MI
+8/24/17 8:32,Memphis,TN
+8/24/17 8:45,Park Forest,IL
+8/24/17 9:18,Leesburg,VA
+8/24/17 9:18,Cleveland,Ohio
+8/24/17 9:40,Youngstown,OH
+8/24/17 9:51,Independence,OH
+8/24/17 9:54,Milwaukee,Wisconsin
+8/24/17 9:55,Washington,District of Columbia
+8/24/17 10:03,Independence,OH
+8/24/17 10:26,New York,NY
+8/24/17 10:26,Chicago,IL
+8/24/17 10:32,New York,NY
+8/24/17 10:37,Portland,OR
+8/24/17 11:11,Chicago,IL
+8/24/17 11:42,Washington,DC
+8/24/17 11:52,Wichita,KS
+8/24/17 12:09,Englewood,CO
+8/24/17 12:23,Cincinnati,OH
+8/24/17 12:41,Boston Heights,OH
+8/24/17 12:41,Philadelphia,PA
+8/24/17 13:03,Peoria,IL
+8/24/17 13:57,Minneapolis,MN
+8/24/17 14:22,Chicago,IL
+8/24/17 14:56,DeKalb,IL
+8/24/17 14:56,Philadelphia,PA
+8/24/17 14:57,Los Angeles,CA
+8/24/17 15:12,Schenectady,NY
+8/24/17 15:22,Philadelphia,PA
+8/24/17 15:33,daytona,florida
+8/24/17 16:48,New York,NY
+8/24/17 21:07,Fort Wayne,IN
+8/24/17 21:18,Grass Valley,CA
+8/24/17 22:03,Camden,SC
+8/24/17 23:02,Owosso,MI
+8/25/17 0:22,New York,NY
+8/25/17 0:22,New York,NY
+8/25/17 0:30,San Francisco,CA
+8/25/17 1:26,Kingston,NY
+8/25/17 2:11,Youngstown,OH
+8/25/17 2:11,Youngstown,OH
+8/25/17 2:22,Las Vegas,NV
+8/25/17 3:22,San Ramon,CA
+8/25/17 4:14,San Ramon,CA
+8/25/17 4:14,Shakopee,MN
+8/25/17 5:33,Greenwich,CT
+8/25/17 5:48,Minneapolis,MN
+8/25/17 6:18,Cambridge,MA
+8/25/17 6:30,Washington,DC
+8/25/17 7:03,Milford,DE
+8/25/17 7:15,Indianapolis,IN
+8/25/17 7:26,Washington,DC
+8/25/17 7:37,Nokomis,FL
+8/25/17 8:22,Charleston,South Carolina
+8/25/17 8:33,Dover,DE
+8/25/17 8:56,Cleveland,OH
+8/25/17 10:04,Wilmington,DE
+8/25/17 10:31,San Francisco,CA
+8/25/17 10:44,Kingston,NY
+8/25/17 11:56,District of Columbia,D.C.
+8/25/17 12:07,New Providence,New Jersey
+8/25/17 12:52,New York,NY
+8/25/17 12:52,New York,NY
+8/25/17 12:52,St. Louis,MO
+8/25/17 12:52,St. Louis,MO
+8/25/17 12:52,Columbus,OH
+8/25/17 12:52,Cleveland,OH
+8/25/17 13:06,Washington,DC
+8/25/17 13:37,Springfield,IL
+8/25/17 13:37,Peoria,IL
+8/25/17 13:53,Los Angeles,CA
+8/25/17 14:00,Milford,DE
+8/25/17 14:00,Smyrna,DE
+8/25/17 14:00,Middletown,DE
+8/25/17 14:00,Smyrna,Delaware
+8/25/17 14:00,Middletown,Delaware
+8/25/17 14:00,Milford,Delaware
+8/25/17 14:00,Georgetown,DE
+8/25/17 14:00,Georgetown,Delaware
+8/25/17 14:44,Overland Park,KS
+8/25/17 14:45,Holland,MI
+8/25/17 14:56,San Francisco,CA
+8/25/17 16:27,Michigan City,IN
+8/25/17 16:48,Los Angeles,CA
+8/25/17 16:48,Clay Center,KS
+8/25/17 16:48,Los Angeles,CA
+8/25/17 16:48,Philadelphia,PA
+8/25/17 17:31,Trinidad,CO
+8/25/17 21:07,Fort Wayne,IN
+8/25/17 21:07,Fort Wayne,IN
+8/25/17 21:18,New Providence,New Jersey
+8/25/17 21:18,New Providence,New Jersey
+8/22/17 11:00,San Luis Obispo,CA
+8/22/17 16:03,Washington,DC
+8/23/17 3:18,Bloomington,IN
+8/24/17 9:52,Austin,TX
+8/24/17 16:15,olean,New york
+8/24/17 21:07,Fort Wayne,IN
+8/25/17 8:33,Dover,DE
+8/25/17 8:56,Cleveland,OH
+8/25/17 10:04,Wilmington,DE
+8/25/17 10:31,San Francisco,CA
+8/25/17 10:44,Kingston,NY
+8/25/17 11:56,District of Columbia,D.C.
+8/25/17 12:52,Columbus,OH
+8/25/17 12:52,New York,NY
+8/25/17 12:52,New York,NY
+8/25/17 13:06,Washington,DC
+8/25/17 13:37,Peoria,IL
+8/25/17 13:37,Springfield,IL
+8/25/17 13:53,Los Angeles,CA
+8/25/17 14:00,Smyrna,Delaware
+8/25/17 14:44,Overland Park,KS
+8/25/17 14:45,Holland,MI
+8/25/17 14:56,San Francisco,CA
+8/25/17 16:27,Michigan City,IN
+8/25/17 16:48,Clay Center,KS
+8/25/17 16:48,Philadelphia,PA
+8/25/17 16:48,Los Angeles,CA
+8/25/17 16:48,Los Angeles,CA
+8/25/17 21:07,Fort Wayne,IN
+8/25/17 21:18,New Providence,New Jersey
+8/25/17 21:18,New Providence,New Jersey
+8/25/17 22:39,santa fe,NM
+8/26/17 3:40,New Castle,PA
+8/26/17 6:52,New York,NY
+8/26/17 6:52,Concord,NH
+8/26/17 7:13,New York,NY
+8/26/17 8:56,New York,NY
+8/26/17 18:25,New York,NY
+8/26/17 18:30,Santa Rosa,CA
+8/26/17 18:30,New York City,New York
+8/26/17 20:22,Newark,NJ
+8/27/17 3:07,South Bend,IN
+8/27/17 6:52,Phoenix,AZ
+8/27/17 7:15,West Plains,MO
+8/27/17 9:30,New York,New York
+8/27/17 9:41,New York,NY
+8/27/17 13:37,Bennington,VT
+8/27/17 3:07,South Bend,IN
+8/27/17 6:52,Phoenix,AZ
+8/27/17 7:15,West Plains,MO
+8/27/17 9:30,New York,New York
+8/27/17 9:41,New York,NY
+8/27/17 13:37,Bennington,VT
+8/28/17 2:11,Indianapolis,IN
+8/28/17 4:03,Allston,MA
+8/28/17 6:19,Cambridge,MA
+8/28/17 7:48,Goose Creek,South Carolina
+8/28/17 9:30,Seattle,WA
+8/28/17 10:03,Kansas City,Missouri
+8/28/17 10:48,Washington,DC
+8/28/17 11:04,New York,NY
+8/28/17 11:04,Wilton Manors,Florida
+8/28/17 11:11,Cleveland,OH
+8/28/17 12:30,Sonora,CA
+8/28/17 13:03,Bloomington,IN
+8/28/17 14:29,New York,NY
+8/28/17 18:30,New York,NY
+8/28/17 20:14,Arcadia,CA
+8/28/17 21:07,Los Angeles,CA
+8/29/17 0:18,Franklin,Indiana
+8/29/17 1:26,Erie,PA
+8/29/17 6:40,Independence,OH
+8/29/17 6:41,Cleveland,OH
+8/29/17 8:00,Beaufort,SC
+8/29/17 8:11,Berkeley,CA
+8/29/17 11:08,New York,New York
+8/29/17 11:19,Vineland,NJ
+8/29/17 12:30,Fairfield,CA
+8/29/17 15:39,Lutz,FL
+8/29/17 16:03,Falls Church,VA
+8/29/17 16:15,Santa Rosa,CA
+8/29/17 17:56,Elk Grove,CA
+8/29/17 20:33,Goshen,IN
+8/29/17 20:45,Peoria,IL
+8/29/17 22:01,Fort Dodge,IA
+8/30/17 0:30,Bedford,Indiana
+8/30/17 3:05,Indianapolis,IN
+8/30/17 4:48,Oak Lawn,IL
+8/30/17 5:05,Watertown,MA
+8/30/17 5:13,Overland Park,KS
+8/30/17 5:33,Washington,DC
+8/30/17 5:56,Grangeville,ID
+8/30/17 8:11,Cambridge,MA
+8/30/17 8:33,New York,NY
+8/30/17 9:47,New York,NY
+8/30/17 10:26,Logansport,Indiana
+8/30/17 10:30,Indianapolis,IN
+8/30/17 11:11,Eutaw,AL
+8/30/17 11:49,Sioux Falls,SD
+8/30/17 13:15,Geneva,NY
+8/30/17 15:52,Memphis,TN
+8/30/17 16:03,Washington,DC
+8/30/17 16:10,Dallas,TX
+8/30/17 16:15,Washington,DC
+8/30/17 18:13,Albuquerque,NM
+8/30/17 18:52,San Francisco,CA
+8/30/17 22:26,New York,NY
+8/30/17 22:26,New York,NY
+8/30/17 23:56,Oak Park,CA
+8/31/17 2:56,Hyannis,MA
+8/31/17 7:03,Malibu,CA
+8/31/17 7:15,Washington,DC
+8/31/17 8:00,Brooklyn,NY
+8/31/17 8:33,Crenshaw Blvd,"Los Angeles, California"
+8/31/17 8:33,Denver,CO
+8/31/17 8:33,Newark,NJ
+8/31/17 10:15,New York,NY
+8/31/17 10:26,Baltimore,MD
+8/31/17 11:11,Washington,DC
+8/31/17 11:46,Charleston,South Carolina
+8/31/17 12:18,Clarksville,Tennessee
+8/31/17 12:41,New Providence,New Jersey
+8/31/17 13:37,Kennewick,WA
+8/31/17 13:37,Miami,FL
+8/31/17 14:45,Sioux Falls,SD
+8/31/17 19:26,Fort Myers Beach,Florida
+8/31/17 20:45,San Diego,CA
+9/1/17 0:25,San Ramon,CA
+9/1/17 1:15,Saint Petersburg,Florida
+9/1/17 4:03,Orlando,Florida
+9/1/17 6:23,Union,NJ
+9/1/17 6:52,Charleston,South Carolina
+9/1/17 7:15,Cape Coral,FL
+9/1/17 7:48,Mantorville,MN
+9/1/17 8:36,Southbury,CT
+9/1/17 11:11,Cambridge,MA
+9/1/17 11:21,New York,NY
+9/1/17 11:33,San Francisco,CA
+9/1/17 11:56,Washington,DC
+9/1/17 12:07,Garden City,New York
+9/1/17 12:15,San Francisco,CA
+9/1/17 12:20,San Francisco,CA
+9/1/17 12:43,Los Angeles,CA
+9/1/17 13:03,San Francisco,CA
+9/1/17 13:26,New York,New York
+9/1/17 16:35,Danville,CA
+9/2/17 5:22,Columbus,OH
+9/2/17 9:52,Athens,AL
+9/2/17 11:45,Los Angeles,CA
+9/2/17 12:41,New York,NY
+9/2/17 16:12,Hillsdale,MI
+9/2/17 16:48,San Francisco,CA
+9/2/17 18:36,Bonner Springs,KS
+9/2/17 19:59,San Francisco,CA
+9/3/17 1:15,Danville,CA
+9/3/17 1:26,Newark,OH
+9/3/17 1:15,Danville,CA
+9/3/17 1:26,Newark,OH
+9/3/17 13:37,Washington,DC
+9/3/17 21:52,Englishtown,NJ
+9/4/17 5:00,Salt Lake City,UT
+9/4/17 7:24,Franklin,Indiana
+9/4/17 7:37,Sumter,SC
+9/4/17 9:41,Detroit,MI
+9/4/17 10:48,Los Angeles,CA
+9/4/17 4:20,San Ramon,CA
+9/4/17 5:00,Salt Lake City,UT
+9/4/17 7:24,Franklin,Indiana
+9/4/17 7:37,Sumter,SC
+9/4/17 9:16,Bristol,VA
+9/4/17 9:41,Detroit,MI
+9/4/17 10:48,Los Angeles,CA
+9/4/17 11:00,Muncie,IN
+9/4/17 11:33,San Diego,CA
+9/4/17 21:41,Eugene,OR
+9/4/17 21:51,Summerville,SC
+9/5/17 6:30,Washington,DC
+9/5/17 12:01,New York,NY
+9/5/17 14:22,New York,NY
+9/5/17 14:22,Albany,NY
+9/5/17 14:33,Alton,IL
+9/5/17 17:22,Cambridge,MA
+9/5/17 18:41,Santa Ana,CA
+9/5/17 18:52,Torrance,CA
+9/6/17 1:54,Columbus,IN
+9/6/17 4:03,Bloomington,IL
+9/6/17 7:15,Needham,MA
+9/6/17 8:00,Chicago,IL
+9/6/17 14:00,San Francisco,CA
+9/6/17 14:45,Lincoln City,OR
+9/6/17 15:41,New York,NY
+9/6/17 18:07,Oakland,CA
+9/6/17 18:18,San Francisco,CA
+9/6/17 19:26,Des Moines,IO
+9/6/17 19:37,Phoenix,AZ
+9/6/17 19:45,Phoenix,AZ
+9/7/17 6:53,New York,NY
+9/7/17 6:59,Fresno,CA
+9/7/17 8:45,Los Angeles,CA
+9/7/17 11:33,San Diego,California
+9/7/17 12:41,New York,NY
+9/7/17 14:16,Des Moines,IA
+9/7/17 19:48,Los Angeles,CA
+9/7/17 20:28,Santa Ana,CA
+9/7/17 22:03,Milwaukee,Wisconsin
+9/7/17 23:56,Petaluma,CA
+9/8/17 8:11,Cheswold,DE
+9/8/17 8:33,Los Angeles,CA
+9/8/17 8:46,New York,NY
+9/8/17 9:18,Wilmington,DE
+9/8/17 10:15,Cambridge,MA
+9/8/17 11:00,Phoenix,AZ
+9/8/17 11:45,Louisville,KS
+9/8/17 11:46,Washington,DC
+9/8/17 11:56,Los Angeles,CA
+9/8/17 12:15,Kansas City,MO
+9/8/17 13:26,Baltimore,MD
+9/8/17 14:11,Zanesville,OH
+9/8/17 14:22,Oakland,CA
+9/8/17 14:22,Washington,DC
+9/8/17 15:18,Chicago,IL
+9/8/17 15:41,Amherst,MA
+9/9/17 3:58,Bonner Springs,KS
+9/9/17 6:52,St. Paul,MN
+9/9/17 7:26,Boston,MA
+9/9/17 15:41,Rosenberg,Texas
+9/10/17 2:39,Venice Beach,CA
+9/10/17 3:00,Indianapolis,IN
+9/10/17 5:00,Champaign,IL
+9/10/17 13:03,Atlanta,GA
+9/11/17 3:01,Indianapolis,IN
+9/11/17 4:15,New York,NY
+9/11/17 5:00,Redwood City,CA
+9/11/17 5:09,New York,NY
+9/11/17 8:32,New York,NY
+9/11/17 9:07,Washington,DC
+9/11/17 9:30,Chicago,IL
+9/11/17 9:39,Chicago,IL
+9/11/17 10:54,Tampa,Florida
+9/11/17 13:48,Boulder,CO
+9/11/17 14:45,Seattle,WA
+9/11/17 14:46,Seattle,WA
+9/11/17 15:07,New York,NY
+9/11/17 15:33,San Francisco,CA
+9/11/17 17:09,San Francisco,CA
+9/11/17 17:22,Washington,D.C.
+9/11/17 23:03,Seattle,WA
+9/12/17 5:10,New York,NY
+9/12/17 6:18,Los Angeles,CA
+9/12/17 6:41,Whittier,CA
+9/12/17 8:28,New York,NY
+9/12/17 8:56,Wilmington,NC
+9/12/17 8:57,Wichita,KS
+9/12/17 10:25,New York,NY
+9/12/17 10:48,New York,NY
+9/12/17 11:34,Dallas,TX
+9/12/17 11:38,Chicago,IL
+9/12/17 12:30,New York City,NY
+9/12/17 12:52,Pocatello,Idaho
+9/12/17 14:07,Tampa,Florida
+9/12/17 14:13,San Francisco,CA
+9/12/17 15:07,Washington,DC
+9/12/17 15:47,Manchester,NH
+9/12/17 16:15,New York,NY
+9/12/17 16:48,Seattle,WA
+9/12/17 17:33,Washington,DC
+9/12/17 18:00,Pittsburgh,PA
+9/12/17 18:18,Brookline,MA
+9/12/17 20:11,Pittsburgh,PA
+9/12/17 21:30,Modesto,Ca
+9/12/17 22:03,Olympia,Washington
+9/12/17 22:21,New York,NY
+9/12/17 23:00,Boston,MA
+9/13/17 0:46,Washington,DC
+9/13/17 0:52,Portland,OR
+9/13/17 2:31,Lawton,Oklahoma
+9/13/17 5:15,Chicago,IL
+9/13/17 6:07,Lisbon,OH
+9/13/17 6:30,Seattle,WA
+9/13/17 8:58,Washington,DC
+9/13/17 10:15,Hillsdale,MI
+9/13/17 11:45,New York,NY
+9/13/17 13:15,Portland,OR
+9/13/17 13:48,Asheville,NC
+9/13/17 14:45,New York,NY
+9/13/17 15:18,Mitchell,SD
+9/13/17 15:18,Washington,DC
+9/13/17 18:21,Salt Lake City,UT
+9/13/17 22:25,Salt Lake City,UT
+9/14/17 14:56,Bellingham,WA
+9/14/17 15:07,Portland,ME
+9/14/17 15:41,Los Angeles,CA
+9/14/17 16:25,New York,New York
+9/15/17 1:08,Cincinnati,OH
+9/15/17 1:37,Cleveland,OH
+9/15/17 3:41,Springfield,MA
+9/15/17 5:08,Dallas,TX
+9/15/17 5:22,Seattle,Washington
+9/15/17 5:31,Emeryville,CA
+9/15/17 6:23,Montgomery,AL
+9/15/17 7:15,Rochester,NY
+9/15/17 9:52,Washington,DC
+9/15/17 10:15,Washington,DC
+9/15/17 11:33,Brooklyn,NY
+9/15/17 13:37,Miami,FL
+9/15/17 13:48,Salt Lake City,UT
+9/15/17 14:22,Salt Lake City,UT
+9/15/17 15:18,Houston,TX
+9/15/17 15:37,Ithaca,NY
+9/15/17 16:03,Salt Lake City,UT
+9/15/17 18:07,Syracuse,NY
+9/15/17 18:52,Birmingham,AL
+9/15/17 21:09,Lansing,NY
+9/15/17 21:41,Salt Lake City,UT
+9/15/17 21:41,Elmira,NY
+9/15/17 22:44,Kankakee,IL
+9/16/17 7:03,Los Angeles,CA
+9/16/17 8:17,Los Angeles,CA
+9/16/17 11:36,Ithaca,NY
+9/16/17 12:30,San Diego,California
+9/16/17 12:52,Houston,TX
+9/16/17 13:50,South Salt Lake,UT
+9/16/17 14:11,Atlanta,GA
+9/16/17 14:33,Friendswood,TX
+9/16/17 14:55,Ithaca,NY
+9/17/17 7:26,Washington,DC
+9/17/17 9:52,Denver,CO
+9/17/17 9:52,New Bethlehem,PA
+9/17/17 11:11,San Leandro,CA
+9/17/17 13:37,Newark,NJ
+9/17/17 14:56,Hanover,NJ
+9/17/17 16:21,St-Cloud,MN
+9/17/17 20:33,Birmingham,AL
+9/18/17 5:56,Ypsilanti,MI
+9/18/17 7:37,Syracuse,NY
+9/18/17 8:44,New York,NY
+9/18/17 9:52,Portland,ME
+9/18/17 10:37,Detroit,MI
+9/18/17 10:58,Washington,DC
+9/18/17 11:33,Los Angeles,CA
+9/18/17 12:07,Clarksville,TN
+9/18/17 12:41,New York,NY
+9/18/17 13:03,Washington,DC
+9/18/17 14:22,Seattle,Washington
+9/18/17 14:45,Long Island,New York
+9/18/17 15:05,Chicago,IL
+9/18/17 15:07,Friendswood,TX
+9/18/17 15:07,Charleston,IL
+9/18/17 18:07,Los Angeles,CA
+9/18/17 18:41,Fort Worth,TX
+9/18/17 19:26,San Diego,CA
+9/18/17 19:37,Phoenix,AZ
+9/18/17 21:41,New York,NY
+9/18/17 22:26,Los Angeles,CA
+9/18/17 22:37,San Francisco,CA
+9/19/17 2:45,Vestavia Hills,AL
+9/19/17 6:52,Montgomery,AL
+9/19/17 7:03,San Diego,CA
+9/19/17 7:37,Chicago,IL
+9/19/17 9:07,Dallas,TX
+9/19/17 9:09,Philadelphia,PA
+9/19/17 9:41,Fargo,ND
+9/19/17 10:48,Moline,IL
+9/19/17 11:33,San Diego,CA
+9/19/17 12:16,New York,New York
+9/19/17 12:18,Indian Hill,OH
+9/19/17 13:10,Washington,DC
+9/19/17 13:18,Washington,DC
+9/19/17 13:48,Dover,NH
+9/19/17 14:11,Syracuse,NY
+9/19/17 14:26,Brooklyn,New York
+9/19/17 14:56,Cocoa,FL
+9/19/17 15:13,Santa Ana,CA
+9/19/17 15:18,San Diego,Ca
+9/19/17 16:48,Los Angeles,CA
+9/19/17 17:33,San Jose,CA
+9/19/17 18:07,West Fargo,ND
+9/19/17 18:12,Oakland,CA
+9/19/17 20:11,San Francisco,CA
+9/20/17 5:33,Fargo,ND
+9/20/17 5:33,Santa Ana,CA
+9/20/17 5:56,Fort Collins,CO
+9/20/17 6:11,San Francisco,CA
+9/20/17 6:52,San Francisco,CA
+9/20/17 7:03,New York,NY
+9/20/17 7:26,New York,New York
+9/20/17 9:18,Los Angeles,CA
+9/20/17 11:00,Los Angeles,CA
+9/20/17 11:08,Macon,Georgia
+9/20/17 12:52,Pleasanton,CA
+9/20/17 13:26,Winchester,MA
+9/20/17 14:10,Seattle,WA
+9/20/17 14:22,Los Angeles,CA
+9/20/17 14:25,Irondequoit,NY
+9/20/17 16:07,Seattle,Washington
+9/20/17 18:30,Los Angeles,CA
+9/20/17 19:15,Centennial,CO
+9/20/17 20:56,Harrisonburg,VA
+9/21/17 6:18,Houston,Texas
+9/21/17 7:26,Houston,Texas
+9/21/17 8:23,Houston,TX
+9/21/17 8:25,Houston,TX
+9/21/17 8:41,Houston,TX
+9/21/17 8:58,Milpitas,CA
+9/21/17 10:38,San Francisco,CA
+9/21/17 11:22,Cambridge,MA
+9/21/17 11:22,Seattle,WA
+9/21/17 11:45,Montgomery,AL
+9/21/17 14:45,Indianapolis,IN
+9/21/17 15:06,San Leandro,CA
+9/21/17 15:41,Clarksville,TN
+9/21/17 16:04,Sherman,TX
+9/22/17 2:33,Hawthorne,CA
+9/22/17 2:56,Indianapolis,IN
+9/22/17 3:07,DeKalb,IL
+9/22/17 4:03,Reading,PA
+9/22/17 4:26,Murfreesboro,TN
+9/22/17 5:12,St. George,UT
+9/22/17 5:30,Emeryville,CA
+9/22/17 8:11,Chico,CA
+9/22/17 8:25,Moorhead,MN
+9/22/17 8:33,Wausau,WI
+9/22/17 12:06,Chicago,IL
+9/22/17 13:48,Peoria,IL
+9/22/17 14:33,San Diego,CA
+9/22/17 14:56,Chicago,IL
+9/22/17 16:26,Houston,TX
+9/22/17 16:32,Carlisle,PA
+9/22/17 16:37,Houston,Texas
+9/23/17 5:00,Richmond,VA
+9/23/17 8:22,Pensacola,FL
+9/23/17 14:00,Los Angeles,CA
+9/24/17 15:31,Murfreesboro,TN
+9/24/17 17:42,Ithaca,NY
+9/24/17 19:03,Los Angeles,CA
+9/24/17 19:03,Los Angeles,CA
+9/25/17 6:41,Chicago,IL
+9/25/17 11:00,Fredericksburg,VA
+9/25/17 16:47,Washington,DC
+9/25/17 18:30,Syracuse,NY
+9/25/17 21:54,New York,NY
+9/26/17 3:30,Laredo,TX
+9/26/17 3:52,Springfield,MA
+9/26/17 4:37,San Ramon,CA
+9/26/17 8:01,New York,NY
+9/26/17 13:48,Salt Lake City,UT
+9/26/17 13:48,Chicago,IL
+9/26/17 16:37,Chattanooga,TN
+9/26/17 22:03,Miami,FL
+9/26/17,Venice Beach,CA
+9/26/17 3:18,Washington,DC
+9/26/17 3:18,New Bern,NC
+9/26/17 3:30,Fayetteville,North Carolina
+9/26/17 3:52,Springfield,MA
+9/26/17 4:45,San Ramon,CA
+9/26/17 7:15,Shreridan,WY
+9/26/17 7:48,New York,NY
+9/26/17 8:01,New York,NY
+9/26/17 8:17,Greensboro,NC
+9/26/17 9:58,Salt Lake City,UT
+9/26/17 10:44,Washington,DC
+9/26/17 13:26,Charleston,IL
+9/26/17 13:48,Chicago,IL
+9/26/17 13:57,Salt Lake City,UT
+9/26/17 17:52,Washington,DC
+9/26/17 21:00,New York,New York
+9/26/17 21:30,Charlottesville,VA
+9/26/17 22:03,Reading,PA
+9/26/17 22:03,Turlock,California
+9/26/17 22:22,Fredericksburg,VA
+9/27/17 0:07,Colorado Springs,CO
+9/27/17 5:00,New York,New York
+9/27/17 5:45,Denver,CO
+9/27/17 6:07,Richmond,VA
+9/27/17 7:02,New York,NY
+9/27/17 7:26,Red Bluff,CA
+9/27/17 7:26,Shreridan,WY
+9/27/17 7:57,New York,NY
+9/27/17 8:33,Topeka,KS
+9/27/17 8:56,Stanford,CA
+9/27/17 9:15,Atlanta,GA
+9/27/17 9:18,New York,NY
+9/27/17 10:25,Phoenix,AZ
+9/27/17 10:37,Passaic,NJ
+9/27/17 10:37,New York,NY
+9/27/17 11:30,Miami,FL
+9/27/17 11:56,New York,NY
+9/27/17 11:57,Washington,DC
+9/27/17 12:01,New York,NY
+9/27/17 12:06,Portland,OR
+9/27/17 12:39,Springfield,MO
+9/27/17 12:39,San Bernardino,CA
+9/27/17 12:41,Greensboro,NC
+9/27/17 13:00,Philadelphia,PA
+9/27/17 13:03,Washington,DC
+9/27/17 13:03,Phoenix,AZ
+9/27/17 13:03,San Jose,CA
+9/27/17 13:15,Washington,DC
+9/27/17 13:34,Pittsburgh,PA
+9/27/17 13:37,Seattle,WA
+9/27/17 13:40,Seattle,WA
+9/27/17 14:07,Springfield,MO
+9/27/17 14:22,Lexington,KY
+9/27/17 14:30,Raleigh,NC
+9/27/17 14:33,Greenfield,MA
+9/27/17 14:47,New York,NY
+9/27/17 14:54,New York,NY
+9/27/17 14:56,Overland Park,KS
+9/27/17 15:41,New York,NY
+9/27/17 18:00,Long Beach,CA
+9/27/17 18:53,Detroit,MI
+9/27/17 19:15,New York,NY
+9/27/17 19:15,Cape Girardeau,MO
+9/27/17 19:26,San Bernardino,CA
+9/27/17 19:30,California,MO
+9/27/17 19:37,Cambridge,MA
+9/27/17 19:37,Springfield,MO
+9/27/17 20:22,Wilkes-Barre,PA
+9/27/17 22:03,Provo,UT
+9/27/17 22:03,Fort Wayne,IN
+9/27/17 23:33,Chicago,IL
+9/28/17 2:11,Los Angeles,CA
+9/28/17 2:11,Washington,DC
+9/28/17 3:52,San Ramon,CA
+9/28/17 5:56,Miami Beach,FL
+9/28/17 8:04,Macon,Georgia
+9/28/17 8:27,Brooklyn,New York
+9/28/17 9:41,Hampton,VA
+9/28/17 11:45,Atlanta,GA
+9/28/17 11:48,Miami,FL
+9/28/17 12:07,Los Angeles,CA
+9/28/17 12:15,Los Angeles,CA
+9/28/17 12:30,Murfreesboro,TN
+9/28/17 12:52,Santa Rosa,CA
+9/28/17 13:35,Denver,CO
+9/28/17 14:00,San Diego,CA
+9/28/17 14:06,Los Angeles,CA
+9/28/17 14:45,San Diego,California
+9/28/17 14:51,Grand Rapids,MI
+9/28/17 15:21,Sarasota,FL
+9/28/17 20:56,santa fe,NM
+9/28/17 21:52,Phillipsburg,MO
+9/28/17 22:15,Charlottesville,VA
+9/29/17 2:56,Hartford,CT
+9/29/17 5:01,Kansas City,MO
+9/29/17 5:56,Tucson,Arizona
+9/29/17 7:25,Pittsburgh,PA
+9/29/17 8:33,Republic,MO
+9/29/17 9:18,San Diego,California
+9/29/17 9:30,Washington,DC
+9/29/17 9:41,Des Moines,IA
+9/29/17 10:03,Springfield,MO
+9/29/17 10:19,Warrenton,VA
+9/29/17 10:41,Washington,DC
+9/29/17 10:48,New York,NY
+9/29/17 10:54,Emeryville,CA
+9/29/17 11:31,Lebanon,PA
+9/29/17 11:45,Altoona,PA
+9/29/17 11:45,Chicago,IL
+9/29/17 12:28,Leesburg,Virginia
+9/29/17 13:15,Phillipsburg,MO
+9/29/17 13:48,Tampa,Florida
+9/29/17 14:11,Tampa,Florida
+9/29/17 14:22,Folsom,CA
+9/29/17 14:33,Orlando,Florida
+9/29/17 14:49,San Francisco,CA
+9/29/17 23:00,Sheridan,WY
+9/30/17 6:18,St. Edwardsville,IL
+9/30/17 6:22,Seattle,WA
+9/30/17 6:52,Columbia,MS
+9/30/17 7:37,New London,CT
+9/30/17 8:22,Phoenix,AZ
+9/30/17 9:07,Sausalito,CA
+9/30/17 9:52,Hartford,CT
+9/30/17 10:54,Chicago,IL
+9/30/17 12:18,Bridgeport,CT
+9/30/17 14:45,Warrenton,VA
+9/30/17 15:18,St. Louis,MO
+9/30/17 16:15,New York,NY
+9/30/17 17:15,Lexington,KY
+9/30/17 19:15,Los Angeles,CA
+10/1/17 5:56,Milwaukee,Wisconsin
+10/1/17 6:09,Los Angeles,CA
+10/1/17 6:30,Charlottesville,VA
+10/1/17 8:45,Chicago,IL
+10/1/17 10:45,Greensboro,NC
+10/1/17 12:40,New York,NY
+10/1/17 15:30,San Antonio,TX
+10/1/17 16:23,New York,NY
+10/1/17 17:56,Ann Arbor,MI
+10/1/17 23:17,Bellevue,WA
+10/2/17 0:56,Stanford,CA
+10/2/17 5:45,Harrisburg,Pennsylvania
+10/2/17 6:07,Eugene,OR
+10/2/17 9:07,Eugene,OR
+10/2/17 11:00,San Antonio,TX
+10/2/17 11:00,Whiteside,TN
+10/2/17 11:49,Whippany,NJ
+10/2/17 11:56,Lily,KY
+10/2/17 14:05,Palo Alto,CA
+10/2/17 14:31,New York,NY
+10/2/17 15:07,Terre Haute,IN
+10/2/17 17:03,Palo Alto,CA
+10/2/17 18:06,Ames,IA
+10/3/17 3:07,New York,NY
+10/3/17 8:33,Milwaukee,WI
+10/3/17 12:27,Portland,OR
+10/3/17 12:30,Rockville,MD
+10/3/17 14:45,New Providence,New Jersey
+10/3/17 15:52,Portland,OR
+10/3/17 20:14,Ames,IA
+10/3/17 21:07,Ithaca,NY
+10/4/17 6:07,Seattle,WA
+10/4/17 6:54,Boise,Idaho
+10/4/17 7:03,Springfield,MA
+10/4/17 7:37,Kansas City,MO
+10/4/17 8:56,Madison,WI
+10/4/17 9:52,Chicago,IL
+10/4/17 10:15,Denver,CO
+10/4/17 10:37,Washington,DC
+10/4/17 11:22,Washington,DC
+10/4/17 12:30,Seattle,WA
+10/4/17 18:07,Amherst,MA
+10/4/17 18:44,Detroit,MI
+10/4/17 21:18,Greenfield,MA
+10/5/17 3:40,New York,NY
+10/5/17 6:04,West Plains,MO
+10/5/17 6:06,Montgomery,Alabama
+10/5/17 6:07,Wichita,KS
+10/5/17 6:30,Madison,WI
+10/5/17 10:56,Ames,IA
+10/5/17 11:22,New York,NY
+10/5/17 12:07,Howard Beach,New York
+10/5/17 12:44,Annapolis,Maryland
+10/5/17 12:52,Brooklyn,New York
+10/5/17 13:03,Annapolis,MD
+10/5/17 13:32,Jacksonville,FL
+10/5/17 13:48,Jacksonville,FL
+10/5/17 13:48,tampa,Florida
+10/5/17 14:11,Yakima,WA
+10/5/17 20:22,Los Angeles,CA
+10/5/17 20:45,Colorado Springs,Colorado
+10/5/17 22:15,Milwaukee,Wisconsin
+10/6/17 7:07,Washington,District of Columbia
+10/6/17 11:11,Sioux City,IA
+10/6/17 11:56,Washington,D.C.
+10/6/17 21:01,Springfield,MO
+10/7/17 7:26,Los Angeles,CA
+10/7/17 20:33,Madison,WI
+10/7/17 22:03,Bayside,New York
+10/7/17 23:45,Plymouth,NH
+10/8/17 10:36,Venice Beach,CA
+10/8/17 13:00,Rockville,MD
+10/8/17 14:11,Whitewater,WI
+10/8/17 14:33,Los Angeles,CA
+10/8/17 15:07,Los Angeles,CA
+10/8/17 23:11,Brooklyn,NY
+10/9/17 8:17,Annapolis,Maryland
+10/9/17 8:22,Overland Park,KS
+10/9/17 8:33,Fort Atkinson,WI
+10/9/17 10:09,El Paso,TX
+10/9/17 11:56,Washington,DC
+10/9/17 12:03,Waterville,ME
+10/9/17 13:35,Washington,DC
+10/9/17 18:00,South Bend,IN
+10/9/17 19:26,Lewiston,ME
+10/9/17 20:56,Auburn,NY
+10/9/17 21:07,Grabill,IN
+10/10/17 2:00,Annapolis,Maryland
+10/10/17 4:15,Indianapolis,IN
+10/10/17 4:15,Columbus,IN
+10/10/17 6:20,Indianapolis,IN
+10/10/17 7:22,New York,NY
+10/10/17 8:00,Hays,KS
+10/10/17 8:33,Columbia,MO
+10/10/17 14:07,Orlando,FL
+10/10/17 14:32,Rochester,NY
+10/10/17 14:33,Lewiston,ME
+10/10/17 15:07,South Bend,IN
+10/10/17 16:37,Spokane,WA
+10/10/17 16:43,Bangor,ME
+10/10/17 17:08,Spokane,WA
+10/10/17 20:53,Philadelphia,PA
+10/11/17 4:37,Indianapolis,IN
+10/11/17 5:00,Chicago,IL
+10/11/17 7:03,Woodbury,NJ
+10/11/17 7:26,San Antonio,TX
+10/11/17 7:26,Baltimore,MD
+10/11/17 8:57,Greenfield,MA
+10/11/17 9:18,Rochester,NY
+10/11/17 10:26,Washington,DC
+10/11/17 11:33,Knoxville,Tennessee
+10/11/17 11:45,Houston,Texas
+10/11/17 11:56,Frederick,MD
+10/11/17 12:07,Seattle,WA
+10/11/17 12:07,Montgomery,AL
+10/11/17 13:03,Bellevue,Washington
+10/11/17 13:03,West Palm Beach,FL
+10/11/17 13:08,West Palm Beach,FL
+10/11/17 13:37,Centralia,WA
+10/11/17 13:37,Irondequoit,NY
+10/11/17 13:48,New York,NY
+10/11/17 14:33,Allentown,PA
+10/11/17 15:00,Seattle,WA
+10/11/17 15:50,Rochester,NY
+10/11/17 16:12,Spokane,WA
+10/11/17 16:15,Seattle,WA
+10/11/17 17:22,Spokane,WA
+10/11/17 18:41,Spokane,WA
+10/11/17 21:52,Providence,RI
+10/12/17 2:11,Rochester,NY
+10/12/17 3:30,Miami,FL
+10/12/17 5:56,Edgewater,NJ
+10/12/17 6:15,Staten Island,NY
+10/12/17 8:22,Philadelphia,PA
+10/12/17 10:26,Spokane,WA
+10/12/17 13:37,Spokane,WA
+10/12/17 14:22,Midland,MI
+10/12/17 14:22,Salt Lake City,UT
+10/12/17 18:18,Baltimore,MD
+10/12/17 19:57,Spokane,WA
+10/12/17 20:11,Conshohocken,PA
+10/13/17 1:38,Los Angeles,CA
+10/13/17 3:52,New York,NY
+10/13/17 4:53,Venice Beach,CA
+10/13/17 5:29,Emeryville,CA
+10/13/17 5:55,New York,NY
+10/13/17 6:07,Topeka,KS
+10/13/17 7:09,Burlington,VT
+10/13/17 7:15,Indiana,PA
+10/13/17 7:26,Stamford,CT
+10/13/17 7:37,Geneseo,KS
+10/13/17 8:33,Riverside,CA
+10/13/17 9:18,Orlando,Florida
+10/13/17 10:27,Warrenton,VA
+10/13/17 11:37,Miami,FL
+10/13/17 13:15,Washington,DC
+10/13/17 17:56,Richmond,VA
+10/13/17 19:15,Westborough,MA
+10/13/17 20:00,Fitchburg,MA
+10/13/17 21:41,casper,wy
+10/14/17 5:56,Schaumburg,IL
+10/14/17 8:33,Bangor,Maine
+10/14/17 12:00,The Villages,Florida
+10/14/17 16:48,Fargo,ND
+10/14/17 19:15,Springfield,MA
+10/14/17 19:48,Washington,DC
+10/15/17 2:45,Illinois,Chicago
+10/15/17 10:01,New York,NY
+10/15/17 12:28,New York,NY
+10/15/17 13:25,Washington,D.C.
+10/15/17 13:26,Washington,DC
+10/15/17 13:36,Des Moines,IA
+10/15/17 15:07,Cocoa,FL
+10/15/17 15:18,Eau Claire,WI
+10/15/17 15:18,Parkersburg,IA
+10/15/17 15:18,New York,New York
+10/15/17 16:03,Stronghurst,IL
+10/15/17 16:51,Washington,DC
+10/15/17 17:19,Westborough,MA
+10/15/17 17:22,Winston-Salem,NC
+10/15/17 17:33,Savannah,GA
+10/15/17 22:15,New York,NY
+10/15/17 22:20,Paducah,KY
+10/16/17 2:11,Orlando,Florida
+10/16/17 3:01,New York,NY
+10/16/17 5:22,Des Moines,IO
+10/16/17 5:56,Washington,DC
+10/16/17 6:52,Columbus,GA
+10/16/17 7:03,New York,NY
+10/16/17 7:26,Highland,CA
+10/16/17 7:56,New York,NY
+10/16/17 8:00,Washington,DC
+10/16/17 8:23,New York,NY
+10/16/17 8:33,Biloxi,MS
+10/16/17 8:56,Phoenix,AZ
+10/16/17 8:56,Venice Beach,CA
+10/16/17 9:30,Fort Myers,FL
+10/16/17 9:41,Dulles,VA
+10/16/17 9:52,Las Vegas,NV
+10/16/17 9:52,Denver,CO
+10/16/17 9:55,Columbia,MS
+10/16/17 10:03,Greenwich,CT
+10/16/17 10:03,Austin,TX
+10/16/17 10:15,New York,NY
+10/16/17 10:37,Chicago,IL
+10/16/17 10:37,Chicago,IL
+10/16/17 11:11,New York,NY
+10/16/17 11:23,New York,NY
+10/16/17 11:33,Moline,IL
+10/16/17 11:45,Helena,MT
+10/16/17 12:18,Youngstown,OH
+10/16/17 12:41,Orlando,Florida
+10/16/17 13:26,Chicago,IL
+10/16/17 14:00,Cocoa,FL
+10/16/17 14:45,New York,NY
+10/16/17 16:03,Hartford,CT
+10/16/17 16:03,Pageland,S.C
+10/16/17 16:26,Orlando,Florida
+10/16/17 18:41,New York,NY
+10/16/17 18:52,Washington,DC
+10/16/17 20:00,Shreridan,WY
+10/16/17 23:45,New York,New York
+10/17/17 0:52,New York,NY
+10/17/17 3:30,New York,NY
+10/17/17 4:33,New York,NY
+10/17/17 4:48,Orlando,Florida
+10/17/17 5:00,Venice Beach,CA
+10/17/17 5:22,Miami,FL
+10/17/17 5:32,Illinois,Chicago
+10/17/17 6:11,Chico,CA
+10/17/17 6:21,Whitewater,WI
+10/17/17 7:15,New York,NY
+10/17/17 8:00,Houston,Texas
+10/17/17 8:11,Fort Atkinson,WI
+10/17/17 8:11,Farmington,MI
+10/17/17 9:18,Wilton Manors,Florida
+10/17/17 9:21,New York,NY
+10/17/17 9:52,Hornell,NY
+10/17/17 10:03,Brooklyn,New York
+10/17/17 12:09,Baltimore,MD
+10/17/17 12:12,Washington,DC
+10/17/17 12:18,Baltimore,MD
+10/17/17 12:24,Washington,DC
+10/17/17 12:33,Washington,DC
+10/17/17 12:35,Atlanta,GA
+10/17/17 12:36,Washington,DC
+10/17/17 12:52,Baltimore,MD
+10/17/17 12:52,Baltimore,MD
+10/17/17 12:58,New York,NY
+10/17/17 13:02,Baltimore,MD
+10/17/17 13:03,Philadelphia,PA
+10/17/17 13:15,Atlanta,Georgia
+10/17/17 13:20,Annapolis,Maryland
+10/17/17 13:39,Jacksonville,FL
+10/17/17 13:48,Annapolis,Maryland
+10/17/17 13:53,Philadelphia,PA
+10/17/17 14:11,Coldwater,MI
+10/17/17 14:55,Washington,DC
+10/17/17 15:26,Washington,DC
+10/17/17 16:03,New York,NY
+10/17/17 16:15,Reading,PA
+10/17/17 16:21,Macon,Georgia
+10/17/17 17:28,New York,NY
+10/17/17 17:45,Riverside,CA
+10/17/17 18:07,Adelphi,MD
+10/17/17 18:07,Sioux City,IA
+10/17/17 18:23,Waldorf,MD
+10/17/17 18:41,Baltimore,MD
+10/17/17 19:03,Los Angeles,CA
+10/17/17 21:30,Kansas City,Missouri
+10/17/17 22:37,Huntington,WV
+10/17/17 23:33,New York,NY
+10/18/17 1:15,Washington,DC
+10/18/17 2:00,New York,NY
+10/18/17 2:01,New York,NY
+10/18/17 4:26,New York,NY
+10/18/17 5:00,New York,NY
+10/18/17 7:26,Rochester,NY
+10/18/17 8:00,Chicago,IL
+10/18/17 8:00,Oakland,CA
+10/18/17 8:45,Atlanta,GA
+10/18/17 9:07,Washington,DC
+10/18/17 9:18,Wilton Manors,Florida
+10/18/17 10:55,Fort Wayne,IN
+10/18/17 11:10,Staten Island,NY
+10/18/17 13:03,Seattle,WA
+10/18/17 14:11,Pearland,TX
+10/18/17 14:14,New York,NY
+10/18/17 15:06,New York,NY
+10/18/17 15:07,Shreveport,LA
+10/18/17 16:03,Tyler,TX
+10/18/17 16:37,Los Angeles,CA
+10/18/17 17:19,New York,NY
+10/18/17 17:44,Portland,Oregon
+10/18/17 17:52,Ames,IA
+10/18/17 18:07,Bayside,New York
+10/18/17 18:39,Seattle,WA
+10/18/17 20:45,San Francisco,CA
+10/18/17 21:18,Thousand Oaks,CA
+10/19/17 1:33,Franklin,Indiana
+10/19/17 1:41,Houston,Texas
+10/19/17 3:40,Staten Island,NY
+10/19/17 3:56,Miami,FL
+10/19/17 5:22,Norfolk,VA
+10/19/17 5:22,Salt Lake City,Utah
+10/19/17 6:04,Riverhead,NY
+10/19/17 7:03,Cambridge,MA
+10/19/17 7:53,Bossier City,LA
+10/19/17 8:15,Los Angeles,CA
+10/19/17 8:45,Moab,UT
+10/19/17 9:12,Seattle,WA
+10/19/17 10:03,St. Petersburg,FL
+10/19/17 13:48,New York,NY
+10/19/17 14:22,Washington,DC
+10/19/17 16:26,Davis,CA
+10/19/17 23:33,Davenport,IA
+10/20/17 1:15,Pittsburgh,PA
+10/20/17 2:56,Barksdale Air Force Base,LA
+10/20/17 5:56,Georgetown,DE
+10/20/17 7:15,Georgetown,DE
+10/20/17 7:25,Emeryville,CA
+10/20/17 8:56,Wilton Manors,Florida
+10/20/17 9:36,New York,NY
+10/20/17 9:41,Washington,DC
+10/20/17 11:31,Binghamton,NY
+10/20/17 11:56,Fayette,NY
+10/20/17 12:30,Chicago,IL
+10/20/17 12:52,Washington,DC
+10/20/17 13:19,Philadelphia,PA
+10/20/17 15:18,Albany,NY
+10/21/17 8:00,Frederick,MD
+10/21/17 14:41,Fort Wayne,IN
+10/21/17 14:45,Staten Island,NY
+10/21/17 16:26,Washington,DC
+10/21/17 22:03,Fort Wayne,IN
+10/22/17 6:30,Portland,ME
+10/22/17 11:56,Willmar,MN
+10/22/17 12:30,Baton Rouge,LA
+10/22/17 19:09,Wilmington,DE
+10/22/17 21:07,Los Angeles,CA
+10/22/17 22:15,Torrington,CT
+10/22/17 22:15,Newton,IA
+10/23/17 1:26,New York,New York
+10/23/17 4:48,Bethesda,Maryland
+10/23/17 6:18,Montgomery,AL
+10/23/17 6:41,Fitchburg,MA
+10/23/17 9:30,Winters,CA
+10/24/17 3:16,New York,NY
+10/24/17 5:00,Washington,DC
+10/24/17 7:32,Minneapolis,MN
+10/24/17 8:22,Des Moines,IA
+10/24/17 9:18,Washington,DC
+10/24/17 9:18,Fargo,North Dakota
+10/24/17 9:23,Bryan,TX
+10/24/17 11:22,St. Paul,MN
+10/24/17 11:56,Harrisburg,Pennsylvania
+10/24/17 12:41,Philadelphia,PA
+10/24/17 13:15,New York,NY
+10/24/17 14:22,Spokane,WA
+10/24/17 15:18,New York,NY
+10/24/17 15:41,Joliet,IL
+10/24/17 16:15,Denver,CO
+10/24/17 18:30,Spokane,WA
+10/24/17 18:39,Spokane,WA
+10/24/17 20:08,Moundville,AL
+10/24/17 21:07,Huntington,WV
+10/24/17 23:20,Fresno,CA
+10/25/17 0:20,Stanford,CA
+10/25/17 3:34,Philadelphia,PA
+10/25/17 4:37,Bellevue,WA
+10/25/17 5:30,Washington,District of Columbia
+10/25/17 6:20,Salt Lake City,UT
+10/25/17 6:30,Arlington,Virginia
+10/25/17 7:03,Rochester,MN
+10/25/17 7:03,Normal,IL
+10/25/17 7:32,Olympia,Washington
+10/25/17 8:00,West Palm Beach,Florida
+10/25/17 9:31,Spokane,WA
+10/25/17 11:28,Wilmington,DE
+10/25/17 13:07,Easton,PA
+10/25/17 13:48,Indianapolis,IN
+10/25/17 14:52,Pittsburgh,PA
+10/25/17 15:16,Visalia,CA
+10/25/17 15:30,new york,ny
+10/25/17 15:47,Centralia,WA
+10/25/17 15:52,Fresno,CA
+10/25/17 16:37,Lansing,MI
+10/25/17 18:30,Fresno,CA
+10/25/17 21:41,Binghamton,NY
+10/25/17 22:36,Thousand Oaks,CA
+10/26/17 4:03,Washington,DC
+10/26/17 7:15,Cambridge,MA
+10/26/17 8:22,Moab,Utah
+10/26/17 10:15,Washington,DC
+10/26/17 10:34,Raleigh,NC
+10/26/17 11:11,New York,NY
+10/26/17 11:33,Atlanta,GA
+10/26/17 12:16,Lexington,KY
+10/26/17 12:52,New York,NY
+10/26/17 12:52,Iowa City,Iowa
+10/26/17 14:26,Chicago,IL
+10/26/17 15:20,New York,NY
+10/26/17 16:26,Seattle,WA
+10/26/17 17:17,Minneapolis,MN
+10/26/17 21:07,Fresno,CA
+10/26/17 21:07,Philadelphia,PA
+10/26/17 21:52,New York,NY
+10/27/17 2:11,Stanford,CA
+10/27/17 2:11,San Ramon,CA
+10/27/17 2:56,Phillipsburg,MO
+10/27/17 4:21,Oswego,NY
+10/27/17 5:11,San Ramon,CA
+10/27/17 5:22,San Ramon,CA
+10/27/17 6:18,Venice Beach,CA
+10/27/17 9:02,New York,NY
+10/27/17 9:18,Howard Beach,New York
+10/27/17 13:17,San Francisco,CA
+10/27/17 14:22,Joliet,IL
+10/27/17 15:04,Cincinnati,OH
+10/27/17 15:41,Hartford,CT
+10/27/17 20:00,New York,NY
+10/28/17 5:56,San Diego,CA
+10/28/17 17:17,Seattle,WA
+10/28/17 17:33,New London,CT
+10/29/17 10:26,Pasadena,CA
+10/29/17 11:22,Hampstead,New Hampshire
+10/29/17 12:45,Kansas City,MO
+10/29/17 13:43,Tempe,Arizona
+10/29/17 15:41,Chicago,IL
+10/30/17 2:39,Westport,CT
+10/30/17 4:37,Venice Beach,CA
+10/30/17 5:00,Midland,MI
+10/30/17 5:09,Chicago,IL
+10/30/17 6:52,Overland Park,KS
+10/30/17 8:17,Queens,NY
+10/30/17 8:35,Wilton Manors,Florida
+10/30/17 9:00,New York,New York
+10/30/17 10:15,San Francisco,CA
+10/30/17 10:31,Twin Falls,ID
+10/30/17 11:03,San Leandro,CA
+10/30/17 12:07,New York,NY
+10/30/17 12:41,San Diego,CA
+10/30/17 13:03,Spokane,WA
+10/30/17 14:00,Kingston,NY
+10/30/17 14:02,Middletown,NY
+10/30/17 14:33,Pocatello,ID
+10/30/17 15:30,Washington,DC
+10/30/17 15:41,Boise,ID
+10/30/17 16:12,Green Bay,WI
+10/30/17 17:17,San Diego,CA
+10/30/17 19:37,Albany,NY
+10/30/17 22:26,Ann Arbor,MI
+10/31/17 0:48,Pocatello,ID
+10/31/17 7:02,Green Bay,WI
+10/31/17 9:33,New York,NY
+10/31/17 10:26,New York,NY
+10/31/17 10:37,Cambridge,MA
+10/31/17 12:21,Waterville,ME
+10/31/17 12:31,Washington,DC
+10/31/17 13:35,Chicago,IL
+10/31/17 16:15,Macon,Georgia
+10/31/17 17:56,Lexington,KY
+10/31/17 18:30,Fresno,CA
+10/31/17 21:09,Hartford,CT
+10/31/17 23:33,Oak Park,MI
+11/1/17 3:38,Hartford,CT
+11/1/17 5:00,San Francisco,CA
+11/1/17 5:45,Hilton Head Island,SC
+11/1/17 6:36,Cherry Hill,NJ
+11/1/17 6:49,New York,NY
+11/1/17 6:52,Galloway,NJ
+11/1/17 8:07,Washington,DC
+11/1/17 8:11,Philadelphia,PA
+11/1/17 8:22,Laredo,TX
+11/1/17 8:22,Philadelphia,PA
+11/1/17 8:35,Willingboro,New Jersey
+11/1/17 8:45,Jackson,MS
+11/1/17 8:45,Exeter,CA
+11/1/17 8:47,Hartford,CT
+11/1/17 8:48,New Haven,CT
+11/1/17 8:56,Charlottesville,VA
+11/1/17 8:56,Philadelphia,PA
+11/1/17 9:46,Oakmont,PA
+11/1/17 9:57,New York,NY
+11/1/17 10:15,Salt Lake City,UT
+11/1/17 10:31,New York,NY
+11/1/17 10:48,New York,New York
+11/1/17 11:00,New York City,NY
+11/1/17 11:22,New York,NY
+11/1/17 11:33,New York,New York
+11/1/17 11:45,Wilton,CT
+11/1/17 11:45,Bridgeport,CT
+11/1/17 12:07,Kennewick,WA
+11/1/17 12:10,Emporia,KS
+11/1/17 12:18,Pine River,MN
+11/1/17 12:18,Milwaukee,WI
+11/1/17 12:30,Portland,OR
+11/1/17 12:41,Washington,DC
+11/1/17 12:41,San Jose,CA
+11/1/17 13:03,Charlotte,NC
+11/1/17 13:03,Denver,CO
+11/1/17 13:15,New York,NY
+11/1/17 13:48,Venice Beach,CA
+11/1/17 13:48,New York,NY
+11/1/17 13:52,Harrison,NJ
+11/1/17 14:33,Richmond,VA
+11/1/17 14:45,New York,NY
+11/1/17 14:46,Macon,GA
+11/1/17 15:07,New York,NY
+11/1/17 15:07,Bellingham,WA
+11/1/17 15:18,New York,NY
+11/1/17 15:29,Pasadena,CA
+11/1/17 16:03,Chicago,IL
+11/1/17 16:48,Amherst,MA
+11/1/17 17:00,Bordentown,NJ
+11/1/17 18:14,New York,NY
+11/1/17 18:18,Amarillo,Texas
+11/1/17 18:18,Los Angeles,CA
+11/1/17 18:18,Atlanta,GA
+11/1/17 18:19,Atlanta,GA
+11/1/17 18:30,Clearfield,PA
+11/1/17 20:00,New York,NY
+11/1/17 21:30,Hartford,CT
+11/1/17 23:00,Crystal Lake,IL
+11/1/17 23:05,New York,NY
+11/1/17 23:56,Washington,D.C.
+11/2/17 0:30,Eugene,OR
+11/2/17 1:15,Cleveland,OH
+11/2/17 3:05,Hartford,CT
+11/2/17 3:30,New York,NY
+11/2/17 4:05,Raleigh,NC
+11/2/17 4:15,Keene,NH
+11/2/17 4:26,Westport,CT
+11/2/17 4:37,New York,NY
+11/2/17 5:27,Houston,TX
+11/2/17 5:56,Fort Collins,CO
+11/2/17 6:07,New York City,NY
+11/2/17 7:09,Wilmington,NC
+11/2/17 7:26,New York,NY
+11/2/17 7:37,Levittown,PA
+11/2/17 8:00,Atlanta,GA
+11/2/17 8:17,Austin,TX
+11/2/17 8:22,Howard Beach,New York
+11/2/17 8:46,Altadena,California
+11/2/17 8:52,Los Angeles,CA
+11/2/17 8:56,Kentland,Indiana
+11/2/17 8:56,Jackson,MS
+11/2/17 9:01,Louisville,KY
+11/2/17 9:07,New York,NY
+11/2/17 9:41,Wichita,KS
+11/2/17 9:47,Queens,NY
+11/2/17 9:52,Los Angeles,CA
+11/2/17 9:57,Overland Park,KS
+11/2/17 9:58,Queens,NY
+11/2/17 10:03,Trenton,NJ
+11/2/17 10:26,Oakland,CA
+11/2/17 10:28,Macon,Georgia
+11/2/17 11:33,Chester,New York
+11/2/17 11:45,Topeka,KS
+11/2/17 11:56,Geneseo,KS
+11/2/17 11:56,New York,NY
+11/2/17 12:06,New York,NY
+11/2/17 12:07,Topeka,KS
+11/2/17 12:16,New York,NY
+11/2/17 13:01,New York,NY
+11/2/17 13:15,New York,NY
+11/2/17 13:15,Gulf Breeze,FL
+11/2/17 13:26,San Ramon,CA
+11/2/17 13:37,Franklin,Indiana
+11/2/17 14:22,Mendon,NY
+11/2/17 14:28,Syracuse,NY
+11/2/17 14:33,Syracuse,NY
+11/2/17 14:44,Wichita,KS
+11/2/17 14:45,Wichita,KS
+11/2/17 15:30,Oswego,NY
+11/2/17 15:30,Norwalk,CT
+11/2/17 15:32,Kansas City,MO
+11/2/17 15:34,Hartford,CT
+11/2/17 15:41,Ogden,UT
+11/2/17 15:42,Wichita,Kansas
+11/2/17 15:55,Indianapolis,IN
+11/2/17 16:02,Indianapolis,IN
+11/2/17 16:14,Philadelphia,PA
+11/2/17 16:15,Los Angeles,CA
+11/2/17 16:37,Chicago,IL
+11/2/17 16:37,Indianapolis,IN
+11/2/17 16:37,Richmond,VA
+11/2/17 16:37,Los Angeles,CA
+11/2/17 17:00,Wichita,KS
+11/2/17 17:00,Venice Beach,CA
+11/2/17 18:07,Hartford,CT
+11/2/17 18:07,Hartford,CT
+11/2/17 18:52,Tampa,FL
+11/2/17 20:36,Salt Lake City,UT
+11/2/17 20:56,Philadelphia,PA
+11/3/17 0:21,San Ramon,CA
+11/3/17 2:45,New York,NY
+11/3/17 3:00,New York,NY
+11/3/17 4:26,Hackensack,NJ
+11/3/17 4:37,Knoxville,TN
+11/3/17 4:37,Knoxville,TN
+11/3/17 5:11,Overland Park,KS
+11/3/17 5:22,New York,NY
+11/3/17 5:22,Emeryville,CA
+11/3/17 5:45,Overland Park,KS
+11/3/17 5:56,Chicago,IL
+11/3/17 5:56,Clarksville,TN
+11/3/17 6:04,New York,NY
+11/3/17 6:06,Chicago,IL
+11/3/17 6:52,Waltham,MA
+11/3/17 7:03,Johns Creek,GA
+11/3/17 7:26,Hartford,CT
+11/3/17 7:37,Montgomery,AL
+11/3/17 7:37,Lawrence,KS
+11/3/17 7:47,Washington,DC
+11/3/17 7:52,Lawrence,KS
+11/3/17 7:55,Bryan,TX
+11/3/17 8:00,Nashville,Tennessee
+11/3/17 8:02,Indianapolis,IN
+11/3/17 8:45,Columbus,MS
+11/3/17 8:45,Manhattan,KS
+11/3/17 9:01,New York,NY
+11/3/17 9:30,New York,NY
+11/3/17 9:35,Neptune,NJ
+11/3/17 9:41,West Plains,MO
+11/3/17 9:41,Rock Hill,SC
+11/3/17 9:59,Waco,TX
+11/3/17 10:18,New York,New York
+11/3/17 11:11,Syracuse,NY
+11/3/17 11:33,Syracuse,NY
+11/3/17 11:45,Baltimore,MD
+11/3/17 11:56,Stamford,CT
+11/3/17 12:03,Washington,DC
+11/3/17 13:15,Wichita,KS
+11/3/17 13:29,New York,NY
+11/3/17 13:41,Franklin,Indiana
+11/3/17 14:00,Manhattan,KS
+11/3/17 14:00,Dulles,VA
+11/3/17 14:20,Tampa,Florida
+11/3/17 14:20,West Plains,MO
+11/3/17 14:45,Chicago,IL
+11/3/17 14:45,Westport,CT
+11/3/17 14:45,Atlanta,Georgia
+11/3/17 15:29,Washington,DC
+11/3/17 15:41,Santa Monica,CA
+11/3/17 15:41,Syracuse,NY
+11/3/17 15:52,Mount Hope,KS
+11/3/17 16:56,New York,NY
+11/3/17 17:08,San Leandro,CA
+11/3/17 20:56,Washington,DC
+11/3/17 22:25,Miami,FL
+11/4/17 7:48,Washington,DC
+11/4/17 8:33,Washington,DC
+11/4/17 9:30,Salt Lake City,UT
+11/4/17 10:15,San Francisco,CA
+11/4/17 10:15,San Francisco,CA
+11/4/17 11:00,Phoenix,AZ
+11/4/17 13:26,New York,NY
+11/4/17 13:48,Seal Beach,CA
+11/4/17 13:48,Seal Beach,CA
+11/4/17 15:23,Los Angeles,CA
+11/4/17 16:26,Warren,NJ
+11/4/17 17:00,Los Angeles,CA
+11/4/17 17:00,Adelphi,MD
+11/4/17 21:07,Hartford,CT
+11/4/17 21:20,Hartford,CT
+11/5/17 2:52,Trumbull,CT
+11/5/17 2:52,Bridgeport,CT
+11/5/17 5:03,Miami,FL
+11/5/17 6:15,Philadelphia,PA
+11/5/17 7:45,Fort Wayne,IN
+11/5/17 2:52,Greenwich,CT
+11/5/17 2:52,Trumbull,CT
+11/5/17 5:03,Miami,FL
+11/5/17 6:15,Philadelphia,PA
+11/5/17 7:45,Fort Wayne,IN
+11/5/17 16:33,Sacramento,CA
+11/5/17 20:41,Cambridge,MA
+11/5/17 22:00,Weirton,WV
+11/6/17 3:03,Westborough,MA
+11/6/17 3:37,Newburgh,NY
+11/6/17 7:00,Wakefield,MA
+11/6/17 7:00,Lowell,MA
+11/6/17 7:05,Boston,MA
+11/6/17 8:41,Atlanta,GA
+11/6/17 8:41,St. Louis,MO
+11/6/17 8:41,Atlanta,GA
+11/6/17 8:41,Knoxville,TN
+11/6/17 8:41,Knoxville,TN
+11/6/17 9:15,Venice Beach,CA
+11/6/17 9:32,Louisville,KY
+11/6/17 9:37,Springfield,MA
+11/6/17 10:07,Auburn,NY
+11/6/17 10:56,Memphis,TN
+11/6/17 11:30,Sacramento,CA
+11/6/17 13:11,Colonie,NY
+11/6/17 14:07,Waltham,MA
+11/6/17 14:31,New York,NY
+11/6/17 14:41,San Antonio,Texas
+11/6/17 14:52,Newark,NJ
+11/6/17 14:52,Hillsdale,MI
+11/6/17 14:52,Bradenton,FL
+11/6/17 14:52,Chicopee,MA
+11/6/17 15:17,Beverly,MA
+11/6/17 16:00,New York,NY
+11/6/17 16:22,Hays,KS
+11/6/17 17:30,Chester,New York
+11/6/17 18:15,Novato,CA
+11/6/17 18:26,Albany,NY
+11/6/17 19:03,Tampa,FL
+11/6/17 23:07,Denver,CO
+11/6/17 23:07,South Dennis,MA
+11/7/17 0:04,Englewood,CO
+11/7/17 2:00,Philadelphia,PA
+11/7/17 2:30,Berkeley,CA
+11/7/17 3:03,Newburyport,MA
+11/7/17 3:07,Hartford,CT
+11/7/17 3:24,Chester,New York
+11/7/17 3:26,Westborough,MA
+11/7/17 4:22,Boston,MA
+11/7/17 5:41,Springfield,MA
+11/7/17 6:15,Santa Ana,CA
+11/7/17 6:46,New York,NY
+11/7/17 6:46,Venice Beach,CA
+11/7/17 6:48,Los Angeles,CA
+11/7/17 7:57,Grand Rapids,MI
+11/7/17 8:07,New York,NY
+11/7/17 8:36,Grand Rapids,Michigan
+11/7/17 8:41,New York,NY
+11/7/17 8:50,New York,NY
+11/7/17 8:52,Mountain View,CA
+11/7/17 9:36,Grand Rapids,Michigan
+11/7/17 9:37,New York,NY
+11/7/17 10:13,Concord,NH
+11/7/17 10:45,Clinton,MA
+11/7/17 11:23,Grand Rapids,MI
+11/7/17 12:48,Washington,DC
+11/7/17 12:50,Frederick,MD
+11/7/17 14:18,Hillsdale,MI
+11/7/17 14:30,Washington,DC
+11/7/17 14:59,Overland Park,KS
+11/7/17 15:03,Los Angeles,CA
+11/7/17 16:16,New York,NY
+11/7/17 16:45,San Ramon,CA
+11/7/17 16:45,Hartford,CT
+11/7/17 16:52,Washington,DC
+11/7/17 20:30,Clinton,MA
+11/7/17 20:41,Grand Rapids,MI
+11/7/17 20:41,Kalamazoo,MI
+11/7/17 21:05,Boston,MA
+11/7/17 23:18,Hillsdale,MI
+11/8/17 2:41,Hartford,CT
+11/8/17 3:03,Houston,TX
+11/8/17 3:10,New York,NY
+11/8/17 3:12,Washington,DC
+11/8/17 4:22,Nashville,TN
+11/8/17 7:22,Yarmouth Port,MA
+11/8/17 7:33,Norwich,CT
+11/8/17 7:33,Miami,FL
+11/8/17 7:56,New York,NY
+11/8/17 7:56,Bridgeport,CT
+11/8/17 9:03,Wilton Manors,Florida
+11/8/17 9:03,Meriden,CT
+11/8/17 9:28,Grand Rapids,MI
+11/8/17 9:48,Brooklyn,New York
+11/8/17 10:56,Des Moines,IA
+11/8/17 12:03,Fort Wayne,IN
+11/8/17 12:15,Middletown,NY
+11/8/17 15:03,Sacramento,CA
+11/8/17 15:15,Nokomis,FL
+11/8/17 15:37,Hartford,CT
+11/8/17 16:22,Detroit,MI
+11/8/17 16:33,Durango,CO
+11/8/17 16:33,Falmouth,MA
+11/8/17 17:14,Stockton,CA
+11/8/17 17:18,Sacramento,CA
+11/8/17 17:41,Chicago,IL
+11/8/17 18:14,Las Vegas,NV
+11/8/17 21:32,Hartford,CT
+11/8/17 23:52,Cambridge,MA
+11/9/17 0:15,Sacramento,CA
+11/9/17 2:22,Chester,New York
+11/9/17 5:52,Newton,MA
+11/9/17 7:56,Geneseo,NY
+11/9/17 8:33,Nashville,Tennessee
+11/9/17 8:52,Cambridge,MA
+11/9/17 9:02,Edmonds,Washington
+11/9/17 9:03,Gorham,NY
+11/9/17 11:52,Delmar,New York
+11/9/17 15:48,Elmira,NY
+11/9/17 16:42,Washington,DC
+11/9/17 17:17,Jersey City,NJ
+11/9/17 23:18,Bellevue,WA
+11/10/17 3:26,San Ramon,CA
+11/10/17 5:36,Emeryville,CA
+11/10/17 7:45,Glendale,AZ
+11/10/17 8:07,Raynham,MA
+11/10/17 15:48,New York,NY
+11/10/17 17:41,Los Angeles,CA
+11/11/17 1:45,San Francisco,CA
+11/11/17 8:30,Springfield,MA
+11/11/17 9:37,Bozeman,MT
+11/11/17 15:12,Little Elm,TX
+11/12/17 3:05,Milwaukee,WI
+11/12/17 7:11,Phoenix,AZ
+11/12/17 10:33,Washington,DC
+11/13/17 2:18,New York,NY
+11/13/17 2:25,New York,NY
+11/13/17 3:47,Lowell,MA
+11/13/17 5:52,Washington,DC
+11/13/17 6:37,New York,NY
+11/13/17 6:46,New York,NY
+11/13/17 6:50,Pittsburgh,PA
+11/13/17 7:11,Hartford,CT
+11/13/17 7:41,New York,NY
+11/13/17 7:45,Washington,DC
+11/13/17 8:01,New York,NY
+11/13/17 8:07,New York,NY
+11/13/17 8:23,Houston,Texas
+11/13/17 8:30,Youngstown,OH
+11/13/17 8:30,Ypsilanti,MI
+11/13/17 8:30,Edison,NJ
+11/13/17 8:30,Hartford,CT
+11/13/17 8:47,Washington,DC
+11/13/17 8:52,Charleston,SC
+11/13/17 9:48,Salt Lake City,UT
+11/13/17 10:00,Moline,IL
+11/13/17 10:44,Washington,DC
+11/13/17 10:50,New York,NY
+11/13/17 10:56,Washington,DC
+11/13/17 10:56,Atlanta,GA
+11/13/17 11:07,Dickson,TN
+11/13/17 11:34,Ithaca,NY
+11/13/17 11:41,Milwaukee,WI
+11/13/17 11:41,West Palm Beach,FL
+11/13/17 11:52,Montgomery,AL
+11/13/17 12:03,Elmira,NY
+11/13/17 12:03,New York,NY
+11/13/17 12:26,Concord,NH
+11/13/17 12:26,Cortland,NY
+11/13/17 12:37,San Antonio,TX
+11/13/17 12:48,Secaucus,New Jersey
+11/13/17 12:51,Buffalo,NY
+11/13/17 13:22,Syracuse,NY
+11/13/17 13:33,Denver,CO
+11/13/17 13:33,Portland,ME
+11/13/17 13:45,Syracuse,NY
+11/13/17 13:48,Washington,District of Columbia
+11/13/17 13:56,Fort Worth,TX
+11/13/17 13:56,St-Cloud,MN
+11/13/17 13:56,Bena,MN
+11/13/17 14:06,Ithaca,NY
+11/13/17 14:18,Butte,MT
+11/13/17 14:18,Beloit,WI
+11/13/17 14:18,Milwaukee,WI
+11/13/17 14:33,Charlotte,NC
+11/13/17 14:38,New York,NY
+11/13/17 14:41,Seattle,WA
+11/13/17 14:52,Washington,DC
+11/13/17 14:52,Dell Rapids,SD
+11/13/17 14:52,Montgomery,AL
+11/13/17 14:52,Minneapolis,MN
+11/13/17 15:26,New York,New York
+11/13/17 15:26,Westfield,NY
+11/13/17 15:26,Fargo,ND
+11/13/17 15:49,Raleigh,NC
+11/13/17 15:57,San Francisco,CA
+11/13/17 16:11,Tempe,Arizona
+11/13/17 16:22,Hebron,IN
+11/13/17 17:41,Tucson,Arizona
+11/13/17 17:41,Houston,Texas
+11/13/17 18:03,Cherry Hill,NJ
+11/13/17 18:48,Salt Lake City,Utah
+11/13/17 20:30,Memphis,TN
+11/13/17 20:46,Minneapolis,MN
+11/13/17 21:03,Bastrop,TX
+11/13/17 21:48,Portland,OR
+11/13/17 22:00,Fort Wayne,IN
+11/13/17 23:41,Pearland,TX
+11/14/17 1:56,Dulles,VA
+11/14/17 1:56,Saginaw,MI
+11/14/17 2:18,New York,NY
+11/14/17 3:03,Storrs,CT
+11/14/17 3:10,New York City,New York
+11/14/17 3:26,Olivehurst,CA
+11/14/17 3:28,Bellevue,WA
+11/14/17 4:01,Phoenix,Arizona
+11/14/17 4:56,Annapolis,MD
+11/14/17 5:07,Baltimore,MD
+11/14/17 5:18,Pasadena,CA
+11/14/17 6:03,Raleigh,NC
+11/14/17 6:03,Boston,MA
+11/14/17 6:03,Portsmouth,NH
+11/14/17 6:26,Cedar Grove,WI
+11/14/17 7:21,Milwaukee,Wisconsin
+11/14/17 7:37,New York,New York
+11/14/17 8:07,New York,NY
+11/14/17 8:18,Wilton Manors,Florida
+11/14/17 8:18,Rochester,MN
+11/14/17 8:30,Chicago,IL
+11/14/17 8:30,Murfreesboro,TN
+11/14/17 11:06,Nashville,TN
+11/14/17 12:03,Matinecock,NY
+11/14/17 13:21,Colchester,VT
+11/14/17 13:22,Indianapolis,IN
+11/14/17 13:25,South Waltham,MA
+11/14/17 13:30,Boston,MA
+11/14/17 13:46,Salem,MA
+11/14/17 14:39,Philadelphia,PA
+11/14/17 15:05,Middletown,NY
+11/14/17 15:26,Chicago,IL
+11/14/17 15:28,Chicago,IL
+11/14/17 15:37,Los Angeles,CA
+11/14/17 16:00,Richmond,VA
+11/14/17 16:11,Las Vegas,NV
+11/14/17 18:03,San Francisco,CA
+11/14/17 18:37,Detroit,MI
+11/14/17 19:45,Rockford,IL
+11/14/17 20:07,New York,NY
+11/14/17 20:07,Burlington,VT
+11/14/17 20:41,Frankenmuth,MI
+11/14/17 22:18,Berkeley,CA
+11/14/17 22:56,Houston,Texas
+11/14/17 23:07,Berkeley,CA
+11/15/17 2:07,Altadena,California
+11/15/17 2:20,Altadena,California
+11/15/17 3:03,Houston,TX
+11/15/17 4:33,Portland,ME
+11/15/17 5:03,St. Louis,MO
+11/15/17 5:30,Providence,RI
+11/15/17 5:54,Cortland,NY
+11/15/17 6:26,Gorham,NY
+11/15/17 10:41,Columbia,SC
+11/15/17 11:16,San Francisco,CA
+11/15/17 11:59,Baltimore,MD
+11/15/17 12:09,New York,NY
+11/15/17 12:59,New York,NY
+11/15/17 17:15,Atlanta,Georgia
+11/15/17 18:54,Dekalb,IL
+11/15/17 21:48,Youngstown,OH
+11/15/17 22:56,Boise,ID
+11/16/17 3:03,San Francisco,CA
+11/16/17 3:37,Peru,IL
+11/16/17 4:33,Ogden,UT
+11/16/17 7:34,Kankakee,IL
+11/16/17 7:45,boston,ma
+11/16/17 9:03,Queens,NY
+11/16/17 10:00,San Diego,California
+11/16/17 10:16,New York,NY
+11/16/17 11:03,Los Angeles,CA
+11/16/17 12:48,Penfield,NY
+11/16/17 13:11,Marblehead,MA
+11/16/17 13:33,Fort Lauderdale,FL
+11/16/17 13:33,Fort Lauderdale,FL
+11/16/17 13:33,Indianapolis,IN
+11/16/17 13:56,Fort Lauderdale,FL
+11/16/17 14:41,Los Angeles,CA
+11/16/17 14:52,Santa Clarita,CA
+11/16/17 14:52,Los Angeles,CA
+11/16/17 15:03,Ann Arbor,mi
+11/16/17 16:00,Alford,MA
+11/16/17 16:11,Brattleboro,VT
+11/16/17 16:45,Los Angeles,CA
+11/16/17 16:56,Inglewood,CA
+11/16/17 20:07,White River Junction,VT
+11/17/17 3:26,Overland Park,KS
+11/17/17 3:37,Chicago,IL
+11/17/17 4:00,Durango,Colorado
+11/17/17 5:07,Indianapolis,IN
+11/17/17 5:30,Emeryville,CA
+11/17/17 5:52,Montgomery,AL
+11/17/17 6:13,Los Angeles,CA
+11/17/17 6:15,Sacaton,AZ
+11/17/17 7:30,Milwaukee,Wisconsin
+11/17/17 8:07,Los Angeles,CA
+11/17/17 8:52,Concord,NH
+11/17/17 10:18,Washington,DC
+11/17/17 13:33,Salt Lake City,UT
+11/17/17 14:14,Miami,FL
+11/17/17 15:48,Torrance,CA
+11/17/17 16:45,Salem,OR
+11/17/17 17:30,Nashville,TN
+11/17/17 20:18,Augusta,GA
+11/18/17 1:56,Philadelphia,PA
+11/18/17 7:33,Indian Wells,CA
+11/18/17 8:07,Salt Lake City,UT
+11/18/17 10:00,Newport News,VA
+11/18/17 10:00,Fargo,ND
+11/18/17 12:43,Boston,MA
+11/18/17 21:48,Auburn,NY
+11/19/17 6:03,Venice Beach,CA
+11/19/17 14:49,Hartford,CT
+11/20/17 4:00,Ypsilanti,MI
+11/20/17 4:14,DeKalb,IL
+11/20/17 7:13,Stamford,CT
+11/20/17 8:41,Wilkes-Barre,PA
+11/20/17 8:52,Gorham,NY
+11/20/17 9:41,Columbus,OH
+11/20/17 11:07,Edmonds,Washington
+11/20/17 13:33,New York,NY
+11/20/17 14:43,Washington,DC
+11/20/17 15:03,Merced,California
+11/20/17 15:32,New York,NY
+11/20/17 20:07,Los Angeles,CA
+11/21/17 3:00,Indianapolis,IN
+11/21/17 6:08,Los Angeles,CA
+11/21/17 6:13,Dallas-Fort Worth,TX
+11/21/17 6:26,Charleston,South Carolina
+11/21/17 7:33,Montgomery,AL
+11/21/17 8:58,Bridgeport,CT
+11/21/17 9:15,Washington,DC
+11/21/17 10:56,New Haven,CT
+11/21/17 10:56,Southfield,Michigan
+11/21/17 10:56,New York,NY
+11/21/17 11:30,Hartford,CT
+11/21/17 11:41,San Diego,CA
+11/21/17 12:03,New York,NY
+11/21/17 14:07,New York,NY
+11/21/17 14:18,Indianapolis,Indiana
+11/21/17 15:19,Crystal Lake,IL
+11/21/17 16:00,White River Junction,VT
+11/21/17 16:11,Salt Lake City,UT
+11/21/17 19:33,San Antonio,TX
+11/21/17 23:52,Farmington,MI
+11/22/17 5:27,Indianapolis,IN
+11/22/17 9:00,New York,NY
+11/22/17 11:41,Los Angeles,CA
+11/22/17 12:15,Los Angeles,CA
+11/22/17 13:22,Indianapolis,IN
+11/22/17 14:52,Los Angeles,CA
+11/22/17 17:52,Los Angeles,CA
+11/22/17 22:22,New York,NY
+11/23/17 8:07,New York,NY
+11/24/17 4:00,Edmond,OK
+11/24/17 5:52,Dickinson,ND
+11/24/17 7:11,Fern Park,FL
+11/24/17 7:33,Washington,DC
+11/24/17 19:33,Durango,Colorado
+11/25/17 9:03,Houston,Texas
+11/25/17 12:15,Cleveland,OH
+11/25/17 14:52,Orlando,FL
+11/25/17 15:33,Los Angeles,CA
+11/25/17 19:19,Parsippany,NJ
+11/25/17 20:18,Morristown,NJ
+11/27/17 2:52,Edgewater,NJ
+11/27/17 4:33,Knoxville,TN
+11/27/17 5:04,Redwood City,CA
+11/27/17 6:15,Indianapolis,Indiana
+11/27/17 12:15,San Diego,CA
+11/27/17 12:37,Santa Ana,CA
+11/27/17 13:56,Fayetteville,North Carolina
+11/28/17 4:00,Norwich,CT
+11/28/17 8:30,New York,NY
+11/28/17 9:37,New Haven,CT
+11/28/17 9:37,Portland,OR
+11/28/17 10:29,Pittsburgh,PA
+11/28/17 11:30,Roseburg,Oregon
+11/28/17 14:41,Chico,CA
+11/28/17 21:03,Portland,OR
+11/29/17 5:52,Evansville,IN
+11/29/17 8:07,Ithaca,New York
+11/29/17 8:33,Montgomery,AL
+11/29/17 9:03,Burlington,VT
+11/29/17 9:48,Farmington,MI
+11/29/17 10:33,San Diego,CA
+11/29/17 10:58,Madison,WI
+11/29/17 14:06,New York,NY
+11/29/17 14:07,Seattle,WA
+11/29/17 15:26,South Waltham,MA
+11/29/17 15:37,Boise,ID
+11/29/17 17:37,Clay Center,KS
+11/29/17 19:22,Seattle,WA
+11/29/17 19:56,New York,NY
+11/29/17 20:41,Chattanooga,TN
+11/29/17 20:41,New York,NY
+11/29/17 21:01,Albuquerque,NM
+11/29/17 22:03,Ypsilanti,MI
+11/30/17 1:13,New York,NY
+11/30/17 2:41,Monroe,Washington
+11/30/17 5:46,Montgomery,AL
+11/30/17 6:22,Austin,MN
+11/30/17 7:48,Los Angeles,CA
+11/30/17 7:56,Indianapolis,IN
+11/30/17 10:33,St. Louis,MO
+11/30/17 10:33,Washington,DC
+11/30/17 12:13,New York,NY
+11/30/17 12:34,Kansas City,MO
+11/30/17 12:48,Wichita,KS
+11/30/17 12:48,San Antonio,TX
+11/30/17 12:48,Hays,KS
+11/30/17 13:00,Kansas City,MO
+11/30/17 15:37,New York,NY
+11/30/17 19:11,Pittsburgh,PA
+11/30/17 23:41,Fayetteville,AK
+12/1/17 6:05,Emeryville,CA
+12/1/17 6:26,Framingham,MA
+12/1/17 7:33,Greeneville,TN
+12/1/17 7:45,New Providence,New Jersey
+12/1/17 8:52,Lawrence,KS
+12/1/17 11:21,Danbury,CT
+12/1/17 12:15,Torrance,California
+12/1/17 12:25,Charlotte,NC
+12/1/17 13:33,Boise,Idaho
+12/1/17 13:33,Hawthorne,CA
+12/1/17 13:56,Santa Barbara,CA
+12/1/17 18:05,San Leandro,CA
+12/2/17 3:03,Glens Falls,NY
+12/3/17 1:56,New York,NY
+12/3/17 16:00,Washington,DC
+12/3/17 22:00,Hillsdale,MI
+12/4/17 1:04,New York,New York
+12/4/17 4:56,Nokomis,FL
+12/4/17 5:07,Watertown,MA
+12/4/17 7:00,New York,NY
+12/4/17 7:00,New York,NY
+12/4/17 7:45,Mendon,NY
+12/4/17 8:12,Los Angeles,CA
+12/4/17 9:26,Kenai,AK
+12/4/17 10:44,Dallas,TX
+12/4/17 13:56,Evansville,IN
+12/4/17 14:18,San Diego,CA
+12/4/17 15:48,Indianapolis,IN
+12/4/17 16:11,Terre Haute,IN
+12/4/17 18:03,San Ramon,CA
+12/4/17 18:15,Houston,Texas
+12/4/17 21:03,Middletown,CT
+12/4/17 21:48,hempstead,NY
+12/4/17 23:07,San Ramon,CA
+12/5/17 6:00,Bonner Springs,KS
+12/5/17 6:15,Montgomery,AL
+12/5/17 8:07,Odessa,TX
+12/5/17 10:11,San Diego,CA
+12/5/17 10:16,Washington,DC
+12/5/17 10:22,Farmington,MI
+12/5/17 13:11,Fredericksburg,VA
+12/5/17 13:45,Kenai,AK
+12/5/17 13:45,Seattle,WA
+12/5/17 18:37,Rialto,CA
+12/6/17 8:09,Morristown,TN
+12/6/17 8:41,Los Alamitos,California
+12/6/17 10:45,San Diego,CA
+12/6/17 10:56,San Jose,CA
+12/6/17 11:30,Cambridge,MA
+12/6/17 12:15,Wilmington,NC
+12/6/17 12:26,Coldwater,MI
+12/6/17 12:48,Miami,FL
+12/6/17 19:22,Cincinnati,OH
+12/6/17 19:45,San Francisco,California
+12/7/17 2:07,Tampa,FL
+12/7/17 5:07,Santa Ana,CA
+12/7/17 5:37,Fitchburg,WI
+12/7/17 6:03,Tulsa,OK
+12/7/17 6:16,New York,NY
+12/7/17 8:07,Los Alamitos,California
+12/7/17 8:41,Amherst,MA
+12/7/17 8:52,Pittstown,NJ
+12/7/17 9:26,Elgin,IL
+12/7/17 10:11,Washington,DC
+12/7/17 10:11,Queens,NY
+12/7/17 11:18,Shelby,NC
+12/7/17 11:30,Howard Beach,New York
+12/7/17 11:41,Shelby,NC
+12/7/17 12:22,Salt Lake City,UT
+12/7/17 13:22,Cincinnati,OH
+12/7/17 13:33,New York,NY
+12/7/17 14:52,Willingboro,New Jersey
+12/7/17 15:26,Chicago,IL
+12/7/17 15:43,Annapolis,Maryland
+12/7/17 17:11,Muskogee,OK
+12/7/17 20:18,Cincinnatti,OH
+12/7/17 20:41,Chico,CA
+12/7/17 20:45,Indianapolis,IN
+12/8/17 3:15,New York,NY
+12/8/17 5:30,Maywood,CA
+12/8/17 5:30,Montgomery,AL
+12/8/17 5:30,Emeryville,CA
+12/8/17 7:45,Southgate,MI
+12/8/17 11:07,Westport,CT
+12/8/17 12:37,Philadelphia,PA
+12/8/17 12:37,Langhorne,PA
+12/8/17 12:37,Philadelphia,PA
+12/8/17 12:37,Oakland,CA
+12/8/17 13:22,San Diego,CA
+12/8/17 14:18,Falls Church,VA
+12/8/17 14:18,Chicago,IL
+12/8/17 14:52,Pendleton,Oregon
+12/8/17 17:07,Willingboro,New Jersey
+12/8/17 17:18,Frankenmuth,MI
+12/8/17 17:18,Miamisburg,Ohio
+12/8/17 17:18,Lewiston,ID
+12/8/17 17:18,Columbus,IN
+12/8/17 17:18,Providence,RI
+12/8/17 17:18,Washington,DC
+12/8/17 17:18,Hurricane,WV
+12/8/17 17:18,South Bend,IN
+12/8/17 17:18,Seattle,WA
+12/8/17 17:18,Reno,NV
+12/8/17 17:18,Medford,OR
+12/8/17 17:18,Birch Run,MI
+12/8/17 17:18,Franklin,Indiana
+12/8/17 17:18,Portland,ME
+12/8/17 17:18,San Antonio,Texas
+12/8/17 17:18,Rochester,NY
+12/8/17 17:18,Oklahoma City,OK
+12/8/17 17:18,Little Rock,AR
+12/8/17 17:18,Tulsa,OK
+12/8/17 17:18,Albany,NY
+12/8/17 17:18,Reno,Nevada
+12/8/17 17:18,Toledo,OH
+12/8/17 17:18,Chicago,IL
+12/8/17 17:18,Yakima,WA
+12/8/17 17:18,Asheville,NC
+12/8/17 17:18,Kearney,NE
+12/8/17 17:18,Bakersfield,CA
+12/8/17 17:18,North Bend,OR
+12/8/17 17:18,Steubenville,OH
+12/8/17 17:18,Nashville,TN
+12/8/17 17:18,Chicago,IL
+12/8/17 17:18,Seattle,WA
+12/8/17 17:18,Salt Lake City,UT
+12/8/17 17:18,Lynchburg,VA
+12/8/17 17:18,Syracuse,NY
+12/8/17 17:18,Beloit,WI
+12/8/17 17:30,Minneapolis,MN
+12/8/17 17:30,Belleville,IL
+12/8/17 17:35,Lynchburg,VA
+12/8/17 17:39,St. Louis,MO
+12/8/17 17:51,Columbia,MO
+12/8/17 17:52,Chicago,IL
+12/8/17 18:37,Washington,DC
+12/8/17 18:41,Portland,OR
+12/8/17 18:41,Beaumont,Texas
+12/8/17 18:46,Roseburg,Oregon
+12/8/17 19:37,Tampa,Florida
+12/9/17 9:37,Fairfield,CT
+12/9/17 11:21,San Ramon,CA
+12/9/17 11:39,New York,NY
+12/9/17 13:57,Harrison,NJ
+12/9/17 17:07,New York,NY
+12/10/17 3:01,Detroit,MI
+12/10/17 5:52,Fort Collins,CO
+12/10/17 7:00,Jackson,MI
+12/10/17 9:03,Grand Rapids,MI
+12/10/17 9:29,Harrison,NJ
+12/10/17 11:41,Washington,DC
+12/10/17 12:15,Cleveland,OH
+12/10/17 13:00,Portland,Oregon
+12/10/17 16:56,Washington,DC
+12/11/17 3:03,Hartford,CT
+12/11/17 3:03,Washington,DC
+12/11/17 4:33,Detroit,MI
+12/11/17 5:31,Evergreen,VA
+12/11/17 8:31,Washington,DC
+12/11/17 9:25,New Tazewell,TN
+12/11/17 11:57,Annapolis,MD
+12/11/17 12:03,Hyde Park,NY
+12/11/17 13:13,Ridgefield,CT
+12/11/17 15:15,Ann Arbor,mi
+12/11/17 15:26,Grand Rapids,MI
+12/11/17 16:00,Washington,DC
+12/11/17 17:30,Pittsburgh,PA
+12/11/17 17:41,Grass Valley,CA
+12/11/17 20:30,Toledo,Ohio
+12/11/17 22:33,Crystal Lake,IL
+12/12/17 2:52,Suffern,NY
+12/12/17 4:22,Brookfield,CT
+12/12/17 7:22,San Francisco,CA
+12/12/17 7:46,Montgomery,AL
+12/12/17 7:56,Pensacola,FL
+12/12/17 8:19,Framingham,MA
+12/12/17 9:35,San Leandro,CA
+12/12/17 10:54,Dallas,TX
+12/12/17 16:15,Annapolis,Maryland
+12/12/17 16:45,San Juan Capistrano,CA
+12/12/17 17:11,Santa Ana,CA
+12/12/17 18:15,Island Lake,IL
+12/12/17 20:52,Los Angeles,CA
+12/13/17 2:08,Los Angeles,CA
+12/13/17 4:09,Greenville,SC
+12/13/17 5:18,New York,NY
+12/13/17 6:43,Haverhill,MA
+12/13/17 8:52,Chesterfield,VA
+12/13/17 9:13,Chesterfield,VA
+12/13/17 10:00,Los Alamitos,California
+12/13/17 11:41,Wausau,WI
+12/13/17 12:37,Santa Monica,CA
+12/13/17 13:33,Wausau,WI
+12/13/17 14:18,Washington,DC
+12/13/17 16:22,Mosinee,WI
+12/13/17 16:33,Falls Church,VA
+12/13/17 17:04,North Andover,MA
+12/13/17 18:15,San Francisco,CA
+12/13/17 19:33,Vacaville,CA
+12/14/17 3:26,Baltimore,MD
+12/14/17 7:52,Miami,FL
+12/14/17 7:56,Pine Ridge,SD
+12/14/17 9:15,Indianapolis,IN
+12/14/17 10:38,Los Angeles,CA
+12/14/17 12:15,San Francisco,CA
+12/14/17 13:51,Washington,DC
+12/14/17 13:56,New York,NY
+12/14/17 13:56,New York,NY
+12/14/17 14:07,Calabasas,CA
+12/14/17 21:14,Winchester,VA
+12/15/17 4:33,Dearbom,MI
+12/15/17 5:30,Montgomery,AL
+12/15/17 5:45,Emeryville,CA
+12/15/17 8:30,Milwaukee,Wisconsin
+12/15/17 10:00,Winchester,VA
+12/15/17 13:33,New York,NY
+12/15/17 14:52,Seal Beach,CA
+12/15/17 19:22,Vermillion,South dakoda
+12/16/17 7:11,Berryville,VA
+12/16/17 16:13,Washington,DC
+12/16/17 19:45,Washington,DC
+12/16/17 21:03,Longview,Texas
+12/17/17 7:39,Bryan,TX
+12/17/17 11:18,Los Angeles,CA
+12/18/17 0:03,Columbus,IN
+12/18/17 4:33,New York,NY
+12/18/17 6:03,Montgomery,AL
+12/18/17 6:03,Illinois,Chicago
+12/18/17 6:37,Little Rock,AR
+12/18/17 6:39,Allentown,PA
+12/18/17 8:08,New York,NY
+12/18/17 8:41,Rockville,Maryland
+12/18/17 10:33,Plainview,TX
+12/18/17 10:46,Beaumont,tx
+12/18/17 10:48,Bad Axe,MI
+12/18/17 11:07,Waterloo,Iowa
+12/18/17 11:18,Boston,MA
+12/18/17 11:30,New York,NY
+12/18/17 11:52,Illinois,Chicago
+12/18/17 12:03,Cocoa,FL
+12/18/17 12:44,Tupelo,MS
+12/18/17 12:48,Pearland,TX
+12/18/17 14:18,Rochester,NY
+12/18/17 14:25,Mendon,NY
+12/18/17 14:52,Auburn,NY
+12/18/17 15:48,West Palm Beach,FL
+12/18/17 15:48,West Palm Beach,FL
+12/18/17 15:48,Wichita,KS
+12/18/17 16:13,Atlantic City,NJ
+12/18/17 17:07,New York,New York
+12/18/17 18:03,Albany,New York
+12/18/17 18:26,Danbury,CT
+12/18/17 18:26,Vineland,NJ
+12/18/17 19:56,Albany,NY
+12/18/17 21:03,New York,New York
